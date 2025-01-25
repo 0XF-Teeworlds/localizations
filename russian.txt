@@ -1,0 +1,2336 @@
+Info
+== Информация
+
+Back
+== Назад
+
+Username
+== Имя пользователя
+
+Not authorized
+== не авторизован
+
+verified
+== подтверждён
+
+not verified
+== не подтверждён
+
+Contact
+== Контакт
+
+Pin
+== Пин код
+
+Level
+== Уровень
+
+Experience
+== Опыт
+
+Bank
+== Банк
+
+Wallet
+== Кошелёк
+
+Laser-Ammo
+== Патроны для лазера
+
+Dash
+== Дэши
+
+Shop
+== Магазин
+
+Upgrades
+== Улучшения
+
+Statistic
+== Статистика
+
+Cash
+== Деньги
+
+Online
+== Онлайн
+
+Block
+== Блок
+
+Duel
+== Дуэль
+
+Duel Block
+== Блок Дуэль
+
+Arena
+== Арена
+
+Laser Room
+== Лазерная комната
+
+Battle
+== Батл
+
+Catch
+== Догонялки
+
+Hide and Seek
+== Прятки
+
+Karting
+== Картинг
+
+Bomb
+== Бомба
+
+Spike
+== Шип
+
+Quest
+== Квест
+
+Reward
+== Награда
+
+Authorize to get access to account benefits:
+== Авторизуйся для доступа:
+
+1. Register: '/register <username> <password>'
+== 1. Регистрация: '/register <username> <password>'
+
+2. Login: '/login <username> <password>'
+== 2. Авторизация: '/login <username> <password>'
+
+3. Protection: '/pin <pin>'
+== 3. Защита: '/pin <pin>'
+
+Votes
+== Голосования
+
+Game Votes
+== Игровые голосования
+
+Empty
+== Пусто
+
+Not loaded
+== Не загружено
+
+Buy
+== Купить
+
+Buy {} units [{}$]
+== Купить {} шт. [{}$]
+
+Buy forever [{}$]
+== Купить навсегда [{}$]
+
+Buy for a week [{}$]
+== Купить на неделю [{}$]
+
+Room owned by '{-}' → {}
+== Комната '{-}' → {}
+
+Buy for a month
+== Купить на месяц
+
+Buy for a year
+== Купить на год
+
+Buy for X months (Type number in vote reason)
+== Купить на X месяцев (Введите число в причину голосования)
+
+You don't have upgrades
+== У вас нет улучшений
+
+Use the shop to buy them
+== Используйте магазин чтобы купить что-либо
+
+Deposit
+== Положить на счёт
+
+Withdraw
+== Вывести с счёта
+
+Please specify correct amount in vote reason.
+== Укажите корректную сумму в причине голосования.
+
+Use value in vote reason
+== Укажите сумму в причине
+
+Leave reason blank to put all in (deposit only)
+== Пустая чтобы положить всё
+
+Click tab to hide
+== Нажмите таб чтобы скрыть
+
+Arena.
+== Арена.
+
+Here you need to be the last one left alive in the arena.
+== Здесь вам необходимо последним остаться живым на арене.
+
+The last player left in the arena gets a nice reward.
+== Последний игрок оставшийся на арене получает хорошую награду.
+
+Battle.
+== Батл.
+
+In this team game, you need to capture the enemy flag and bring it to your base.
+== В этой командной игре вам необходимо захватить флаг противника и принести его на свою базу.
+
+The transport on the map should help you. You will automatically get into it as soon as you are in the vicinity.
+== Транспорт на карте должен помочь вам. Вы автоматически сядете в него как только будете находиться поблизости.
+
+In this team game, you need to get a team score high enough to win.
+== В этой командной игре вам необходимо набрать командный счёт достаточный для победы.
+
+Capture the opposing team's base and hold the flag.
+== Захватывайте базу противоположной команды и удерживайте флаг.
+
+Bomb.
+== Бомба.
+
+If you have a flag, you have a bomb attached to you.
+== Если у вас есть флаг, то на вас закреплена бомба.
+
+It will explode if you do not pass it to another player in the allotted time.
+== Она взорвётся если не передать её другому игроку за отведённое время.
+
+If you don't have a flag, you have to run away from the player with the flag.
+== Если у вас нет флага, вам нужно убегать от игрока с флагом.
+
+The laser should help you cross the obstacles faster.
+== Лазер должен помочь вам быстрее пересекать преграды.
+
+In this casino you have the opportunity to test your intuition and increase your money or, on the contrary, lose all your funds.
+== В этом казино у вас есть возможность проверить свою интуицию и увеличить свои деньги или, наоборот, потерять все свои средства.
+
+To place a bet, write the command /bet <amount>, then select the desired bet type and left click with hammer on the bet type button.
+== Чтобы сделать ставку, напишите команду /bet <сумма>, затем выберите желаемый тип ставки и щелкните левой кнопкой мыши на кнопку типа ставки.
+
+Betting 1-12, 13-24, 24-36 gives x3 if you win (returns your bet and two more on top), at 0 gives x36, odd/red/black/even gives x2.
+== Ставка 1-12, 13-24, 24-36 даёт x3 при победе (возвращает вашу ставку и ещё две сверху), на 0 даёт x36, нечётное/красное/чёрное/чётное дают x2.
+
+Catching up.
+== Догонялки.
+
+If you have a flag, you must catch up and hit the hammer and freeze all players.
+== Если у вас есть флаг, то вы должны догнать и ударить молотком и заморозить всех игроков.
+
+If you don't have a flag, you must run away from the player with the flag.
+== Если у вас нет флага, вам нужно убегать от игрока с флагом.
+
+If your mate is frozen, hit him with the hammer 10 times to save him.
+== Если ваш товарищ заморожен, ударьте его молотком 10 раз для спасения.
+
+The laser should help you cross obstacles faster.
+== Лазер должен помочь вам быстрее пересекать преграды.
+
+Climbing.
+== Скалолазание.
+
+In this mode you can slide on walls. Press the button to move towards the wall.
+== В этом режиме вы можете скользить по стенам. Нажимайте кнопку движения к стене для этого.
+
+Once you get to the top you will be able to enter a special room.
+== Добравшись до самого верха вы сможете пройти в специальную комнату.
+
+Hide and seek.
+== Прятки.
+
+If you have a flag, you must catch up and hit all players with the hammer. The gun will help you to know the direction.
+== Если у вас есть флаг, то вы должны догнать и ударить молотком всех игроков. Пистолет поможет вам узнать направление.
+
+If you don't have a flag, you have to hide from the player with the flag. You are not visible in grey areas until you are approached closely.
+== Если у вас нет флага, вам нужно скрываться от игрока с флагом. Вас не видно в серых зонах до тех пор, пока к вам не подойдут вплотную.
+
+The hammer will help you activate your invisibility ability. Keep an eye on the progress bar, grey zones replenish your invisibility.
+== Молоток поможет вам активировать вашу способность невидимости. Следите за прогресс баром, серые зоны восполняют ваш запас невидимости.
+
+Karting.
+== Картинг.
+
+Here you need to be the first to come to the finish line after driving the required number of laps.
+== Здесь вам необходимо первым прийти к финишу проехав необходимое количество кругов.
+
+Collect money, they will come to you on account if you manage to complete the race.
+== Собирайте деньги, они поступят вам насчёт если вы успеете завершить гонку.
+
+Pick up bonuses, they will help you get ahead of your rivals.
+== Подбирайте бонусы, они помогут вам опережать соперников.
+
+Undertale in Teeworlds.
+== Undertale на минималках.
+
+You need to stay in this room until the timer expires.
+== Вам необходимо продержаться в этой комнате до истечения таймера.
+
+Lasers will hinder you, you need to dodge and avoid them if you want to survive.
+== Лазеры будет мешать вам, вам необходимо уклоняться и избегать их если вы хотите выжить.
+
+Hurry to enter the room with the reward, it opens 5 seconds before the timer expires.
+== Успейте завти в комнату с наградой, она открывается за 5 секунд до окончания таймера.
+
+Use the command '/showothers' to see the other participants.
+== Используй команду '/showothers', чтобы видеть остальных участников.
+
+Tournament.
+== Турнир.
+
+Here you need to defeat all other participants.
+== Здесь вам необходимо победить всех остальных участников.
+
+You need to win twice to advance to the next stage.
+== Вам необходимо два раза одержать победу для прохождения на следующий этап.
+
+The last player left in the tournament gets a nice reward.
+== Последний игрок оставшийся в турнире получает хорошую награду.
+
+Roulette
+== Рулетка
+
+Members
+== Участники
+
+All bets
+== Все ставки
+
+Start in
+== Начало через
+
+Roulette result: Number: {}!
+== Результат рулетки: Номер: {}!
+
+You created bet ({}$ to {}), wait {} seconds until start.
+== Вы сделали ставку ({}$ на {}), подождите {} секунд до начала.
+
+zero
+== ноль
+
+odd
+== нечётное
+
+red
+== красное
+
+black
+== чёрное
+
+even
+== чётное
+
+Wait next round to choose bet type!
+== Подождите следующего раунда чтобы выбрать тип ставки!
+
+Wait next round!
+== Подождите следующего раунда!
+
+Wait next round to make a bet!
+== Подождите следующего раунда чтобы сделать ставку!
+
+There is no game around you!
+== Рядом с вами нет игры!
+
+You need make a bet first, example '/bet 1'.
+== Вам нужно сначала сделать ставку, например '/bet 1'.
+
+You make a bet {}$, now press one of the buttons with hammer to choose a type.
+== Вы сделали ставку {}$, теперь нажмите молотком на кнопки снизу для выбора типа ставки.
+
+You make a bet {}$, auto cash out on x{~.2}, wait {} seconds until start.
+== Вы сделали ставку {}$, авто вывод на x{~.2}, подождите {} секунд до начала.
+
+You make a bet {}$, auto cash out not specified, wait {} seconds until start.
+== Вы сделали ставку {}$, авто вывод не задан, подождите {} секунд до начала.
+
+You have not enough cash!
+== Недостаточно денег в кошельке!
+
+Amount should be more than zero!
+== Значение должно быть больше нуля!
+
+Bets available only in casino!
+== Ставки можно делать только в казино!
+
+Check your command, example: '/pay 100 Tee'.
+== Проверьте вашу команду, пример: '/pay 100 Tee'.
+
+You don't have this cash amount.
+== У вас нет такого количества денег.
+
+The minimum amount for the transfer of money is {}.
+== Минимальное количество для передачи денег это {}.
+
+Can't find player with given name.
+== Не получилось найти игрока с таким именем.
+
+Can't transfer cash to yourself.
+== Нельзя передавать деньги самому себе.
+
+Bank disabled.
+== Банк отключен.
+
+You need to be logged in your account.
+== Вам необходимо авторизоваться в ваш аккаунт.
+
+Your character should be alive!
+== Ваш персонаж должен быть жив!
+
+Target character should be alive!
+== Персонаж получателя должен быть жив!
+
+There is no bank near you!
+== Рядом с вами нет банка!
+
+You have no money on your account!
+== На вашем аккаунте нет денег!
+
+You have only {}$ on your account. This amount will be withdrawn to your wallet.
+== У вас есть только {}$ на аккаунте. Эта сумма будет выдана вам в кошелёк.
+
+Your wallet is empty!
+== Ваш кошелёк пуст!
+
+You have only {}$ in your wallet. This amount will be deposited into your account.
+== У вас есть только {}$ в кошельке. Эта сумма будет положена на счёт вашего аккаунта.
+
+There is no bank near you or near receiver, transfer cash possible only both in the bank!
+== Рядом с вами или с получателем нет банка, переводы возможны только когда оба участника в банке!
+
+This player is not logged in.
+== Этот игрок не авторизован.
+
+Withdraw succeed, bank balance: {} (-{})
+== Вывод успешен, остаток в банке: {} (-{})
+
+Cash transferred, bank balance: {} (-{})
+== Деньги переведены, остаток в банке: {} (-{})
+
+Cash received, bank balance: {} (+{})
+== Деньги получены, остаток в банке: {} (+{})
+
+Not verified. Use '/pin <pin>' to verify yourself.
+== Не подтверждён. Используйте '/pin <пин>' чтобы подтвердить себя.
+
+You have been banned from the account system for {} seconds ({})
+== Вы заблокированы в системе аккаунтов на {} секунд ({})
+
+Too many pin fails
+== Слишком много попыток ввода пин кода
+
+Already logged in, if you want change account write '/logout' first.
+== Уже авторизован. Если вы хотите сменить аккаунт напишите сначала '/logout'.
+
+Account already in use.
+== Аккаунт уже используется.
+
+Not authorized!
+== Не авторизован!
+
+Successfully logout.
+== Вы успешно вышли из аккаунта.
+
+Wrong command usage, use '/help $s' for command info.
+== Неправильно использована команда, напишите '/help $s' для информации.
+
+Wrong login length, allowed {}-{} symbols.
+== Неправильная длинна логина, разрешено {}-{} символов.
+
+Wrong password length, allowed {}-{} symbols.
+== Неправильная длинна пароля, разрешено {}-{} символов.
+
+>>> SECURITY PIN <<<
+== >>> ПИН КОД БЕЗОПАСНОСТИ <<<
+
+You should set a security pin to avoid account stealing. The pin itself has to be a 4-digit long number code.
+== Чтобы избежать кражи аккаунта, необходимо установить защитный пин-код. Сам пин-код должен состоять из четырех цифр.
+
+This pin will be required to change your contact information or your password.
+== Этот пин будет необходим для изменения контактной информации или пароля.
+
+If your account is not secured yet, you can set a pin with '/pin <new-pin>'.
+== Если ваш аккаунт еще не защищен, вы можете установить пин-код с помощью команды '/pin <новый-пин>'.
+
+If you want to change your pin, you first need to verify using '/pin <account-pin>'.
+== Если вы хотите изменить свой пин-код, сначала необходимо пройти верификацию с помощью команды '/pin <текущий-пин>'.
+
+After verifying, you can set a new pin with '/pin <new-pin>'.
+== После верификации вы можете установить новый пин с помощью команды '/pin <новый-пин>'.
+
+Pin verification succeed!
+== Пин код верификация пройдена!
+
+Pin verification failed!
+== Неверный пин код!
+
+New pin has to be a 4-digit long number code. Example: 1234.
+== Новый пин-код должен состоять из 4 цифр. Пример: 1234.
+
+You need to enter a way to contact you, for example: Discord, E-Mail, Skype, etc.
+== Вам необходимо указать способ связи с вами, например: Discord, E-Mail, Skype и т.д.
+
+To see your current contact information, use '/acc' command or 'Call vote' menu.
+== Чтобы просмотреть текущую контактную информацию, воспользуйтесь командой '/acc' или меню 'Голосования'.
+
+You successfully authorized in your account.
+== Вы успешно авторизовались в ваш аккаунт.
+
+WARNING! You did not set a contact, it can be used to recover your password or to get back the account after it got stolen.
+== ВНИМАНИЕ! Вы не установили контакт, который может быть использован для восстановления пароля или возврата аккаунта после его кражи.
+
+Set a contact with '/contact <option>' to hide this message.
+== Установите контакт с помощью '/contact <контакт>', чтобы скрыть это сообщение.
+
+WARNING! You did not set security pin yet. Check command '/pin' for more information.
+== ВНИМАНИЕ! Вы еще не установили пин безопасности. Проверьте команду '/pin' для получения дополнительной информации.
+
+WARNING! You didn't link discord, it can be used to recover your account.
+== ВНИМАНИЕ! Вы не привязали дискорд, который может быть использован для восстановления аккаунта.
+
+Link discord using '/link_discord' to hide this message.
+== Установите контакт с помощью '/link_discord', чтобы скрыть это сообщение.
+
+Balance updated: {} ({-}{})
+== Баланс обновлён: {} ({-}{})
+
+Wrong item identifier!
+== Неправильный идентификатор предмета!
+
+Already have this item!
+== У вас уже есть этот предмет!
+
+Too many requests!
+== Слишком много запросов!
+
+days
+== дней
+
+hours
+== часов
+
+minutes
+== минут
+
+seconds
+== секунд
+
+times
+== раз
+
+usages
+== исп.
+
+unknown
+== неизвестно
+
+Use 'Call vote' menu to access shop!
+== Используйте меню 'Голосования' для доступа к магазину!
+
+Your protected nickname now is '{-}', which you used when you registered, if you want to change it please contact the administration.
+== Ваш защищенный ник теперь '{-}', который вы использовали при регистрации, если вы хотите изменить его, обратитесь к администрации.
+
+You haven't this upgrade.
+== У вас нет этого улучшения.
+
+This upgrade is not allowed in your current game type or zone.
+== Это улучшение не разрешено в текущем режиме игры или зоне.
+
+Press tab and shot twice to activate box.
+== Нажмите таб и дважды выстрелите, чтобы активировать коробку.
+
+You can't reset it, contact admin if you want to update your protected nickname.
+== Вы не можете сбросить его, обратитесь к администратору, если хотите обновить свой защищенный ник.
+
+You should be in previously spawned avatar to switch to new.
+== Чтобы переключиться на новый аватар, вы должны быть в предыдущем аватаре.
+
+You in the bank, write '/bank' for info.
+== Вы в банке, напишите '/bank' для информации.
+
+Or use 'Bank' in 'Call vote' menu.
+== Либо используйте 'Банк' в меню голосования.
+
+'{-}'s blocking spree was ended by '{-}' ({} Kills)
+== Серия блок убийств '{-}' была завершена '{-}' ({} убийств)
+
+'{-}' is on a blocking spree with {} kills!
+== '{-}' провёл серию из {} блок убийств!
+
+Entered ghost mode:
+== Вход в режим призрака:
+
+No collision, No hook, No hit
+== Нет коллизии, нет хука, нет ударов
+
+Respawn will return you to game mode
+== Респаун вернёт вас в режим игры
+
+Leaved ghost mode.
+== Выход из режима призрака.
+
+No ammo.
+== Нет патронов.
+
+Too long distance to make portal.
+== Слишком большая дистанция для создания портала.
+
+Too long distance to make wall.
+== Слишком большая дистанция для создания стены.
+
+Laser ammo updated.
+== Патроны для лазера обновлены.
+
+Time increased.
+== Время увеличено.
+
+Invisible charged.
+== Невидимость восполнена.
+
+Rescue!
+== Восстановление!
+
+Health and armor charged.
+== Здоровье и броня восстановлены.
+
+Teams should be balanced, can't join at this moment!
+== Команды должны быть сбалансированы, присоединение в данный момент невозможно!
+
+Now you're a hunter, catch someone or die.
+== Теперь ты охотник, поймай кого-нибудь или умри.
+
+Invisible on cooldown!
+== Невидимость на перезарядке!
+
+Now you are a hunter, you need to find all the players on the map and catch them. You can only catch if the player is visible to you.
+== Теперь вы охотник, вам нужно найти всех игроков на карте и поймать их. Поймать можно только в том случае, если игрок виден вам.
+
+You have been released from jail.
+== Вас выпустили из тюрьмы.
+
+You have been released from jail early by the moderator.
+== Вас выпустили из тюрьмы досрочно.
+
+There is no top player yet.
+== Пока что нет первого игрока в топе.
+
+Only the first top player on the list can get it.
+== Получить это может только первый в списке топ игроков.
+
+You got your crown.
+== Вы получили свою корону.
+
+To get the information, you need to set the player's clan or specify it in the command.
+== Чтобы получить информацию, необходимо задать клан игрока или указать его в команде.
+
+This map does not contain duel arena.
+== Эта карта не содержит дуэльной арены.
+
+You are already in duel.
+== Вы уже в дуэли.
+
+You can't create duel while frozen.
+== Вы не можете начать дуэль, пока заморожены.
+
+Only {} parallel duels allowed.
+== Разрешено только {} параллельных дуэлей.
+
+Your client is not verified or verification in progress.
+== Ваш клиент не проверен или верификация ещё в процессе.
+
+You don't have any pending requests.
+== У вас нет ожидающих заявок.
+
+Don't move {} seconds.
+== Не двигайтесь {} секунд.
+
+'{}' left or moved or frozen, duel canceled.
+== '{}' вышел или сдвинулся или был заморожен, дуэль отменена.
+
+Duel reward updated: Cash: {}$, Jail: {} seconds.
+== Обновлена награда дуэли: Деньги:{}$, Тюрьма:{} секунд.
+
+WARNING! Duel reward: Cash: {}$, Jail: {} seconds!
+== ВНИМАНИЕ! Награда дуэли: Деньги:{}$, Тюрьма:{} секунд.
+
+Not enough cash ({}$ required), use '/duel_cash <amount>' to change duel reward.
+== Недостаточно денег в кошелке (требуется {}$), используйте '/duel_cash <количество>' чтобы изменить награду дуэли.
+
+Not enough cash to accept duel ({}$ required).
+== Недостаточно денег в кошелке, чтобы принять дуэль (требуется {}$).
+
+You have already pending request to this player.
+== У вас уже есть ожидающий запрос к этому игроку.
+
+You already in duel.
+== Вы уже участвуете в дуэли.
+
+Player is already in duel.
+== Игрок уже участвует в дуэли.
+
+Request sent.
+== Запрос отправлен.
+
+New request from {-} for duel! Type '/duel <name>' to accept.
+== Новый запрос от {-} на дуэль! Введите '/duel <имя>', чтобы принять его.
+
+Can't find empty team for you! Try later.
+== Не могу найти для вас свободную команду! Попробуйте позже.
+
+Duel accepted.
+== Дуэль принята.
+
+Duel request with '{-}' is expired.
+== Приглашение на дуэль c '{-}' истекло.
+
+Duel request is expired.
+== Приглашение на дуэль истекло.
+
+\[{}] No winner in this game, good luck next time guys!
+== [{}] Нет победителя в этой игре, удачи в следующий раз!
+
+\[{}] You won! You got {}$.
+== [{}] Победа! Ваш приз {}$.
+
+\[{}] '{-}' won!
+== [{}] '{-}' победил!
+
+\[{}] '{-}' vs '{-}' ended with tie!
+== [{}] '{-} против '{-}' закончилась вничью!
+
+\[{}] '{-}' vs '{-}' ended by timeout!
+== [{}] '{-} против '{-}' закончилась по истечению времени!
+
+\[{}] '{-}' won '{-}' with score {} - {}!{}
+== [{}] '{-}' выиграл '{-}' со счетом {} - {}!{}
+
+\[{}]'{-}' won '{-}' with score {} [{}] - {} [{}]!{}
+== [{}] {-}' выиграл '{-}' со счетом {} [{}] - {} [{}]!{}
+
+\[{}] '{-}' won '{-}' round with score {} [{}] - {} [{}]!
+== [{}] '{-}' выиграл раунд у '{-}' со счетом {} [{}] - {} [{}]!
+
+\[{}] ended with tie!
+== [{}] закончилась вничью!
+
+\[{}] ended by timeout!
+== [{}] закончилась по истечению времени!
+
+\[{}] Team {} won with score {} - {}!
+== [{}] Команда {} выиграла со счетом {} - {}!
+
+\[{}] Team {} won with score {} [{}] - {} [{}]!
+== [{}] Команда {} выиграла со счетом {} [{}] - {} [{}]!
+
+Score set to {} for '{-}' (by '{-}')
+== Счёт установлен на {} для '{-}' (от '{-}')
+
+Team score ({}) set to {} (by '{-}')
+== Командный счёт ({}) установлен в {} ('{-}')
+
+{} stopped (by '{-}')
+== {} остановлена (от '{-}')
+
+{} {} (by '{-}')
+== {} {} (от '{-}')
+
+paused
+== поставлен на паузу
+
+resumed
+== продолжен
+
+\[{}] Sorry, {-}, you lose.
+== [{}] Извините, {-}, вы проиграли.
+
+You can deposit and withdraw money from your account, use the commands '/deposit <amount>' and '/withdraw <amount>'.
+== Вы можете пополнять и снимать деньги со своего счета, используя команды '/deposit <сумма>' и '/withdraw <сумма>'.
+
+You can also transfer money to another player, use '/pay <amount> <name>'.
+== Вы также можете перевести деньги другому игроку, используя команду '/pay <сумма> <имя>'.
+
+Wrong room number. We changed room numbers, check shop to get actual.
+== Неправильный номер комнаты. Мы поменяли номера комнат, проверьте в магазине актуальные номера.
+
+You loaded from saved state.
+== Вы загрузились из сохраненного состояния.
+
+Can't start game.
+== Невозможно начать игру.
+
+You can't exit from this game.
+== Вы не можете выйти из этого типа игры.
+
+Game id '{}' is not mapped with game.
+== Идентификатор игры '{}' не сопоставлен с игрой.
+
+{} stopped.
+== остановлено.
+
+You can't join while you're carrying the flag.
+== Вы не можете присоединиться, пока несете флаг.
+
+You can't do that while you're in the jail.
+== Вы не можете это сделать пока находитесь в тюрьме.
+
+Wrong game ID.
+== Неправильный тип игры.
+
+{} is not started.
+== {} не запущен.
+
+Can't join with dummy!
+== Невозможно присоединиться с дамми!
+
+Kill Protection enabled. Use /exit to leave game.
+== Включена защита от респауна. Используйте /exit, чтобы покинуть игру.
+
+King of Hill already started, wait until the end.
+== Игра King of Hill уже началась, дождитесь окончания.
+
+Players count not enough to start King of Hill {}/{}.
+== Количество игроков недостаточно для начала King of Hill {}/{}.
+
+'{-}' is the King and received {}$!
+== '{-}' - Король в этой зоне и получил {}$!
+
+There is no this room on map.
+== На карте нет этой комнаты.
+
+Room is available in shop.
+== Комната доступна в магазине.
+
+You are not room member.
+== Вы не являетесь участником комнаты.
+
+You are not room editor.
+== Вы не являетесь редактором комнаты.
+
+Spawn disabled.
+== Спаун отключен.
+
+Spawn enabled.
+== Спаун включен.
+
+You can't invite yourself.
+== Вы не можете пригласить себя.
+
+Only owners can add members.
+== Только владельцы могут добавлять участников.
+
+Player already is room member.
+== Игрок уже является участником комнаты.
+
+Only owners can do that.
+== Только владельцы могут это сделать.
+
+Not allowed to do that with room owner.
+== Владельцы комнаты не могут быть ограничены в правах.
+
+Player is not a room member.
+== Игрок не является участником комнаты.
+
+Member added to room {}.
+== Участник добавлен в комнату {}.
+
+You were added to room {}.
+== Вы были добавлены в комнату {}.
+
+You removed member from room {}.
+== Вы удалили участника из комнаты {}.
+
+You were removed from members of room {}.
+== Вы были удалены из участников комнаты {}.
+
+Room {}, members: {}, owner: '{-}', until {}
+== Комната {}, участники: {}, владелец: '{-}', до {}
+
+You need to set your player's clan first.
+== Для начала вам необходимо указать клан у вашего игрока.
+
+New tag could not be empty.
+== Новый тег не может быть пустым.
+
+Clan invitation for '{-}' is expired.
+== Приглашение в клан для '{-}' истекло.
+
+Clan '{-}' invitation is expired.
+== Приглашение в клан '{-}' истекло.
+
+Invitation to clan '{-}' from '{-}'.
+== Приглашение в клан '{-}' от '{-}'.
+
+Type '/clan_accept <tag>' to accept.
+== Напишите '/clan_accept <тег>' чтобы принять.
+
+Login in or create account to get full game experience.
+== Авторизуйтесь или создайте аккаунт для сохранения игрового прогресса.
+
+Lv
+== Ур
+
+Exp
+== Опыт
+
+You have been moved to jail for {} seconds. ({})
+== Вы посажены в тюрьму на {} секунд. ({})
+
+Already in quest!
+== Уже в квесте!
+
+There is no quest for your level.
+== Для вашего уровня нет квестов.
+
+You can't do it in this game.
+== Вы не можете это сделать в этой игре.
+
+You are not in the team 0.
+== Вы не в нулевой команде.
+
+Target is not in the team 0.
+== Получатель не в нулевой команде.
+
+You can't enter level quest while you're carrying the flag.
+== Вы не можете перейти в квест пока несёте флаг.
+
+Quest passed!
+== Квест пройден!
+
+Quest failed!
+== Квест провален!
+
+You need to be in drawer mode.
+== Вам необходимо быть в режиме рисования.
+
+Saving your drawing...
+== Сохраняю ваш рисунок...
+
+Loading your drawing...
+== Загружаю ваш рисунок...
+
+Can't load drawing!
+== Не получилось загрузить рисунок!
+
+Your drawing loaded!
+== Ваш рисунок загружен!
+
+King of Hill circle radius decreased!
+== King of Hill радиус круга уменьшен!
+
+King of Hill closed. Nobody won.
+== Игра King of Hill закончена. Нет победителей.
+
+King of Hill ({} contestants) {}1
+== King of Hill ({} участников) {}1
+
+King of Hill ({}/{} points [{}%])
+== King of Hill ({}/{} очков [{}%])
+
+Too many items ($d).
+== Слишком много предметов ($d).
+
+You removed member edit permission from room {}.
+== Вы забрали права на редактирования у участника комнаты {}.
+
+You were removed from editors of room {}.
+== Вы были удалены из редакторов комнаты {}.
+
+{}. Room: {}, until: {}, price: {}$, seller: {-}
+== {}. Комната: {}, до: {}, цена: {}$, продавец: {-}
+
+Lot not found.
+== Лот не найден.
+
+Lot canceled.
+== Лот отменён.
+
+Lot already exists.
+== Лот уже существует.
+
+Only seller could cancel lot.
+== Только продавец может отменить лот.
+
+Lot placed. Use '/room_lots' to check lots. Use '/room_lot_cancel' to cancel lot.
+== Лот размещён. Используйте '/room_lots' чтобы проверить лоты. Используйте '/room_lot_cancel' чтобы отменить лот.
+
+Transaction failed.
+== Транзакция не выполнена.
+
+Lot purchased, bank balance: {} (-{})
+== Лот куплен, остаток в банке: {} (-{})
+
+There is no active lots.
+== Нет активных лотов.
+
+Use '/room_spawn {}' to toggle spawn in room.
+== Используйте '/room_spawn {}' для переключения респауна в комнате.
+
+Use '/room_edit {}' to toggle room item edit mode.
+== Используйте '/room_edit {}' для переключения редактирования предметов в комнате.
+
+Use '/room_invite {} <name>' to invite member.
+== Используйте '/room_invite {} <имя>' для приглашения участников.
+
+You can't buy self lot.
+== Вы не можете купить свой же лот.
+
+Lot sold, bank balance: {} (+{})
+== Лот продан, остаток в банке: {} (+{})
+
+Another player purchase processing, try later.
+== Обработка транзакции другого игрока, попробуйте позже.
+
+You give member editor permission for room {}.
+== Вы дали участнику разрешение на редактирование в комнате {}.
+
+You got editor permission for room {}.
+== Вы получили разрешение на редактирование в комнате {}.
+
+Brush: {}, {}/{} items
+== Кисть: {}, {}/{} предметов
+
+Scroll: choose item
+== Скролл: смена предмета
+
+LMB: place item
+== ЛКМ: поставить предмет
+
+RMB: remove item
+== ПКМ: удалить предмет
+
+F3: prev option
+== F3: предыдущая опция
+
+F4: next option
+== F4: следующая опция
+
+S: switch mode
+== S: смена режима
+
+Rotation
+== Вращение
+
+Color
+== Цвет
+
+Thickness
+== Толщина
+
+Centered
+== Центровка
+
+Rotation angle
+== Угол вращения
+
+Heart
+== Сердце
+
+Shield
+== Броня
+
+Key
+== Ключ
+
+Door
+== Дверь
+
+Speedup
+== Ускоритель
+
+Brush
+== Кисть
+
+items
+== предметов
+
+Items
+== Предметы
+
+Can't find upgrade.
+== Улучшение не найдено.
+
+Can't buy/prolong, wrong duration type.
+== Невозможно купить/продлить, неверный тип длительности.
+
+Can't find account.
+== Аккаунт не найден.
+
+Not enough cash on account.
+== Недостаточно денег на счету.
+
+Not enough {} on account ({}/{}).
+== Недостаточно {} на счету ({}/{}).
+
+Not enough level.
+== Недостаточный уровень.
+
+Can't buy this item, another player already bought it.
+== Невозможно купить, другой игрок уже владеет этим.
+
+Can't buy this item, you reached max item count for this type.
+== Невозможно купить, достигнут максимальный лимит количества предметов данного типа.
+
+Can't buy this item, you reached max item level for this type.
+== Невозможно купить, достигнут максимальный лимит уровня.
+
+You succeed bought upgrade.
+== Покупка совершена.
+
+Can't buy this, you already have one item in this category.
+== Вы не можете это купить, у вас уже есть один предмет данной категории.
+
+Can't find player with given name.
+== Игрок с таким именем не найден.
+
+Login already exists.
+== Такой логин уже существует.
+
+You can't register more accounts, limit reached.
+== Вы не можете регистрировать больше аккаунтов, превышен лимит.
+
+You successfully registered. Login now with '/login <login> <pw>'.
+== Вы зарегистрированы. Авторизуйтесь командой '/login <логин> <пароль>'
+
+Wrong login and/or password. Please check it and try again.
+== Неправильный логин и/или пароль. Пожалуйста проверьте их и попробуйте снова.
+
+Account blocked.
+== Аккаунт заблокирован.
+
+You already authorized on another server. Logout first on that server. Contact administration if that's not the case.
+== Вы уже авторизированны на другом сервере. Свяжитесь с администрацией если считаете что данные ошибочные.
+
+Password successfully changed.
+== Пароль успешно изменён.
+
+Prefix successfully changed.
+== Префикс успешно изменён.
+
+Pin code successfully changed.
+== Пин код успешно изменён.
+
+Old pin code is wrong.
+== Старый пин код введён неверно.
+
+Contact successfully changed.
+== Контакт успешно изменён.
+
+Wrong old password.
+== Старый пароль введён неверно.
+
+Role successfully changed.
+== Роль успешно изменена.
+
+Too many members in room.
+== Слишком много участников в комнате.
+
+'{-}' scored for red team!
+== '{-}' увеличил счёт красной команды!
+
+'{-}' scored for blue team!
+== '{-}' увеличил счёт синей команды!
+
+Football
+== Футбол
+
+In this game you need to get the ball into the opposing team's goal.
+== В этой игре вам нужно чтобы мяч залетел в ворота противоположной команды.
+
+Not enough players to start event.
+== Недостаточно игроков для начала события.
+
+You are not allowed to participate in event.
+== Вам не разрешено принимать участие в событии.
+
+Duels not allowed in this zone.
+== Дуэли не разрешены в этой зоне.
+
+Hook weapon
+== Хук оружий
+
+Duels allowed in this zone.
+== Дуэли разрешены в этой зоне.
+
+Duels forbidden in this zone.
+== Дуэли запрещены в этой зоне
+
+In this game, you need to withdraw your money before the 'Crash' happens.
+== В этой игре вам необходимо вывести деньги раньше чем произойдёт 'Crash'.
+
+To start the game you need to bet '/bet <amount> <coefficient>' during betting.
+== Для начала игры вам необходимо сделать ставку '/bet <amount> <coefficient>' во время внесения ставок.
+
+You don't have to enter a coefficient, but if you do, the money will be withdrawn when the specified coefficient is reached. Be careful with this coefficient!
+== Коэффициент не обязательно вводить, но если вы его укажете то деньги будут выведены при достижении указанного коэффициента. Будте аккуратны с выставлением этого коэффициента!
+
+Coefficient should be not less then {~.2}!
+== Коэффициент должен быть не меньше чем {~.2}!
+
+Wait until your current bet will be finished!
+== Подождите пока ваша текущая ставка будет завершена!
+
+Wait until event finished!
+== Подождите окончания эвента!
+
+Clan '{-}' reached new level {}!
+== Клан '{-}' достиг уровня {}!
+
+Rainbow feet
+== Радужные ноги
+
+Rainbow body
+== Радужное тело
+
+Rainbow tee
+== Радужный тии
+
+Hat hammer
+== Шляпа-молоток
+
+Hat pistol
+== Шляпа-пистолет
+
+Hat shotgun
+== Шляпа-дробовик
+
+Hat grenade
+== Шляпа-граната
+
+Hat laser
+== Шляпа-лазер
+
+Hat ninja
+== Шляпа-ниндзя
+
+Trail dot
+== Точечный след
+
+Trail star
+== Звёздный след
+
+Heart gun
+== Пули сердечки
+
+Evil gun
+== Пули злые
+
+Noob gun
+== Пули NOOB
+
+Hiding Box
+== Коробка
+
+Drawer
+== Рисовалка
+
+Death grave
+== Смерть могилка
+
+Death F
+== Смерть F
+
+Name protection
+== Защита имени
+
+Shotgun kit
+== Набор дробовик
+
+Grenade kit
+== Набор граната
+
+Laser kit
+== Набор лазер
+
+Wall jump
+== Прыжки от стен
+
+Tank
+== Танк
+
+Spidertron
+== Паук
+
+Helicopter
+== Вертолёт
+
+Izbushka
+== Избушка
+
+Robo-legs
+== Робо-ноги
+
+Hoverboard
+== Ховерборд
+
+Ship
+== Корабль
+
+Cat
+== Котик
+
+Vip key
+== Вип ключ
+
+Vip
+== Вип
+
+Donor
+== Донор
+
+Your feet will shimmer with rainbows
+== Ваши ноги будут мерцать радугой
+
+Your body will shimmer with rainbows
+== Ваше тело будет мерцать радугой
+
+Your feet and body will shimmer with rainbows
+== Ваши ноги и тело будут мерцать радугой
+
+Your name will shimmer with rainbows
+== Ваше имя будет мерцать радугой
+
+The hammer will be over your head when you stand still
+== Молоток будет над вашей головой
+
+The pistol will be over your head when you stand still
+== Пистолет будет над вашей головой
+
+The shotgun will be over your head when you stand still
+== Дробовик будет над вашей головой
+
+The grenade will be over your head when you stand still
+== Граната будет над вашей головой
+
+The laser will be over your head when you stand still
+== Лазер будет над вашей головой
+
+The ninja will be over your head when you stand still
+== Ниндзя будет над вашей головой
+
+You will leave a trail of dots behind you
+== Вы оставите за собой след из точек
+
+You will leave a trail of stars behind you
+== Вы оставите за собой след из звезд
+
+Shoot with hearts
+== Стреляйте сердечками
+
+Shoot with shields
+== Стреляйте щитками
+
+Make a noob sign over another player by shooting them
+== Пометьте другого игрока NOOB
+
+Become a box
+== Станьте коробкой
+
+Draw outside the boundaries of the map
+== Рисуйте за границами карты
+
+Leave a reminder of yourself in the form of a grave after death
+== Могилка при респауне
+
+Make it clear that others must respect you after death
+== Знак F при респауне
+
+Activate protection for your nickname from fakes
+== Защита ника от фейков
+
+Use this kit after respawn to get hammer fast
+== Комплект чтобы получить молоток
+
+Use this kit after respawn to get shotgun fast
+== Комплект чтобы получить дробовик
+
+Use this kit after respawn to get grenade fast
+== Комплект чтобы получить гранату
+
+Use this kit after respawn to get laser fast
+== Комплект чтобы получить лазер
+
+Slide any walls
+== Скользите по любым стенам
+
+Become a little tank
+== Станьте маленьким танком
+
+Become a little spider
+== Станьте маленьким пауком
+
+Become a little helicopter
+== Станьте маленьким вертолётом
+
+Become a little izbushka
+== Станьте маленькой избушкой
+
+Become a robo-legs
+== Станьте робо-ногами
+
+Become a Hoverboard
+== Станьте ховербордом
+
+Become a little ship
+== Станьте маленьким кораблём
+
+Become a little cat
+== Станьте котиком
+
+Vip access
+== Доступ випа
+
+Donor access
+== Доступ донора
+
+Only one owner allowed
+== Разрешён только один владелец
+
+Rainbows
+== Радуги
+
+Hats
+== Шляпы
+
+Trails
+== Следы
+
+Guns
+== Пистолеты
+
+Kits
+== Наборы
+
+Avatars
+== Аватары
+
+Others
+== Другое
+
+Rooms
+== Комнаты
+
+Map design
+== Дизайн карты
+
+Available designs:
+== Доступные дизайны:
+
+Design not found, use '/design' to check available.
+== Дизайн не найден, используй '/design' чтобы вывести список.
+
+Spawn point set.
+== Точка возрождения установлена.
+
+Successfully stored on account.
+== Успешно сохранено на вашем аккаунте.
+
+Auto login into account on join
+== Авто логин в аккаунт при входе
+
+Options
+== Опции
+
+Passive mode activated for {} seconds.
+== Пассивный режим активирован на {} секунд.
+
+Your clan is not registered.
+== Ваш клан не зарегистрирован.
+
+Register Clan
+== Зарегистрировать клан
+
+Print Members
+== Показать участников
+
+Invite Members
+== Пригласить участников
+
+Kick Members
+== Выгнать участников
+
+Set role
+== Установить роль
+
+Delete Clan
+== Удалить клан
+
+Leave Clan
+== Выйти из клана
+
+Rename Clan
+== Переименовать клан
+
+You are not a clan member.
+== Вы не состоите в этом клане.
+
+Role
+== Роль
+
+Owner
+== Владелец
+
+Moderator
+== Модератор
+
+Member
+== Участник
+
+Clan Tag
+== Клан Тег
+
+Use reason to set command <parameter>
+== В причине <параметр>
+
+Transfer Ownership
+== Передать право владения
+
+Wrong role name, available: [member|moder|owner].
+== Неправильное название роли, существуют: [member|moder|owner].
+
+Freeze progress bar
+== Полоска прогресса заморозки
+
+Wallet disabled.
+== Кошелёк отключен.
+
+You need to reach {} level to create clan.
+== Вам нужно достигнуть {} уровня чтобы создать клан.
+
+You need to reach {} level to pass.
+== Вам нужно достигнуть {} уровня чтобы пройти.
+
+Ufo
+== Нло
+
+Become a little ufo
+== Станьте маленьким нло
+
+Rainbow name
+== Радужное имя
+
+Reached max item count.
+== Достигнут максимум предметов.
+
+Vip indicator
+== Вип индикатор
+
+Designs disabled.
+== Дизайны выключены.
+
+Hunters
+== Охотники
+
+Cooldown
+== Кулдаун
+
+Invisible
+== Невидимость
+
+Time left
+== Осталось времени
+
+Hunter time left
+== Время охотника
+
+Bombs
+== Бомб
+
+Coefficient
+== Коэффициент
+
+Crash
+== Краш
+
+Waiting players to continue..
+== Ждём игроков чтобы продолжить..
+
+is starting
+== начинается
+
+Not allowed to logout in duel.
+== Выход из аккаунта в дуэли не разрешён.
+
+'{}' arena id updated: {} ({})
+== Айди арены '{}' обновлён: {} ({})
+
+Duel arena id: {} ({})
+== Айди арены для дуэли: {}
+
+Available arenas: {}
+== Доступные арены: {}
+
+Move please to remove afk state.
+== Сдвиньтесь с места, чтобы выйти из AFK.
+
+Score for '{-}'!
+== Счёт увеличен '{-}'!
+
+Draw.
+== Ничья.
+
+Duel with '{-}' canceled.
+== Дуэль с '{-}' отменена.
+
+'{-}' canceled duel request.
+== '{-}' отменил запрос дуэли.
+
+There is no pending duel request.
+== Нет запросов дуэли.
+
+This player disabled duel requests.
+== Этот игрок отключил запросы на дуэль.
+
+All duel requests ignore: {}.
+== Игнорирование всех запросов дуэлей: {}.
+
+Enabled
+== Включено
+
+Disabled
+== Выключено
+
+Rating duel search stopped.
+== Поиск рейтинговой дуэли остановлен.
+
+Rating duel search started.
+== Начат поиск рейтинговой дуэли.
+
+Always rating duel search
+== Постоянный поиск рейтинговой дуэли
+
+Rating duel found. Creating match with '{-}' (Rating: {}).
+== Рейтинговая дуэль найдена. Создаём матч с '{-}' (Рейтинг: {}).
+
+Rating: {} ({}{})
+== Рейтинг: {} ({}{})
+
+Rating
+== Рейтинг
+
+Calibrating
+== Калибровка
+
+Rating calibrating ({}/{}) games played.
+== Калибровка рейтинга ({}/{}) игр сыграно.
+
+Games
+== Игр
+
+Search available only in zero team.
+== Поиск доступен только в нулевой команде.
+
+Search available only if not participate in duel and no outgoing duel requests sent.
+== Поиск доступен только вне в дуэли и нет отправленных исходящих запросов дуэли.
+
+Search rating duel will not be cancelled once the duel is over.
+== Поиск рейтинговой дуэли не будет отменён после завершения дуэли.
+
+Search rating duel will be cancelled once the duel is over.
+== Поиск рейтинговой дуэли будет отменён после завершения дуэли.
+
+Search available only from main player.
+== Поиск доступен только с основного игрока.
+
+{} starts in {} seconds.
+== {} начнётся через {} секунд.
+
+Searching rating duel
+== Поиск рейтинговой дуэли
+
+Search Time
+== Время поиска
+
+Rating Duel
+== Рейтинговая дуэль
+
+In search
+== В поиске
+
+Bronze
+== Бронза
+
+Silver
+== Серебро
+
+Gold
+== Золото
+
+Platinum
+== Платина
+
+Legend
+== Легенда
+
+Mythical
+== Мифический
+
+Divine
+== Божество
+
+You have the opportunity to play a ranked duel with a suitable opponent as he has been on the lookout for too long.
+== У Вас есть возможность сыграть рейтинговую дуэль с подходящим противником, так как он слишком долго находится в поиске.
+
+Type '/accept rating' to play.
+== Пропишите '/accept rating' чтобы принять.
+
+Since you've been on the lookout for too long, a request to compete with a suitable player has been sent.
+== Так как вы слишком долго находитесь в поиске, был отправлен запрос на соперничество подходящему игроку.
+
+Rating duel accepted.
+== Рейтинговая дуэль принята.
+
+Arena {} already in blacklist.
+== Арена {} уже в чёрном списке.
+
+Arena {} removed from blacklist.
+== Арена {} удалена из чёрного списка.
+
+Arena {} added to blacklist.
+== Арена {} добавлена в чёрный список.
+
+Too many arenas in blacklist already, remove any to add new one. Blacklist: {}
+== Слишком много арен в чёрном списке, удалите любую чтобы добавить новую. Чёрный список:
+
+Disable Search
+== Выключить поиск
+
+Enable Search
+== Включить поиск
+
+Add arena to blacklist:
+== Добавить арену в чёрный список:
+
+Use dashes
+== Использовать дэши
+
+Opponent duel skin
+== Скин противника
+
+DND
+== Не беспокоить
+
+Activated for next rating duel.
+== Активировано для следующей рейтинговой дуэли.
+
+Deactivated for next rating duel.
+== Деактивировано для следующей рейтинговой дуэли.
+
+Double-Rating Badge
+== Двойной рейтинг
+
+Double rating bet in duel
+== Удвоение рейтинговой ставки
+
+Available Badges
+== Доступные Жетоны
+
+You don't have badges
+== У вас нет жетонов
+
+Badges Shop
+== Магазин жетонов
+
+Badge
+== Жетон
+
+Exited rating duel
+== Выход из рейтинговой дуэли
+
+Rating duel request is expired.
+== Запрос на рейтинговую дуэль истёк.
+
+Ranks information:
+== Информация о ранках:
+
+Not allowed.
+== Hе разрешено.
+
+Choose donor name prefix:
+== Выберите донор префикс:
+
+Choose vip name prefix:
+== Выберите вип префикс:
+
+You are not the Vip.
+== Вы не вип.
+
+You are not the Donor.
+== Вы не донор.
+
+Contact admin for more information.
+== Свяжитесь с админом для информации.
+
+Weekend Boost
+== Буст выходных
+
+Vip Boost
+== Вип буст
+
+Vip Discount
+== Вип скидка
+
+\[{}] The {} won with score {} - {}!
+== [{}] {} выиграла со счётом {} - {}!
+
+Cosmetic
+== Косметика
+
+Vip upgrades:
+== Вип улучшения:
+
+Donor upgrades:
+== Донор улучшения:
+
+Freeze players from the opposing team and throw them into the scoring area.
+== Замораживайте игроков из противоположной команды и закидывайте в зону получения очков.
+
+Can't report youself.
+== Нельзя подать репорт на самого себя.
+
+Reports are disabled on the server.
+== Репорты выключены на сервере.
+
+Report to '{-}' sent. Message: {-}
+== Репорт на '{-}' был отправлен. Сообщение: {-}
+
+Your report to '{-}' has been {}.
+== Ваш репорт на '{-}' был {}.
+
+accepted
+== принят
+
+rejected
+== отклонён
+
+You are banned from reports system for the next {} seconds.
+== Вы заблокированы в системе репортов в течение следующих {} секунд.
+
+You have been unbanned from report system.
+== Вы были разблокированы в системе репортов.
+
+You have been unbanned from report system early by moderator.
+== Вы были разблокированы в системе репортов досрочно.
+
+You have been banned in report system for {} seconds. ({})
+== Вы заблокированы в системе репортов на {} секунд. ({})
+
+Please try later.
+== Пожалуйста попробуйте позже.
+
+Only loggined tournament participant allowed on server
+== Только залогиненные участники торнамента могут находится на сервере
+
+Login in account or ban ({} s) in {} seconds
+== Войдите в аккаунт или бан ({} с) через {} секунд
+
+Your account approved for tournament.
+== Ваш аккаунт подтверждён для участия в турнире.
+
+Day: {}
+== День: {}
+
+Daily reward already received!
+== Ежедневная награда уже получена!
+
+Rating reward already received!
+== Рейтиновая награда уже получена!
+
+You have completed the daily quests (Day {}) and are receiving your reward!
+== Вы завершили ежедневные задания (День {}) и получаете награду!
+
+Reward tasks:
+== Задания:
+
+King of Hill opened!
+== King of Hill открыт!
+
+Until next level:
+== До следующего уровня
+
+There is no tasks for next level
+== Нет задач для вашего уровня
+
+Level: {}
+== Уровень: {}
+
+Get rating reward:
+== Получить рейтинговую награду:
+
+Rating reward in
+== Рейтинговая награда через
+
+Level frags
+== Фраги уровня
+
+Rating is disabled on server.
+== Рейтинг отключен на сервере.
+
+Reward for participation: {}$, {} frags
+== Награда за участие: {}$, {} frags
+
+You have been unmuted after your mute duration ended. Don't break the rules again!
+== Вы были размучены по окончании срока. Не нарушайте правила снова!
+
+You have been unmuted early by the moderator. Enjoy your chat, and please avoid any more violations.
+== Вы были размучены досрочно. Наслаждайтесь общением!
+
+Cycle between level and rating
+== Переключать между уровнем и рейтингом
+
+Show as score in scoreboard:
+== Показывать в качестве счёта в табе:
+
+You can't do that.
+== Вы не можете сделать этого.
+
+The duel jail reward has been reset. You can't jail your dummy.
+== Награда в виде тюрьмы была сброшена. Вы не можете посадить в тюрьму своего дамми.
+
+The rating calibrating has ended. You got the {} Rank.
+== Рейтинговая калибровка была окончена. Вы получили ранг {}.
+
+Congratulations! '{-}' has achieved the {} Rank.
+== Поздравляем! '{-}' достиг ранга {}.
+
+'{-}' ended his calibration and got the {} Rank.
+== '{-}' закончил калибровку и получил ранг {}.
+
+Rating: {}
+== Рейтинг: {}
+
+Winrate: {}/{} ({~.2}%)
+== Процент побед: {}/{} ({~.2}%)
+
+Your discord link code is {-}. It lasts for {-} {}.
+== Ваш код привязки дискорда - {-}. Он длится {-} {}.
+
+Natural physic prediction
+== Естественное предсказывание физики
+
+Kill Protection enabled. Press the kill button {} {} if you are sure.
+== Включена защита от респауна. Нажмите на кнопку килла еще {} {}, если вы уверены.
+
+more time
+== раз
+
+more times
+== раза
+
+Purchases
+== Покупки
+
+Taser
+== Тайзер
+
+Upgrading to level {} → {}
+== Улучшается до уровня {} → {}
+
+Max
+== Максимальный
+
+linked
+== привязан
+
+press to link
+== нажмите для привязки
+
+You have already linked your discord account. Contact admins if you want to change.
+== Вы уже привязали свой дискорд аккаунт. Свяжитесь с администрацией, если хотите изменить его.
+
+Get an account with '/register <name> <pw>'.
+== Создайте аккаунт: '/register <имя> <пароль>'.
+
+Staff
+== Стафф
+
+Choose staff name prefix:
+== Выбрать префикс стаффа:
+
+Stuff upgrades:
+== Стафф улучшения:
+
+Media
+== Медия
+
+Choose media name prefix:
+== Выбрать префикс медии:
+
+Media upgrades:
+== Медия улучшения:
+
+'{-}' was transferred to '{}'
+== '{-}' отправился на '{}'
+
+'{-}' has left the game ({-})
+== '{-}' покинул игру ({-})
+
+'{-}' has left the game
+== '{-}' покинул игру
+
+Level Up! Current level: {}
+== Повышение уровня! Текущий уровень: {}
+
+'{-}' entered and joined the {}
+== '{-}' зашел и присоединился к {}
+
+game
+== игре
+
+spectators
+== наблюдателям
+
+'{-}' has been muted for {-} seconds ({-})
+== '{-}' был замучен на {-} секунд ({-})
+
+'{-}' has been muted for {-} seconds
+== '{-}' был замучен на {-} секунд
+
+Not enough amount for drop {}/{}.
+== Не достаточное количество для выброса {}/{}.
+
+Minimal drop amount is {}.
+== Минимальное количество для выброса {}.
+
+Wrong item name, possible types: /drop <ammo> <amount>.
+== Неправильное название предмета, возможные параметры: /drop <ammo> <amount>.
+
+Duel found. Creating match.
+== Дуэль найдена. Создаём матч.
+
+Duels are disabled on server.
+== Дуэли выключены на сервере.
+
+You can't search for duel while rating search is active.
+== Вы не можете искать дуэль, пока активен поиск рейтинговой дуэли.
+
+Duel search started.
+== Поиск дуэли начат.
+
+Duel search stopped.
+== Поиск дуэли остановлен.
+
+Searching duel
+== Поиск дуэли
+
+You can't search for rating duel while duel search is active.
+== Вы не можете искать рейтинговую дуэль, пока поиск дуэли активен.
+
+'{-}' is on a fury with {} kills! A bounty is now on his head!
+== '{-}' в неистовой ярости с {} убийствами подряд! Теперь на его голове награда!
+
+'{-}' is causing chaos with {} kills! Take his head for a bounty!
+== '{-}' творит хаос, на его счету {} убийств подряд! Теперь за его голову назначена награда!
+
+Attention! '{-}' is on bursting killing spree of {} kills, and now there is a bounty on his head!
+== Внимание! '{-}' на взрывной буре из {} убийств подряд! Теперь на его голове лежит награда в виде денег!
+
+'{-}' took down '{-}' and claimed a reward of {}$! Bounty Hunt is over!
+== '{-}' убил '{-}' и забрал награду в {}$! Охота за головами завершена!
+
+'{-}' eliminated '{-}' and earned {}$! Bounty Hunt is over!
+== '{-}' ликвидировал '{-}' и заработал {}$! Охота за головами завершена!
+
+'{-}' slayed the target '{-}' and got away with {}$! Bounty Hunt is over!
+== '{-}' убил цель '{-}' и забрал {}$! Охота за головами окончена!
+
+Nobody could manage to kill '{-}' in time! Bounty Hunt is over!
+== Никто не смог убить '{-}' за отведенное время! Охота за головами окончена!
+
+Rules
+== Правила
+
+'{-}' has ran away! Bounty Hunt is over!
+== '{-}' сбежал! Охота за головами окончена!
+
+'{-}' was frightened by '{-}' and dropped {}$! The Bounty Hunt is over!
+== '{-}' был напуган '{-}' и обронил {}$! Охота за головами окончена!
+
+'{-}' was frozen to the bones by '{-}' and dropped {}$! The Bounty Hunt is over!
+== '{-}' был заморожен до костей '{-}' и обронил {}$! Охота за головами окончена!
+
+Block Spree
+== Блок серия
+
+You have been punished for bad client. Get official client from ddnet.org/download
+== Вы были наказаны за подозрительный клиент игры. Пользуйтесь официальным клиентом ddnet.org/download
+
+Can't transfer cash while jailed.
+== Нельзя передавать деньги, пока вы находитесь в джайле.
+
+Can't transfer cash to jailed player.
+== Нельзя передавать деньги заключенным.
+
+You need to reach {} level to start rating search.
+== Вам необходимо достичь {} уровня, чтобы начать поиск рейтинговой дуэли.
+
+There is an incoming report from {-} to {-}. Check the discord.
+== Появился новый репорт от {-} на {-}. Проверьте дискорд.
+
+Always duel search
+== Постоянный поиск дуэли
+
+Portals forbidden in this zone.
+== Порталы запрещены в этой зоне.
+
+Portals allowed in this zone.
+== Порталы разрешены в этой зоне.
+
+You have added {-} to duel ignore list.
+== Вы добавили {-} в список игнорирования дуэлей.
+
+You have removed {-} from duel ignore list.
+== Вы убрали {-} из список игнорирования дуэлей.
+
+You can't add yourself to duel ignore list.
+== Вы не можете добавить себя в список игнорирования дуэлей.
+
+You can't use chat right now. Please wait.
+== Вы не можете использовать чат сейчас. Подождите.
+
+You client is being verified or seems bad. Get official client from ddnet.org/downloads
+== Ваш клиент проходит верификацию или является подозрительным. Скачайте официальный клиент с ddnet.org/downloads
+
+Spooky gun
+== Пули страшные
+
+Shoot with spooky bullets
+== Стреляйте устрашением
+
+You don't have purchases
+== У вас нет покупок
+
+players
+== игроков
+
+Progress
+== Прогресс
+
+Completed
+== Завершено
+
+Not enough level ({}/{}) to access '{}'.
+== Недостаточный уровень ({}/{}) для доступа к '{}'.
+
+'{}' access from {} level
+== '{}' доступно с {} уровня
+
+Your game doesn't have spree.
+== В вашей игре нет серий.
+
+Killing Spree
+== Серия убийств
+
+Your current {} is {}.
+== Ваша текущая {} - {}.
+
+Admin has restarted the FNG round.
+== Администратор перезапустил раунд FNG.
+
+The FNG round ended with a tie!
+== Раунд FNG закончился вничью.
+
+Most Kills
+== Больше всего убийств
+
+Best Spree
+== Лучшая серия
+
+Best Multi
+== Лучшее мульти-убийство
+
+Best K/D
+== Лучший K/D
+
+Most Freezes
+== Больше всего заморозок
+
+Most Wallshots
+== Больше всего рикошетов
+
+Best Accuracy
+== Лучшая точность
+
+You aren't in a game.
+== Вы не находитесь в какой-либо игре.
+
+You don't have statistics for game's round.
+== У вас нет статистики для раунда этой игры.
+
+Your statistics:
+== Ваша статистика:
+
+Kills
+== Убийств
+
+Freezes
+== Заморозок
+
+Wallshots
+== Попаданий рикошетом
+
+Accuracy
+== Точность
+
+Teams were balanced.
+== Команды были сбалансированы.
+
+Teams were shuffled.
+== Команды были перемешаны.
+
+You can't join a team which is close to win.
+== Вы не можете присоединиться к близкой к победе команде.
+
+block spree
+== блок серия
+
+killing spree
+== серия убийств
+
+Max Multi
+== Максимальное мульти-убийство
+
+Max Spree
+== Максимальная серия убийств
+
+Currency
+== Валюта
+
+'{-}' multi x{}!
+== '{-}' мульти-убийство x{}!
+
+'{-}' multi x{} finished!
+== '{-}' мульти-убийство x{} завершено!
+
+'{-}' is on a killing spree with {} kills!
+== '{-}' провел серию из {} убийств!
+
+'{-}' tried to steal '{-}' kill!
+== '{-}' попытался украсть убийство '{-}'!
+
+You get random bonus: {}
+== Вы получили рандомный бонус: {}
+
+Disable: {}
+== Отключить: {}
+
+Can't change teams while frozen!
+== Вы не можете поменять команду пока заморожены!
+
+Star gun
+== Звёздная пушка
+
+Shoot with stars
+== Стреляйте звёздочками
+
+You are sending reports too fast.
+== Вы отправляете репорты слишком быстро.
+
+Effects
+== Эффекты
+
+Glow
+== Свечение
+
+Glow with happiness
+== Светиться от счастья
+
+The server is going to shutdown in {} {} ({-})
+== Сервер будет выключен через {} {} ({-})
+
+The map is going to reload in {} {} ({-})
+== Карта будет перезагружена через {} {} ({-})
+
+The server shutdown was cancelled.
+== Выключение сервера было отменено.
+
+The map reload was cancelled.
+== Перезагрузка карты была отменена.
+
+Language
+== Язык
+
+Settings
+== Настройки
+
+Clan
+== Клан
+
+Time
+== Время
+
+Firework
+== Фейерверк
+
+Sparklers
+== Бенгальский огонь
+
+Got smoke grenade. Current count: {}
+== Получена дымовая граната. Количество: {}
+
+Score
+== Очки
+
+Red team
+== Красная команда
+
+Blue team
+== Синяя команда
+
+'{}' isn't logged in account, rating duel canceled.
+== '{}' не вошел в аккаунт, рейтинговая дуэль отменена.
+
+You blocked '{}', this is forbidden on server.
+== Вы заблокировали '{}', это запрещено на сервере.
+
+Laser ammo will be respawned in {} seconds.
+== Респаун патронов для лазера через {} секунд.
+
+That was the death in good game
+== Эта смерть была в хорошей игре
+
+Kills:
+== Убийства:
+
+{}. '{-}' - {} kills!
+== {}. '{-}' - {} убийств!
+
+{}. No last player alive.
+== {}. Нет последнего выжившего.
+
+\[{}] The event is over!
+== [{}] Событие завершено!
+
+No winners in this event.
+== Нет победителей в этом событии.
+
+You aren't logged in an account to receive a reward.
+== Вы не вошли в аккаунт для получения награды.
+
+Death star
+== Смерть звезда
+
+Death stars circle
+== Смерть круг звёзд
+
+Death vortex
+== Смерть вихрь
+
+Five stars after death make clear you were a bandit
+== Пять звезд после смерти дают понять, что вы были бандитом
+
+Shine like never before after death
+== Сияй как никогда после смерти
+
+Plasma vortex hides you after death
+== Плазменный вихрь скрывает вас после смерти
+
+Do not disturb mode enabled, to disable write /dnd.
+== Включен режим 'Не беспокоить', для отключения напишите /dnd.
+
+Kick player
+== Выгнать игрока
+
+'{}' jailed for {} seconds for block.
+== '{}' посажен в тюрьму за блок.

@@ -1,0 +1,2336 @@
+Info
+== Informação
+
+Back
+== Voltar
+
+Username
+== Nome de usuário
+
+Not authorized
+== Não autorizado
+
+verified
+== verificado
+
+not verified
+== não verificado
+
+Contact
+== Contato
+
+Pin
+== Código PIN
+
+Level
+== Nível
+
+Experience
+== Experiência
+
+Bank
+== Banco
+
+Wallet
+== Carteira
+
+Laser-Ammo
+== Munição Laser
+
+Dash
+== Dash
+
+Shop
+== Loja
+
+Upgrades
+== Melhorias
+
+Statistic
+== Estatísticas
+
+Cash
+== Dinheiro
+
+Online
+== Online
+
+Block
+== Bloquear
+
+Duel
+== Duelo
+
+Duel Block
+== Bloqueio de Duelo
+
+Arena
+== Arena
+
+Laser Room
+== Sala Laser
+
+Battle
+== Batalha
+
+Catch
+== Pega-pega
+
+Hide and Seek
+== Esconde-esconde
+
+Karting
+== Kart
+
+Bomb
+== Bomba
+
+Spike
+== Espinho
+
+Quest
+== Missão
+
+Reward
+== Recompensa
+
+Authorize to get access to account benefits:
+== Autorize para acessar os benefícios da conta:
+
+1. Register: '/register <username> <password>'
+== 1. Registrar: '/register <username> <password>'
+
+2. Login: '/login <username> <password>'
+== 2. Entrar: '/login <username> <password>'
+
+3. Protection: '/pin <pin>'
+== 3. Proteção: '/pin <pin>'
+
+Votes
+== Votos
+
+Game Votes
+== Votos de Jogo
+
+Empty
+== Vazio
+
+Not loaded
+== Não carregado
+
+Buy
+== Comprar
+
+Buy {} units [{}$]
+== Comprar {} unidades [{}$]
+
+Buy forever [{}$]
+== Comprar para sempre [{}$]
+
+Buy for a week [{}$]
+== Comprar por uma semana [{}$]
+
+Room owned by '{-}' → {}
+== Sala de '{-}' → {}
+
+Buy for a month
+== Comprar por um mês
+
+Buy for a year
+== Comprar por um ano
+
+Buy for X months (Type number in vote reason)
+== Comprar por X meses (Digite o número na razão do voto)
+
+You don't have upgrades
+== Você não tem melhorias
+
+Use the shop to buy them
+== Use a loja para comprá-las
+
+Deposit
+== Depositar
+
+Withdraw
+== Sacar
+
+Please specify correct amount in vote reason.
+== Especifique o valor correto na razão do voto.
+
+Use value in vote reason
+== Use o valor na razão do voto
+
+Leave reason blank to put all in (deposit only)
+== Deixe em branco para depositar tudo
+
+Click tab to hide
+== Clique em Tab para ocultar
+
+Arena.
+== Arena.
+
+Here you need to be the last one left alive in the arena.
+== Aqui você precisa ser o último sobrevivente na arena.
+
+The last player left in the arena gets a nice reward.
+== O último jogador na arena recebe uma boa recompensa.
+
+Battle.
+== Batalha.
+
+In this team game, you need to capture the enemy flag and bring it to your base.
+== Neste jogo em equipe, você precisa capturar a bandeira inimiga e levá-la para sua base.
+
+The transport on the map should help you. You will automatically get into it as soon as you are in the vicinity.
+== O transporte no mapa deve ajudá-lo. Você entrará automaticamente nele assim que estiver por perto.
+
+In this team game, you need to get a team score high enough to win.
+== Neste jogo em equipe, você precisa obter uma pontuação alta o suficiente para vencer.
+
+Capture the opposing team's base and hold the flag.
+== Capture a base da equipe adversária e mantenha a bandeira.
+
+Bomb.
+== Bomba.
+
+If you have a flag, you have a bomb attached to you.
+== Se você tem uma bandeira, uma bomba está presa a você.
+
+It will explode if you do not pass it to another player in the allotted time.
+== Ela explodirá se você não passar para outro jogador no tempo determinado.
+
+If you don't have a flag, you have to run away from the player with the flag.
+== Se você não tem uma bandeira, deve fugir do jogador com a bandeira.
+
+The laser should help you cross the obstacles faster.
+== O laser deve ajudá-lo a atravessar os obstáculos mais rapidamente.
+
+In this casino you have the opportunity to test your intuition and increase your money or, on the contrary, lose all your funds.
+== Neste cassino você tem a oportunidade de testar sua intuição e aumentar seu dinheiro ou, pelo contrário, perder todos os seus fundos.
+
+To place a bet, write the command /bet <amount>, then select the desired bet type and left click with hammer on the bet type button.
+== Para fazer uma aposta, escreva o comando /bet <quantia>, depois selecione o tipo de aposta desejado e clique com o botão esquerdo do mouse no botão do tipo de aposta.
+
+Betting 1-12, 13-24, 24-36 gives x3 if you win (returns your bet and two more on top), at 0 gives x36, odd/red/black/even gives x2.
+== Apostar 1-12, 13-24, 24-36 dá x3 se você ganhar (retorna sua aposta e mais duas em cima), no 0 dá x36, ímpar/vermelho/preto/par dá x2.
+
+Catching up.
+== Pega-pega.
+
+If you have a flag, you must catch up and hit the hammer and freeze all players.
+== Se você tem uma bandeira, deve alcançar e golpear com o martelo para congelar todos os jogadores.
+
+If you don't have a flag, you must run away from the player with the flag.
+== Se você não tem uma bandeira, deve fugir do jogador com a bandeira.
+
+If your mate is frozen, hit him with the hammer 10 times to save him.
+== Se seu companheiro estiver congelado, bata nele com o martelo 10 vezes para salvá-lo.
+
+The laser should help you cross obstacles faster.
+== O laser deve ajudá-lo a atravessar os obstáculos mais rapidamente.
+
+Climbing.
+== Escalada.
+
+In this mode you can slide on walls. Press the button to move towards the wall.
+== Neste modo, você pode deslizar pelas paredes. Pressione o botão para mover-se em direção à parede.
+
+Once you get to the top you will be able to enter a special room.
+== Assim que chegar ao topo, você poderá entrar em uma sala especial.
+
+Hide and seek.
+== Esconde-esconde.
+
+If you have a flag, you must catch up and hit all players with the hammer. The gun will help you to know the direction.
+== Se você tem uma bandeira, deve alcançar e bater em todos os jogadores com o martelo. A arma ajudará a saber a direção.
+
+If you don't have a flag, you have to hide from the player with the flag. You are not visible in grey areas until you are approached closely.
+== Se você não tem uma bandeira, deve se esconder do jogador com a bandeira. Você não é visível em áreas cinzas até que alguém se aproxime.
+
+The hammer will help you activate your invisibility ability. Keep an eye on the progress bar, grey zones replenish your invisibility.
+== O martelo ajudará a ativar sua habilidade de invisibilidade. Fique de olho na barra de progresso, zonas cinzas reabastecem sua invisibilidade.
+
+Karting.
+== Kart.
+
+Here you need to be the first to come to the finish line after driving the required number of laps.
+== Aqui você precisa ser o primeiro a cruzar a linha de chegada após completar o número necessário de voltas.
+
+Collect money, they will come to you on account if you manage to complete the race.
+== Colete dinheiro, ele será creditado na sua conta se você conseguir completar a corrida.
+
+Pick up bonuses, they will help you get ahead of your rivals.
+== Pegue bônus, eles ajudarão você a ultrapassar seus rivais.
+
+Undertale in Teeworlds.
+== Undertale em versão minimalista.
+
+You need to stay in this room until the timer expires.
+== Você precisa permanecer nesta sala até o tempo expirar.
+
+Lasers will hinder you, you need to dodge and avoid them if you want to survive.
+== Os lasers irão atrapalhar você, é necessário desviar e evitá-los se quiser sobreviver.
+
+Hurry to enter the room with the reward, it opens 5 seconds before the timer expires.
+== Corra para entrar na sala com a recompensa, ela abre 5 segundos antes de o tempo expirar.
+
+Use the command '/showothers' to see the other participants.
+== Use o comando '/showothers' para ver os outros participantes.
+
+Tournament.
+== Torneio.
+
+Here you need to defeat all other participants.
+== Aqui você precisa derrotar todos os outros participantes.
+
+You need to win twice to advance to the next stage.
+== Você precisa vencer duas vezes para avançar para a próxima fase.
+
+The last player left in the tournament gets a nice reward.
+== O último jogador restante no torneio ganha uma boa recompensa.
+
+Roulette
+== Roleta
+
+Members
+== Membros
+
+All bets
+== Todas as apostas
+
+Start in
+== Começa em
+
+Roulette result: Number: {}!
+== Resultado da roleta: Número: {}!
+
+You created bet ({}$ to {}), wait {} seconds until start.
+== Você criou uma aposta ({}$ em {}), aguarde {} segundos até o início.
+
+zero
+== zero
+
+odd
+== ímpar
+
+red
+== vermelho
+
+black
+== preto
+
+even
+== par
+
+Wait next round to choose bet type!
+== Aguarde a próxima rodada para escolher o tipo de aposta!
+
+Wait next round!
+== Aguarde a próxima rodada!
+
+Wait next round to make a bet!
+== Aguarde a próxima rodada para fazer uma aposta!
+
+There is no game around you!
+== Não há jogo ao seu redor!
+
+You need make a bet first, example '/bet 1'.
+== Você precisa fazer uma aposta primeiro, exemplo '/bet 1'.
+
+You make a bet {}$, now press one of the buttons with hammer to choose a type.
+== Você fez uma aposta de {}$, agora pressione um dos botões com o martelo para escolher um tipo.
+
+You make a bet {}$, auto cash out on x{~.2}, wait {} seconds until start.
+== Você fez uma aposta de {}$, saque automático em x{~.2}, aguarde {} segundos até o início.
+
+You make a bet {}$, auto cash out not specified, wait {} seconds until start.
+== Você fez uma aposta de {}$, saque automático não especificado, aguarde {} segundos até o início.
+
+You have not enough cash!
+== Você não tem dinheiro suficiente!
+
+Amount should be more than zero!
+== O valor deve ser maior que zero!
+
+Bets available only in casino!
+== Apostas disponíveis apenas no cassino!
+
+Check your command, example: '/pay 100 Tee'.
+== Verifique seu comando, exemplo: '/pay 100 Tee'.
+
+You don't have this cash amount.
+== Você não tem essa quantidade de dinheiro.
+
+The minimum amount for the transfer of money is {}.
+== O valor mínimo para a transferência de dinheiro é {}.
+
+Can't find player with given name.
+== Não foi possível encontrar um jogador com esse nome.
+
+Can't transfer cash to yourself.
+== Não é possível transferir dinheiro para si mesmo.
+
+Bank disabled.
+== Banco desativado.
+
+You need to be logged in your account.
+== Você precisa estar logado em sua conta.
+
+Your character should be alive!
+== Seu personagem deve estar vivo!
+
+Target character should be alive!
+== O personagem alvo deve estar vivo!
+
+There is no bank near you!
+== Não há banco próximo a você!
+
+You have no money on your account!
+== Você não tem dinheiro na sua conta!
+
+You have only {}$ on your account. This amount will be withdrawn to your wallet.
+== Você tem apenas {}$ na sua conta. Este valor será transferido para sua carteira.
+
+Your wallet is empty!
+== Sua carteira está vazia!
+
+You have only {}$ in your wallet. This amount will be deposited into your account.
+== Você tem apenas {}$ na sua carteira. Este valor será depositado na sua conta.
+
+There is no bank near you or near receiver, transfer cash possible only both in the bank!
+== Não há banco próximo a você ou ao destinatário, a transferência de dinheiro só é possível quando ambos estão no banco!
+
+This player is not logged in.
+== Este jogador não está logado.
+
+Withdraw succeed, bank balance: {} (-{})
+== Saque realizado com sucesso, saldo no banco: {} (-{})
+
+Cash transferred, bank balance: {} (-{})
+== Dinheiro transferido, saldo no banco: {} (-{})
+
+Cash received, bank balance: {} (+{})
+== Dinheiro recebido, saldo no banco: {} (+{})
+
+Not verified. Use '/pin <pin>' to verify yourself.
+== Não verificado. Use '/pin <pin>' para se verificar.
+
+You have been banned from the account system for {} seconds ({})
+== Você foi banido do sistema de contas por {} segundos ({})
+
+Too many pin fails
+== Muitas tentativas de PIN falharam
+
+Already logged in, if you want change account write '/logout' first.
+== Já está logado, se quiser trocar de conta, escreva '/logout' primeiro.
+
+Account already in use.
+== Conta já em uso.
+
+Not authorized!
+== Não autorizado!
+
+Successfully logout.
+== Você saiu da conta com sucesso.
+
+Wrong command usage, use '/help $s' for command info.
+== Comando usado incorretamente, use '/help $s' para informações sobre o comando.
+
+Wrong login length, allowed {}-{} symbols.
+== Comprimento do login incorreto, permitido {}-{} caracteres.
+
+Wrong password length, allowed {}-{} symbols.
+== Comprimento da senha incorreto, permitido {}-{} caracteres.
+
+>>> SECURITY PIN <<<
+== >>> PIN DE SEGURANÇA <<<
+
+You should set a security pin to avoid account stealing. The pin itself has to be a 4-digit long number code.
+== Você deve definir um PIN de segurança para evitar o roubo da conta. O PIN deve ser um código numérico de 4 dígitos.
+
+This pin will be required to change your contact information or your password.
+== Esse PIN será necessário para alterar suas informações de contato ou sua senha.
+
+If your account is not secured yet, you can set a pin with '/pin <new-pin>'.
+== Se sua conta ainda não está protegida, você pode definir um PIN com '/pin <novo-pin>'.
+
+If you want to change your pin, you first need to verify using '/pin <account-pin>'.
+== Se quiser alterar seu PIN, você deve primeiro verificar usando '/pin <PIN-atual>'.
+
+After verifying, you can set a new pin with '/pin <new-pin>'.
+== Após verificar, você pode definir um novo PIN com '/pin <novo-pin>'.
+
+Pin verification succeed!
+== Verificação de PIN bem-sucedida!
+
+Pin verification failed!
+== Verificação de PIN falhou!
+
+New pin has to be a 4-digit long number code. Example: 1234.
+== O novo PIN deve ser um código numérico de 4 dígitos. Exemplo: 1234.
+
+You need to enter a way to contact you, for example: Discord, E-Mail, Skype, etc.
+== Você precisa fornecer uma forma de contato, por exemplo: Discord, E-mail, Skype, etc.
+
+To see your current contact information, use '/acc' command or 'Call vote' menu.
+== Para ver suas informações de contato atuais, use o comando '/acc' ou o menu 'Votação'.
+
+You successfully authorized in your account.
+== Você se autorizou na sua conta com sucesso.
+
+WARNING! You did not set a contact, it can be used to recover your password or to get back the account after it got stolen.
+== AVISO! Você não definiu um contato, ele pode ser usado para recuperar sua senha ou recuperar a conta após roubo.
+
+Set a contact with '/contact <option>' to hide this message.
+== Defina um contato com '/contact <opção>' para ocultar esta mensagem.
+
+WARNING! You did not set security pin yet. Check command '/pin' for more information.
+== AVISO! Você ainda não definiu um PIN de segurança. Verifique o comando '/pin' para mais informações.
+
+WARNING! You didn't link discord, it can be used to recover your account.
+== AVISO! Você não vinculou o Discord, ele pode ser usado para recuperar sua conta.
+
+Link discord using '/link_discord' to hide this message.
+== Vincule o Discord usando '/link_discord' para ocultar esta mensagem.
+
+Balance updated: {} ({-}{})
+== Saldo atualizado: {} ({-}{})
+
+Wrong item identifier!
+== Identificador de item incorreto!
+
+Already have this item!
+== Você já possui este item!
+
+Too many requests!
+== Muitos pedidos!
+
+days
+== dias
+
+hours
+== horas
+
+minutes
+== minutos
+
+seconds
+== segundos
+
+times
+== vezes
+
+usages
+== usos
+
+unknown
+== desconhecido
+
+Use 'Call vote' menu to access shop!
+== Use o menu 'Votação' para acessar a loja!
+
+Your protected nickname now is '{-}', which you used when you registered, if you want to change it please contact the administration.
+== Seu apelido protegido agora é '{-}', usado quando você se registrou. Se quiser alterá-lo, entre em contato com a administração.
+
+You haven't this upgrade.
+== Você não possui esta melhoria.
+
+This upgrade is not allowed in your current game type or zone.
+== Esta melhoria não é permitida no tipo de jogo ou zona atual.
+
+Press tab and shot twice to activate box.
+== Pressione Tab e dispare duas vezes para ativar a caixa.
+
+You can't reset it, contact admin if you want to update your protected nickname.
+== Você não pode redefini-lo, entre em contato com o administrador se quiser atualizar seu apelido protegido.
+
+You should be in previously spawned avatar to switch to new.
+== Você deve estar no avatar anterior para mudar para o novo.
+
+You in the bank, write '/bank' for info.
+== Você está no banco, escreva '/bank' para mais informações.
+
+Or use 'Bank' in 'Call vote' menu.
+== Ou use 'Banco' no menu 'Votação'.
+
+'{-}'s blocking spree was ended by '{-}' ({} Kills)
+== A sequência de bloqueios de '{-}' foi encerrada por '{-}' ({} mortes)
+
+'{-}' is on a blocking spree with {} kills!
+== '{-}' está em uma sequência de bloqueios com {} mortes!
+
+Entered ghost mode:
+== Entrou no modo fantasma:
+
+No collision, No hook, No hit
+== Sem colisão, sem gancho, sem dano
+
+Respawn will return you to game mode
+== O renascimento o retornará ao modo de jogo
+
+Leaved ghost mode.
+== Saiu do modo fantasma.
+
+No ammo.
+== Sem munição.
+
+Too long distance to make portal.
+== Distância muito longa para criar um portal.
+
+Too long distance to make wall.
+== Distância muito longa para criar uma parede.
+
+Laser ammo updated.
+== Munição laser atualizada.
+
+Time increased.
+== Tempo aumentado.
+
+Invisible charged.
+== Invisibilidade carregada.
+
+Rescue!
+== Resgate!
+
+Health and armor charged.
+== Saúde e armadura recarregadas.
+
+Teams should be balanced, can't join at this moment!
+== As equipes devem estar equilibradas, não é possível entrar neste momento!
+
+Now you're a hunter, catch someone or die.
+== Agora você é um caçador, pegue alguém ou morra.
+
+Invisible on cooldown!
+== Invisibilidade em tempo de recarga!
+
+Now you are a hunter, you need to find all the players on the map and catch them. You can only catch if the player is visible to you.
+== Agora você é um caçador, precisa encontrar todos os jogadores no mapa e capturá-los. Você só pode capturar se o jogador estiver visível para você.
+
+You have been released from jail.
+== Você foi liberado da prisão.
+
+You have been released from jail early by the moderator.
+== Você foi liberado da prisão antecipadamente pelo moderador.
+
+There is no top player yet.
+== Ainda não há um jogador no topo.
+
+Only the first top player on the list can get it.
+== Apenas o primeiro jogador da lista do topo pode obter isso.
+
+You got your crown.
+== Você recebeu sua coroa.
+
+To get the information, you need to set the player's clan or specify it in the command.
+== Para obter as informações, você precisa definir o clã do jogador ou especificá-lo no comando.
+
+This map does not contain duel arena.
+== Este mapa não contém arena de duelo.
+
+You are already in duel.
+== Você já está em um duelo.
+
+You can't create duel while frozen.
+== Você não pode iniciar um duelo enquanto estiver congelado.
+
+Only {} parallel duels allowed.
+== Apenas {} duelos paralelos são permitidos.
+
+Your client is not verified or verification in progress.
+== Seu cliente não foi verificado ou a verificação está em andamento.
+
+You don't have any pending requests.
+== Você não tem solicitações pendentes.
+
+Don't move {} seconds.
+== Não se mova por {} segundos.
+
+'{}' left or moved or frozen, duel canceled.
+== '{}' saiu, se moveu ou foi congelado, duelo cancelado.
+
+Duel reward updated: Cash: {}$, Jail: {} seconds.
+== Recompensa do duelo atualizada: Dinheiro: {}$, Prisão: {} segundos.
+
+WARNING! Duel reward: Cash: {}$, Jail: {} seconds!
+== ATENÇÃO! Recompensa do duelo: Dinheiro: {}$, Prisão: {} segundos!
+
+Not enough cash ({}$ required), use '/duel_cash <amount>' to change duel reward.
+== Dinheiro insuficiente ({}$ necessário), use '/duel_cash <quantidade>' para alterar a recompensa do duelo.
+
+Not enough cash to accept duel ({}$ required).
+== Dinheiro insuficiente para aceitar o duelo ({}$ necessário).
+
+You have already pending request to this player.
+== Você já tem uma solicitação pendente para este jogador.
+
+You already in duel.
+== Você já está em um duelo.
+
+Player is already in duel.
+== O jogador já está em um duelo.
+
+Request sent.
+== Solicitação enviada.
+
+New request from {-} for duel! Type '/duel <name>' to accept.
+== Nova solicitação de {-} para duelo! Digite '/duel <nome>' para aceitar.
+
+Can't find empty team for you! Try later.
+== Não foi possível encontrar uma equipe vazia para você! Tente mais tarde.
+
+Duel accepted.
+== Duelo aceito.
+
+Duel request with '{-}' is expired.
+== Solicitação de duelo com '{-}' expirou.
+
+Duel request is expired.
+== Solicitação de duelo expirou.
+
+\[{}] No winner in this game, good luck next time guys!
+== [{}] Sem vencedor neste jogo, boa sorte na próxima vez, pessoal!
+
+\[{}] You won! You got {}$.
+== [{}] Você venceu! Você ganhou {}$.
+
+\[{}] '{-}' won!
+== [{}] '{-}' venceu!
+
+\[{}] '{-}' vs '{-}' ended with tie!
+== [{}] '{-}' contra '{-}' terminou empatado!
+
+\[{}] '{-}' vs '{-}' ended by timeout!
+== [{}] '{-}' contra '{-}' terminou por tempo esgotado!
+
+\[{}] '{-}' won '{-}' with score {} - {}!{}
+== [{}] '{-}' venceu '{-}' com placar {} - {}!{}
+
+\[{}] '{-}' won '{-}' with score {} [{}] - {} [{}]!{}
+== [{}] '{-}' venceu '{-}' com placar {} [{}] - {} [{}]!{}
+
+\[{}] '{-}' won '{-}' round with score {} [{}] - {} [{}]!
+== [{}] '{-}' venceu o round contra '{-}' com placar {} [{}] - {} [{}]!
+
+\[{}] ended with tie!
+== [{}] terminou empatado!
+
+\[{}] ended by timeout!
+== [{}] terminou por tempo esgotado!
+
+\[{}] Team {} won with score {} - {}!
+== [{}] Equipe {} venceu com placar {} - {}!
+
+\[{}] Team {} won with score {} [{}] - {} [{}]!
+== [{}] Equipe {} venceu com placar {} [{}] - {} [{}]!
+
+Score set to {} for '{-}' (by '{-}')
+== Pontuação ajustada para {} para '{-}' (por '{-}')
+
+Team score ({}) set to {} (by '{-}')
+== Pontuação da equipe ({}) ajustada para {} (por '{-}')
+
+{} stopped (by '{-}')
+== {} parado (por '{-}')
+
+{} {} (by '{-}')
+== {} {} (por '{-}')
+
+paused
+== pausado
+
+resumed
+== retomado
+
+\[{}] Sorry, {-}, you lose.
+== [{}] Desculpe, {-}, você perdeu.
+
+You can deposit and withdraw money from your account, use the commands '/deposit <amount>' and '/withdraw <amount>'.
+== Você pode depositar e sacar dinheiro de sua conta usando os comandos '/deposit <quantidade>' e '/withdraw <quantidade>'.
+
+You can also transfer money to another player, use '/pay <amount> <name>'.
+== Você também pode transferir dinheiro para outro jogador, use '/pay <quantidade> <nome>'.
+
+Wrong room number. We changed room numbers, check shop to get actual.
+== Número de sala incorreto. Alteramos os números das salas, verifique na loja para obter os atuais.
+
+You loaded from saved state.
+== Você carregou a partir de um estado salvo.
+
+Can't start game.
+== Não é possível iniciar o jogo.
+
+You can't exit from this game.
+== Você não pode sair deste jogo.
+
+Game id '{}' is not mapped with game.
+== O ID do jogo '{}' não está mapeado com o jogo.
+
+{} stopped.
+== {} parado.
+
+You can't join while you're carrying the flag.
+== Você não pode entrar enquanto estiver carregando a bandeira.
+
+You can't do that while you're in the jail.
+== Você não pode fazer isso enquanto estiver na prisão.
+
+Wrong game ID.
+== ID de jogo incorreto.
+
+{} is not started.
+== {} não foi iniciado.
+
+Can't join with dummy!
+== Não é possível entrar com um dummy!
+
+Kill Protection enabled. Use /exit to leave game.
+== Proteção contra mortes ativada. Use /exit para sair do jogo.
+
+King of Hill already started, wait until the end.
+== O jogo King of Hill já começou, aguarde até o final.
+
+Players count not enough to start King of Hill {}/{}.
+== Número insuficiente de jogadores para iniciar King of Hill {}/{}.
+
+'{-}' is the King and received {}$!
+== '{-}' é o Rei e recebeu {}$!
+
+There is no this room on map.
+== Não há esta sala no mapa.
+
+Room is available in shop.
+== A sala está disponível na loja.
+
+You are not room member.
+== Você não é membro da sala.
+
+You are not room editor.
+== Você não é editor da sala.
+
+Spawn disabled.
+== Spawn desativado.
+
+Spawn enabled.
+== Spawn ativado.
+
+You can't invite yourself.
+== Você não pode se convidar.
+
+Only owners can add members.
+== Apenas os proprietários podem adicionar membros.
+
+Player already is room member.
+== O jogador já é membro da sala.
+
+Only owners can do that.
+== Apenas os proprietários podem fazer isso.
+
+Not allowed to do that with room owner.
+== Não é permitido fazer isso com o proprietário da sala.
+
+Player is not a room member.
+== O jogador não é membro da sala.
+
+Member added to room {}.
+== Membro adicionado à sala {}.
+
+You were added to room {}.
+== Você foi adicionado à sala {}.
+
+You removed member from room {}.
+== Você removeu um membro da sala {}.
+
+You were removed from members of room {}.
+== Você foi removido dos membros da sala {}.
+
+Room {}, members: {}, owner: '{-}', until {}
+== Sala {}, membros: {}, proprietário: '{-}', até {}
+
+You need to set your player's clan first.
+== Você precisa definir o clã do seu jogador primeiro.
+
+New tag could not be empty.
+== A nova tag não pode estar vazia.
+
+Clan invitation for '{-}' is expired.
+== O convite para o clã de '{-}' expirou.
+
+Clan '{-}' invitation is expired.
+== O convite para o clã '{-}' expirou.
+
+Invitation to clan '{-}' from '{-}'.
+== Convite para o clã '{-}' de '{-}'.
+
+Type '/clan_accept <tag>' to accept.
+== Digite '/clan_accept <tag>' para aceitar.
+
+Login in or create account to get full game experience.
+== Faça login ou crie uma conta para aproveitar a experiência completa do jogo.
+
+Lv
+== Nível
+
+Exp
+== Experiência
+
+You have been moved to jail for {} seconds. ({})
+== Você foi enviado para a prisão por {} segundos. ({})
+
+Already in quest!
+== Já está em uma missão!
+
+There is no quest for your level.
+== Não há missão para o seu nível.
+
+You can't do it in this game.
+== Você não pode fazer isso neste jogo.
+
+You are not in the team 0.
+== Você não está no time 0.
+
+Target is not in the team 0.
+== O alvo não está no time 0.
+
+You can't enter level quest while you're carrying the flag.
+== Você não pode entrar na missão enquanto carrega a bandeira.
+
+Quest passed!
+== Missão concluída!
+
+Quest failed!
+== Missão falhou!
+
+You need to be in drawer mode.
+== Você precisa estar no modo de desenho.
+
+Saving your drawing...
+== Salvando seu desenho...
+
+Loading your drawing...
+== Carregando seu desenho...
+
+Can't load drawing!
+== Não foi possível carregar o desenho!
+
+Your drawing loaded!
+== Seu desenho foi carregado!
+
+King of Hill circle radius decreased!
+== O raio do círculo do King of Hill foi reduzido!
+
+King of Hill closed. Nobody won.
+== King of Hill encerrado. Ninguém venceu.
+
+King of Hill ({} contestants) {}1
+== King of Hill ({} participantes) {}1
+
+King of Hill ({}/{} points [{}%])
+== King of Hill ({}/{} pontos [{}%])
+
+Too many items ($d).
+== Muitos itens ($d).
+
+You removed member edit permission from room {}.
+== Você removeu a permissão de edição de um membro na sala {}.
+
+You were removed from editors of room {}.
+== Você foi removido dos editores da sala {}.
+
+{}. Room: {}, until: {}, price: {}$, seller: {-}
+== {}. Sala: {}, até: {}, preço: {}$, vendedor: {-}
+
+Lot not found.
+== Lote não encontrado.
+
+Lot canceled.
+== Lote cancelado.
+
+Lot already exists.
+== O lote já existe.
+
+Only seller could cancel lot.
+== Apenas o vendedor pode cancelar o lote.
+
+Lot placed. Use '/room_lots' to check lots. Use '/room_lot_cancel' to cancel lot.
+== Lote colocado. Use '/room_lots' para verificar os lotes. Use '/room_lot_cancel' para cancelar o lote.
+
+Transaction failed.
+== Transação falhou.
+
+Lot purchased, bank balance: {} (-{})
+== Lote comprado, saldo no banco: {} (-{})
+
+There is no active lots.
+== Não há lotes ativos.
+
+Use '/room_spawn {}' to toggle spawn in room.
+== Use '/room_spawn {}' para alternar o spawn na sala.
+
+Use '/room_edit {}' to toggle room item edit mode.
+== Use '/room_edit {}' para alternar o modo de edição de itens na sala.
+
+Use '/room_invite {} <name>' to invite member.
+== Use '/room_invite {} <nome>' para convidar um membro.
+
+You can't buy self lot.
+== Você não pode comprar seu próprio lote.
+
+Lot sold, bank balance: {} (+{})
+== Lote vendido, saldo no banco: {} (+{})
+
+Another player purchase processing, try later.
+== Processamento de compra de outro jogador, tente novamente mais tarde.
+
+You give member editor permission for room {}.
+== Você deu permissão de edição a um membro na sala {}.
+
+You got editor permission for room {}.
+== Você recebeu permissão de edição na sala {}.
+
+Brush: {}, {}/{} items
+== Pincel: {}, {}/{} itens
+
+Scroll: choose item
+== Rolagem: escolher item
+
+LMB: place item
+== Botão esquerdo do mouse: colocar item
+
+RMB: remove item
+== Botão direito do mouse: remover item
+
+F3: prev option
+== F3: opção anterior
+
+F4: next option
+== F4: próxima opção
+
+S: switch mode
+== S: alternar modo
+
+Rotation
+== Rotação
+
+Color
+== Cor
+
+Thickness
+== Espessura
+
+Centered
+== Centralizado
+
+Rotation angle
+== Ângulo de rotação
+
+Heart
+== Coração
+
+Shield
+== Escudo
+
+Key
+== Chave
+
+Door
+== Porta
+
+Speedup
+== Acelerador
+
+Brush
+== Pincel
+
+items
+== itens
+
+Items
+== Itens
+
+Can't find upgrade.
+== Não foi possível encontrar a melhoria.
+
+Can't buy/prolong, wrong duration type.
+== Não é possível comprar/prolongar, tipo de duração incorreto.
+
+Can't find account.
+== Conta não encontrada.
+
+Not enough cash on account.
+== Dinheiro insuficiente na conta.
+
+Not enough {} on account ({}/{}).
+== Dinheiro insuficiente de {} na conta ({}/{}).
+
+Not enough level.
+== Nível insuficiente.
+
+Can't buy this item, another player already bought it.
+== Não é possível comprar este item, outro jogador já o comprou.
+
+Can't buy this item, you reached max item count for this type.
+== Não é possível comprar este item, você atingiu o limite máximo de itens deste tipo.
+
+Can't buy this item, you reached max item level for this type.
+== Não é possível comprar este item, você atingiu o nível máximo de itens deste tipo.
+
+You succeed bought upgrade.
+== Melhoria comprada com sucesso.
+
+Can't buy this, you already have one item in this category.
+== Não é possível comprar isso, você já possui um item nesta categoria.
+
+Can't find player with given name.
+== Não foi possível encontrar um jogador com este nome.
+
+Login already exists.
+== O login já existe.
+
+You can't register more accounts, limit reached.
+== Você não pode registrar mais contas, limite atingido.
+
+You successfully registered. Login now with '/login <login> <pw>'.
+== Você foi registrado com sucesso. Faça login agora com '/login <login> <senha>'.
+
+Wrong login and/or password. Please check it and try again.
+== Login e/ou senha incorretos. Por favor, verifique e tente novamente.
+
+Account blocked.
+== Conta bloqueada.
+
+You already authorized on another server. Logout first on that server. Contact administration if that's not the case.
+== Você já está autorizado em outro servidor. Saia primeiro nesse servidor. Entre em contato com a administração se este não for o caso.
+
+Password successfully changed.
+== Senha alterada com sucesso.
+
+Prefix successfully changed.
+== Prefixo alterado com sucesso.
+
+Pin code successfully changed.
+== Código PIN alterado com sucesso.
+
+Old pin code is wrong.
+== Código PIN antigo incorreto.
+
+Contact successfully changed.
+== Contato alterado com sucesso.
+
+Wrong old password.
+== Senha antiga incorreta.
+
+Role successfully changed.
+== Função alterada com sucesso.
+
+Too many members in room.
+== Muitos membros na sala.
+
+'{-}' scored for red team!
+== '{-}' marcou para o time vermelho!
+
+'{-}' scored for blue team!
+== '{-}' marcou para o time azul!
+
+Football
+== Futebol
+
+In this game you need to get the ball into the opposing team's goal.
+== Neste jogo, você precisa colocar a bola no gol da equipe adversária.
+
+Not enough players to start event.
+== Jogadores insuficientes para iniciar o evento.
+
+You are not allowed to participate in event.
+== Você não tem permissão para participar do evento.
+
+Duels not allowed in this zone.
+== Duelos não são permitidos nesta zona.
+
+Hook weapon
+== Gancho de arma
+
+Duels allowed in this zone.
+== Duelos permitidos nesta zona.
+
+Duels forbidden in this zone.
+== Duelos proibidos nesta zona.
+
+In this game, you need to withdraw your money before the 'Crash' happens.
+== Neste jogo, você precisa retirar seu dinheiro antes que o 'Crash' aconteça.
+
+To start the game you need to bet '/bet <amount> <coefficient>' during betting.
+== Para começar o jogo, você precisa apostar '/bet <quantidade> <coeficiente>' durante as apostas.
+
+You don't have to enter a coefficient, but if you do, the money will be withdrawn when the specified coefficient is reached. Be careful with this coefficient!
+== Não é obrigatório inserir um coeficiente, mas se você fizer isso, o dinheiro será retirado quando o coeficiente especificado for atingido. Tenha cuidado com este coeficiente!
+
+Coefficient should be not less then {~.2}!
+== O coeficiente não deve ser menor que {~.2}!
+
+Wait until your current bet will be finished!
+== Aguarde até que sua aposta atual seja concluída!
+
+Wait until event finished!
+== Aguarde até o evento terminar!
+
+Clan '{-}' reached new level {}!
+== O clã '{-}' alcançou o nível {}!
+
+Rainbow feet
+== Pés arco-íris
+
+Rainbow body
+== Corpo arco-íris
+
+Rainbow tee
+== Camiseta arco-íris
+
+Hat hammer
+== Chapéu de martelo
+
+Hat pistol
+== Chapéu de pistola
+
+Hat shotgun
+== Chapéu de espingarda
+
+Hat grenade
+== Chapéu de granada
+
+Hat laser
+== Chapéu de laser
+
+Hat ninja
+== Chapéu de ninja
+
+Trail dot
+== Rastro de pontos
+
+Trail star
+== Rastro de estrelas
+
+Heart gun
+== Pistola de corações
+
+Evil gun
+== Pistola do mal
+
+Noob gun
+== Pistola NOOB
+
+Hiding Box
+== Caixa escondida
+
+Drawer
+== Desenhista
+
+Death grave
+== Túmulo da morte
+
+Death F
+== Morte F
+
+Name protection
+== Proteção de nome
+
+Shotgun kit
+== Kit de espingarda
+
+Grenade kit
+== Kit de granada
+
+Laser kit
+== Kit de laser
+
+Wall jump
+== Pulo na parede
+
+Tank
+== Tanque
+
+Spidertron
+== Aranha robô
+
+Helicopter
+== Helicóptero
+
+Izbushka
+== Cabana
+
+Robo-legs
+== Pernas robóticas
+
+Hoverboard
+== Hoverboard
+
+Ship
+== Navio
+
+Cat
+== Gato
+
+Vip key
+== Chave VIP
+
+Vip
+== VIP
+
+Donor
+== Doador
+
+Your feet will shimmer with rainbows
+== Seus pés brilharão com arco-íris
+
+Your body will shimmer with rainbows
+== Seu corpo brilhará com arco-íris
+
+Your feet and body will shimmer with rainbows
+== Seus pés e corpo brilharão com arco-íris
+
+Your name will shimmer with rainbows
+== Seu nome brilhará com arco-íris
+
+The hammer will be over your head when you stand still
+== O martelo ficará sobre sua cabeça quando você estiver parado
+
+The pistol will be over your head when you stand still
+== A pistola ficará sobre sua cabeça quando você estiver parado
+
+The shotgun will be over your head when you stand still
+== A espingarda ficará sobre sua cabeça quando você estiver parado
+
+The grenade will be over your head when you stand still
+== A granada ficará sobre sua cabeça quando você estiver parado
+
+The laser will be over your head when you stand still
+== O laser ficará sobre sua cabeça quando você estiver parado
+
+The ninja will be over your head when you stand still
+== O ninja ficará sobre sua cabeça quando você estiver parado
+
+You will leave a trail of dots behind you
+== Você deixará um rastro de pontos atrás de você
+
+You will leave a trail of stars behind you
+== Você deixará um rastro de estrelas atrás de você
+
+Shoot with hearts
+== Atire com corações
+
+Shoot with shields
+== Atire com escudos
+
+Make a noob sign over another player by shooting them
+== Faça um sinal de NOOB sobre outro jogador atirando nele
+
+Become a box
+== Torne-se uma caixa
+
+Draw outside the boundaries of the map
+== Desenhe fora dos limites do mapa
+
+Leave a reminder of yourself in the form of a grave after death
+== Deixe um lembrete de si mesmo na forma de um túmulo após a morte
+
+Make it clear that others must respect you after death
+== Mostre que os outros devem respeitá-lo após a morte
+
+Activate protection for your nickname from fakes
+== Ative a proteção do seu apelido contra falsificações
+
+Use this kit after respawn to get hammer fast
+== Use este kit após renascer para obter o martelo rapidamente
+
+Use this kit after respawn to get shotgun fast
+== Use este kit após renascer para obter a espingarda rapidamente
+
+Use this kit after respawn to get grenade fast
+== Use este kit após renascer para obter a granada rapidamente
+
+Use this kit after respawn to get laser fast
+== Use este kit após renascer para obter o laser rapidamente
+
+Slide any walls
+== Deslize em qualquer parede
+
+Become a little tank
+== Torne-se um pequeno tanque
+
+Become a little spider
+== Torne-se uma pequena aranha
+
+Become a little helicopter
+== Torne-se um pequeno helicóptero
+
+Become a little izbushka
+== Torne-se uma pequena cabana
+
+Become a robo-legs
+== Torne-se pernas robóticas
+
+Become a Hoverboard
+== Torne-se um hoverboard
+
+Become a little ship
+== Torne-se um pequeno navio
+
+Become a little cat
+== Torne-se um pequeno gato
+
+Vip access
+== Acesso VIP
+
+Donor access
+== Acesso doador
+
+Only one owner allowed
+== Apenas um proprietário permitido
+
+Rainbows
+== Arco-íris
+
+Hats
+== Chapéus
+
+Trails
+== Rastros
+
+Guns
+== Armas
+
+Kits
+== Kits
+
+Avatars
+== Avatares
+
+Others
+== Outros
+
+Rooms
+== Salas
+
+Map design
+== Design de mapa
+
+Available designs:
+== Designs disponíveis:
+
+Design not found, use '/design' to check available.
+== Design não encontrado, use '/design' para verificar os disponíveis.
+
+Spawn point set.
+== Ponto de spawn definido.
+
+Successfully stored on account.
+== Salvo com sucesso na conta.
+
+Auto login into account on join
+== Login automático na conta ao entrar
+
+Options
+== Opções
+
+Passive mode activated for {} seconds.
+== Modo passivo ativado por {} segundos.
+
+Your clan is not registered.
+== Seu clã não está registrado.
+
+Register Clan
+== Registrar Clã
+
+Print Members
+== Exibir Membros
+
+Invite Members
+== Convidar Membros
+
+Kick Members
+== Expulsar Membros
+
+Set role
+== Definir Função
+
+Delete Clan
+== Excluir Clã
+
+Leave Clan
+== Sair do Clã
+
+Rename Clan
+== Renomear Clã
+
+You are not a clan member.
+== Você não é membro do clã.
+
+Role
+== Função
+
+Owner
+== Proprietário
+
+Moderator
+== Moderador
+
+Member
+== Membro
+
+Clan Tag
+== Tag do Clã
+
+Use reason to set command <parameter>
+== Use a razão para definir o comando <parâmetro>
+
+Transfer Ownership
+== Transferir Propriedade
+
+Wrong role name, available: [member|moder|owner].
+== Nome da função incorreto, disponíveis: [member|moder|owner].
+
+Freeze progress bar
+== Barra de progresso congelada
+
+Wallet disabled.
+== Carteira desativada.
+
+You need to reach {} level to create clan.
+== Você precisa alcançar o nível {} para criar um clã.
+
+You need to reach {} level to pass.
+== Você precisa alcançar o nível {} para passar.
+
+Ufo
+== Ovni
+
+Become a little ufo
+== Torne-se um pequeno ovni
+
+Rainbow name
+== Nome arco-íris
+
+Reached max item count.
+== Número máximo de itens alcançado.
+
+Vip indicator
+== Indicador VIP
+
+Designs disabled.
+== Designs desativados.
+
+Hunters
+== Caçadores
+
+Cooldown
+== Tempo de recarga
+
+Invisible
+== Invisível
+
+Time left
+== Tempo restante
+
+Hunter time left
+== Tempo restante para o caçador
+
+Bombs
+== Bombas
+
+Coefficient
+== Coeficiente
+
+Crash
+== Crash
+
+Waiting players to continue..
+== Aguardando jogadores para continuar...
+
+is starting
+== está começando
+
+Not allowed to logout in duel.
+== Não é permitido sair da conta durante o duelo.
+
+'{}' arena id updated: {} ({})
+== ID da arena '{}' atualizado: {} ({})
+
+Duel arena id: {} ({})
+== ID da arena para duelo: {} ({})
+
+Available arenas: {}
+== Arenas disponíveis: {}
+
+Move please to remove afk state.
+== Por favor, mova-se para sair do estado AFK.
+
+Score for '{-}'!
+== Pontuação para '{-}'!
+
+Draw.
+== Empate.
+
+Duel with '{-}' canceled.
+== Duelo com '{-}' cancelado.
+
+'{-}' canceled duel request.
+== '{-}' cancelou o pedido de duelo.
+
+There is no pending duel request.
+== Não há pedido de duelo pendente.
+
+This player disabled duel requests.
+== Este jogador desativou os pedidos de duelo.
+
+All duel requests ignore: {}.
+== Ignorar todos os pedidos de duelo: {}.
+
+Enabled
+== Ativado
+
+Disabled
+== Desativado
+
+Rating duel search stopped.
+== Pesquisa de duelo ranqueado interrompida.
+
+Rating duel search started.
+== Pesquisa de duelo ranqueado iniciada.
+
+Always rating duel search
+== Sempre pesquisar duelo ranqueado
+
+Rating duel found. Creating match with '{-}' (Rating: {}).
+== Duelo ranqueado encontrado. Criando partida com '{-}' (Classificação: {}).
+
+Rating: {} ({}{})
+== Classificação: {} ({}{})
+
+Rating
+== Classificação
+
+Calibrating
+== Calibrando
+
+Rating calibrating ({}/{}) games played.
+== Calibrando classificação ({}/{}) jogos jogados.
+
+Games
+== Jogos
+
+Search available only in zero team.
+== Pesquisa disponível apenas no time zero.
+
+Search available only if not participate in duel and no outgoing duel requests sent.
+== Pesquisa disponível apenas se não estiver participando de duelo e sem pedidos de duelo enviados.
+
+Search rating duel will not be cancelled once the duel is over.
+== A pesquisa de duelo ranqueado não será cancelada após o término do duelo.
+
+Search rating duel will be cancelled once the duel is over.
+== A pesquisa de duelo ranqueado será cancelada após o término do duelo.
+
+Search available only from main player.
+== Pesquisa disponível apenas para o jogador principal.
+
+{} starts in {} seconds.
+== {} começa em {} segundos.
+
+Searching rating duel
+== Pesquisando duelo ranqueado
+
+Search Time
+== Tempo de pesquisa
+
+Rating Duel
+== Duelo Ranqueado
+
+In search
+== Em busca
+
+Bronze
+== Bronze
+
+Silver
+== Prata
+
+Gold
+== Ouro
+
+Platinum
+== Platina
+
+Legend
+== Lenda
+
+Mythical
+== Mítico
+
+Divine
+== Divino
+
+You have the opportunity to play a ranked duel with a suitable opponent as he has been on the lookout for too long.
+== Você tem a oportunidade de jogar um duelo ranqueado com um oponente adequado, pois ele está procurando há muito tempo.
+
+Type '/accept rating' to play.
+== Digite '/accept rating' para jogar.
+
+Since you've been on the lookout for too long, a request to compete with a suitable player has been sent.
+== Como você está procurando há muito tempo, um pedido para competir com um jogador adequado foi enviado.
+
+Rating duel accepted.
+== Duelo ranqueado aceito.
+
+Arena {} already in blacklist.
+== A arena {} já está na lista negra.
+
+Arena {} removed from blacklist.
+== Arena {} removida da lista negra.
+
+Arena {} added to blacklist.
+== Arena {} adicionada à lista negra.
+
+Too many arenas in blacklist already, remove any to add new one. Blacklist: {}
+== Muitas arenas já estão na lista negra, remova alguma para adicionar uma nova. Lista negra: {}
+
+Disable Search
+== Desativar Pesquisa
+
+Enable Search
+== Ativar Pesquisa
+
+Add arena to blacklist:
+== Adicionar arena à lista negra:
+
+Use dashes
+== Usar traços
+
+Opponent duel skin
+== Skin do oponente no duelo
+
+DND
+== Não Perturbe
+
+Activated for next rating duel.
+== Ativado para o próximo duelo ranqueado.
+
+Deactivated for next rating duel.
+== Desativado para o próximo duelo ranqueado.
+
+Double-Rating Badge
+== Insígnia de Classificação Dupla
+
+Double rating bet in duel
+== Aposta de classificação dupla no duelo
+
+Available Badges
+== Insígnias Disponíveis
+
+You don't have badges
+== Você não possui insígnias
+
+Badges Shop
+== Loja de Insígnias
+
+Badge
+== Insígnia
+
+Exited rating duel
+== Saiu do duelo ranqueado
+
+Rating duel request is expired.
+== Pedido de duelo ranqueado expirou.
+
+Ranks information:
+== Informações sobre patentes:
+
+Not allowed.
+== Não permitido.
+
+Choose donor name prefix:
+== Escolha o prefixo de nome do doador:
+
+Choose vip name prefix:
+== Escolha o prefixo de nome VIP:
+
+You are not the Vip.
+== Você não é VIP.
+
+You are not the Donor.
+== Você não é Doador.
+
+Contact admin for more information.
+== Entre em contato com o administrador para mais informações.
+
+Weekend Boost
+== Impulso de Fim de Semana
+
+Vip Boost
+== Impulso VIP
+
+Vip Discount
+== Desconto VIP
+
+\[{}] The {} won with score {} - {}!
+== [{}] O {} venceu com pontuação {} - {}!
+
+Cosmetic
+== Cosméticos
+
+Vip upgrades:
+== Melhorias VIP:
+
+Donor upgrades:
+== Melhorias de Doador:
+
+Freeze players from the opposing team and throw them into the scoring area.
+== Congele jogadores da equipe adversária e jogue-os na área de pontuação.
+
+Can't report youself.
+== Não é possível reportar a si mesmo.
+
+Reports are disabled on the server.
+== Relatórios estão desativados no servidor.
+
+Report to '{-}' sent. Message: {-}
+== Relatório para '{-}' enviado. Mensagem: {-}
+
+Your report to '{-}' has been {}.
+== Seu relatório para '{-}' foi {}.
+
+accepted
+== aceito
+
+rejected
+== rejeitado
+
+You are banned from reports system for the next {} seconds.
+== Você está banido do sistema de relatórios pelos próximos {} segundos.
+
+You have been unbanned from report system.
+== Você foi desbanido do sistema de relatórios.
+
+You have been unbanned from report system early by moderator.
+== Você foi desbanido do sistema de relatórios antecipadamente pelo moderador.
+
+You have been banned in report system for {} seconds. ({})
+== Você foi banido do sistema de relatórios por {} segundos. ({})
+
+Please try later.
+== Por favor, tente mais tarde.
+
+Only loggined tournament participant allowed on server
+== Apenas participantes logados no torneio são permitidos no servidor.
+
+Login in account or ban ({} s) in {} seconds
+== Faça login na conta ou será banido ({} s) em {} segundos.
+
+Your account approved for tournament.
+== Sua conta foi aprovada para o torneio.
+
+Day: {}
+== Dia: {}
+
+Daily reward already received!
+== Recompensa diária já recebida!
+
+Rating reward already received!
+== Recompensa de classificação já recebida!
+
+You have completed the daily quests (Day {}) and are receiving your reward!
+== Você completou as missões diárias (Dia {}) e está recebendo sua recompensa!
+
+Reward tasks:
+== Tarefas de Recompensa:
+
+King of Hill opened!
+== King of Hill aberto!
+
+Until next level:
+== Até o próximo nível:
+
+There is no tasks for next level
+== Não há tarefas para o próximo nível.
+
+Level: {}
+== Nível: {}
+
+Get rating reward:
+== Obter recompensa de classificação:
+
+Rating reward in
+== Recompensa de classificação em
+
+Level frags
+== Frags de Nível
+
+Rating is disabled on server.
+== A classificação está desativada no servidor.
+
+Reward for participation: {}$, {} frags
+== Recompensa por participação: {}$, {} frags
+
+You have been unmuted after your mute duration ended. Don't break the rules again!
+== Você foi desmutado após o término do mute. Não quebre as regras novamente!
+
+You have been unmuted early by the moderator. Enjoy your chat, and please avoid any more violations.
+== Você foi desmutado antecipadamente pelo moderador. Aproveite o chat e evite novas infrações.
+
+Cycle between level and rating
+== Alternar entre nível e classificação
+
+Show as score in scoreboard:
+== Mostrar como pontuação no placar:
+
+You can't do that.
+== Você não pode fazer isso.
+
+The duel jail reward has been reset. You can't jail your dummy.
+== A recompensa de prisão do duelo foi redefinida. Você não pode prender seu boneco.
+
+The rating calibrating has ended. You got the {} Rank.
+== A calibragem de classificação foi concluída. Você alcançou o rank {}.
+
+Congratulations! '{-}' has achieved the {} Rank.
+== Parabéns! '{-}' alcançou o rank {}.
+
+'{-}' ended his calibration and got the {} Rank.
+== '{-}' concluiu a calibragem e obteve o rank {}.
+
+Rating: {}
+== Classificação: {}
+
+Winrate: {}/{} ({~.2}%)
+== Taxa de vitórias: {}/{} ({~.2}%)
+
+Your discord link code is {-}. It lasts for {-} {}.
+== Seu código de link do Discord é {-}. Ele dura {-} {}.
+
+Natural physic prediction
+== Previsão física natural
+
+Kill Protection enabled. Press the kill button {} {} if you are sure.
+== Proteção contra mortes ativada. Pressione o botão de kill mais {} {}, se estiver certo.
+
+more time
+== vez
+
+more times
+== vezes
+
+Purchases
+== Compras
+
+Taser
+== Taser
+
+Upgrading to level {} → {}
+== Atualizando para o nível {} → {}
+
+Max
+== Máximo
+
+linked
+== vinculado
+
+press to link
+== pressione para vincular
+
+You have already linked your discord account. Contact admins if you want to change.
+== Você já vinculou sua conta do Discord. Entre em contato com os administradores se quiser alterar.
+
+Get an account with '/register <name> <pw>'.
+== Crie uma conta com '/register <nome> <senha>'.
+
+Staff
+== Equipe
+
+Choose staff name prefix:
+== Escolha o prefixo de nome da equipe:
+
+Staff upgrades:
+== Melhorias da equipe:
+
+Media
+== Mídia
+
+Choose media name prefix:
+== Escolha o prefixo de nome da mídia:
+
+Media upgrades:
+== Melhorias da mídia:
+
+'{-}' was transferred to '{}'
+== '{-}' foi transferido para '{}'
+
+'{-}' has left the game ({-})
+== '{-}' saiu do jogo ({-})
+
+'{-}' has left the game
+== '{-}' saiu do jogo
+
+Level Up! Current level: {}
+== Subiu de nível! Nível atual: {}
+
+'{-}' entered and joined the {}
+== '{-}' entrou e se juntou aos {}
+
+game
+== jogo
+
+spectators
+== espectadores
+
+'{-}' has been muted for {-} seconds ({-})
+== '{-}' foi silenciado por {-} segundos ({-})
+
+'{-}' has been muted for {-} seconds
+== '{-}' foi silenciado por {-} segundos
+
+Not enough amount for drop {}/{}.
+== Quantidade insuficiente para largar {}/{}.
+
+Minimal drop amount is {}.
+== Quantidade mínima para largar é {}.
+
+Wrong item name, possible types: /drop <ammo> <amount>.
+== Nome de item errado, tipos possíveis: /drop <ammo> <quantidade>.
+
+Duel found. Creating match.
+== Duelo encontrado. Criando partida.
+
+Duels are disabled on server.
+== Duelos estão desativados no servidor.
+
+You can't search for duel while rating search is active.
+== Você não pode buscar duelo enquanto a busca ranqueada está ativa.
+
+Duel search started.
+== Busca de duelo iniciada.
+
+Duel search stopped.
+== Busca de duelo interrompida.
+
+Searching duel
+== Buscando duelo
+
+You can't search for rating duel while duel search is active.
+== Você não pode buscar duelo ranqueado enquanto a busca de duelo está ativa.
+
+'{-}' is on a fury with {} kills! A bounty is now on his head!
+== '{-}' está furioso com {} mortes! Agora há uma recompensa pela sua cabeça!
+
+'{-}' is causing chaos with {} kills! Take his head for a bounty!
+== '{-}' está causando caos com {} mortes! Pegue sua cabeça por uma recompensa!
+
+Attention! '{-}' is on bursting killing spree of {} kills, and now there is a bounty on his head!
+== Atenção! '{-}' está em uma explosiva sequência de {} mortes! Agora há uma recompensa por sua cabeça!
+
+'{-}' took down '{-}' and claimed a reward of {}$! Bounty Hunt is over!
+== '{-}' derrubou '{-}' e reivindicou uma recompensa de {}$! A caçada acabou!
+
+'{-}' eliminated '{-}' and earned {}$! Bounty Hunt is over!
+== '{-}' eliminou '{-}' e ganhou {}$! A caçada acabou!
+
+'{-}' slayed the target '{-}' and got away with {}$! Bounty Hunt is over!
+== '{-}' matou o alvo '{-}' e fugiu com {}$! A caçada acabou!
+
+Nobody could manage to kill '{-}' in time! Bounty Hunt is over!
+== Ninguém conseguiu matar '{-}' a tempo! A caçada acabou!
+
+Rules
+== Regras
+
+'{-}' has ran away! Bounty Hunt is over!
+== '{-}' fugiu! A caçada acabou!
+
+'{-}' was frightened by '{-}' and dropped {}$! The Bounty Hunt is over!
+== '{-}' foi assustado por '{-}' e deixou cair {}$! A caçada acabou!
+
+'{-}' was frozen to the bones by '{-}' and dropped {}$! The Bounty Hunt is over!
+== '{-}' foi congelado até os ossos por '{-}' e deixou cair {}$! A caçada acabou!
+
+Block Spree
+== Sequência de Bloqueios
+
+You have been punished for bad client. Get official client from ddnet.org/download
+== Você foi punido por usar um cliente suspeito. Obtenha o cliente oficial em ddnet.org/download
+
+Can't transfer cash while jailed.
+== Não é possível transferir dinheiro enquanto estiver preso.
+
+Can't transfer cash to jailed player.
+== Não é possível transferir dinheiro para um jogador preso.
+
+You need to reach {} level to start rating search.
+== Você precisa alcançar o nível {} para começar a busca ranqueada.
+
+There is an incoming report from {-} to {-}. Check the discord.
+== Há um relatório de {-} para {-}. Verifique o Discord.
+
+Always duel search
+== Sempre buscar duelo
+
+Portals forbidden in this zone.
+== Portais proibidos nesta zona.
+
+Portals allowed in this zone.
+== Portais permitidos nesta zona.
+
+You have added {-} to duel ignore list.
+== Você adicionou {-} à lista de ignorados nos duelos.
+
+You have removed {-} from duel ignore list.
+== Você removeu {-} da lista de ignorados nos duelos.
+
+You can't add yourself to duel ignore list.
+== Você não pode se adicionar à lista de ignorados nos duelos.
+
+You can't use chat right now. Please wait.
+== Você não pode usar o chat agora. Por favor, aguarde.
+
+You client is being verified or seems bad. Get official client from ddnet.org/downloads
+== Seu cliente está sendo verificado ou parece suspeito. Obtenha o cliente oficial em ddnet.org/downloads
+
+Spooky gun
+== Pistola Assustadora
+
+Shoot with spooky bullets
+== Atire com balas assustadoras
+
+You don't have purchases
+== Você não tem compras
+
+players
+== jogadores
+
+Progress
+== Progresso
+
+Completed
+== Concluído
+
+Not enough level ({}/{}) to access '{}'.
+== Nível insuficiente ({}/{}) para acessar '{}'.
+
+'{}' access from {} level
+== '{}' acessível a partir do nível {}
+
+Your game doesn't have spree.
+== Seu jogo não possui sequência.
+
+Killing Spree
+== Sequência de Mortes
+
+Your current {} is {}.
+== Seu(a) atual {} é {}.
+
+Admin has restarted the FNG round.
+== O administrador reiniciou a rodada FNG.
+
+The FNG round ended with a tie!
+== A rodada FNG terminou em empate!
+
+Most Kills
+== Mais Mortes
+
+Best Spree
+== Melhor Sequência
+
+Best Multi
+== Melhor Multi-Morte
+
+Best K/D
+== Melhor K/D
+
+Most Freezes
+== Mais Congelamentos
+
+Most Wallshots
+== Mais Disparos em Parede
+
+Best Accuracy
+== Melhor Precisão
+
+You aren't in a game.
+== Você não está em um jogo.
+
+You don't have statistics for game's round.
+== Você não possui estatísticas para a rodada do jogo.
+
+Your statistics:
+== Suas estatísticas:
+
+Kills
+== Mortes
+
+Freezes
+== Congelamentos
+
+Wallshots
+== Disparos em Parede
+
+Accuracy
+== Precisão
+
+Teams were balanced.
+== Equipes foram balanceadas.
+
+Teams were shuffled.
+== Equipes foram embaralhadas.
+
+You can't join a team which is close to win.
+== Você não pode entrar em uma equipe que está perto de vencer.
+
+block spree
+== sequência de bloqueios
+
+killing spree
+== sequência de mortes
+
+Max Multi
+== Máximo de Multi-Mortes
+
+Max Spree
+== Máxima Sequência de Mortes
+
+Currency
+== Moeda
+
+'{-}' multi x{}!
+== '{-}' multi-morte x{}!
+
+'{-}' multi x{} finished!
+== '{-}' multi-morte x{} concluída!
+
+'{-}' is on a killing spree with {} kills!
+== '{-}' está em uma sequência de {} mortes!
+
+'{-}' tried to steal '{-}' kill!
+== '{-}' tentou roubar a morte de '{-}'!
+
+You get random bonus: {}
+== Você recebeu um bônus aleatório: {}
+
+Disable: {}
+== Desativar: {}
+
+Can't change teams while frozen!
+== Não é possível mudar de equipe enquanto estiver congelado!
+
+Star gun
+== Pistola Estelar
+
+Shoot with stars
+== Atire com estrelas
+
+You are sending reports too fast.
+== Você está enviando relatórios muito rápido.
+
+Effects
+== Efeitos
+
+Glow
+== Brilho
+
+Glow with happiness
+== Brilhar de felicidade
+
+The server is going to shutdown in {} {} ({-})
+== O servidor será desligado em {} {} ({-})
+
+The map is going to reload in {} {} ({-})
+== O mapa será recarregado em {} {} ({-})
+
+The server shutdown was cancelled.
+== O desligamento do servidor foi cancelado.
+
+The map reload was cancelled.
+== O recarregamento do mapa foi cancelado.
+
+Language
+== Idioma
+
+Settings
+== Configurações
+
+Clan
+== Clã
+
+Time
+== Tempo
+
+Firework
+== Fogos de Artifício
+
+Sparklers
+== Estalinhos
+
+Got smoke grenade. Current count: {}
+== Granada de fumaça recebida. Quantidade atual: {}
+
+Score
+== Pontuação
+
+Red team
+== Equipe Vermelha
+
+Blue team
+== Equipe Azul
+
+'{}' isn't logged in account, rating duel canceled.
+== '{}' não está logado na conta, duelo ranqueado cancelado.
+
+You blocked '{}', this is forbidden on server.
+== Você bloqueou '{}', isso é proibido no servidor.
+
+Laser ammo will be respawned in {} seconds.
+== A munição do laser será recarregada em {} segundos.
+
+That was the death in good game
+== Essa foi uma morte em um bom jogo.
+
+Kills:
+== Mortes:
+
+{}. '{-}' - {} kills!
+== {}. '{-}' - {} mortes!
+
+{}. No last player alive.
+== {}. Nenhum último jogador vivo.
+
+\[{}] The event is over!
+== [{}] O evento acabou!
+
+No winners in this event.
+== Não há vencedores neste evento.
+
+You aren't logged in an account to receive a reward.
+== Você não está logado em uma conta para receber a recompensa.
+
+Death star
+== Estrela da Morte
+
+Death stars circle
+== Círculo de Estrelas da Morte
+
+Death vortex
+== Vórtice da Morte
+
+Five stars after death make clear you were a bandit
+== Cinco estrelas após a morte deixam claro que você era um bandido.
+
+Shine like never before after death
+== Brilhe como nunca após a morte.
+
+Plasma vortex hides you after death
+== O vórtice de plasma esconde você após a morte.
+
+Do not disturb mode enabled, to disable write /dnd.
+== Modo Não Perturbe ativado. Para desativar, escreva /dnd.
+
+Kick player
+== Expulsar jogador
+
+'{}' jailed for {} seconds for block.
+== '{}' foi preso por {} segundos por bloqueio.
