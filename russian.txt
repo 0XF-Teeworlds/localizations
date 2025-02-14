@@ -1225,11 +1225,11 @@ Hiding Box
 Drawer
 == Рисовалка
 
-Death grave
-== Смерть могилка
+Deaths
+== Респаун
 
-Death F
-== Смерть F
+Grave
+== Могилка
 
 Name protection
 == Защита имени
@@ -2308,14 +2308,20 @@ No winners in this event.
 You aren't logged in an account to receive a reward.
 == Вы не вошли в аккаунт для получения награды.
 
-Death star
-== Смерть звезда
+Star
+== Звезда
 
-Death stars circle
-== Смерть круг звёзд
+Stars circle
+== Круг звёзд
 
-Death vortex
-== Смерть вихрь
+Vortex
+== Вихрь
+
+Lovely
+== Влюблённый
+
+Weapons
+== Оружия
 
 Five stars after death make clear you were a bandit
 == Пять звезд после смерти дают понять, что вы были бандитом

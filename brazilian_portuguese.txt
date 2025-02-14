@@ -1225,11 +1225,11 @@ Hiding Box
 Drawer
 == Desenhista
 
-Death grave
-== Túmulo da morte
+Deaths
+== Mortes
 
-Death F
-== Morte F
+Grave
+== Túmulo
 
 Name protection
 == Proteção de nome
@@ -2308,14 +2308,20 @@ No winners in this event.
 You aren't logged in an account to receive a reward.
 == Você não está logado em uma conta para receber a recompensa.
 
-Death star
-== Estrela da Morte
+Star
+== Estrela
 
-Death stars circle
-== Círculo de Estrelas da Morte
+Stars circle
+== Círculo de estrelas
 
-Death vortex
-== Vórtice da Morte
+Vortex
+== Vórtice
+
+Lovely
+== Adorável
+
+Weapons
+== Armas
 
 Five stars after death make clear you were a bandit
 == Cinco estrelas após a morte deixam claro que você era um bandido.
