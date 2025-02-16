@@ -2340,3 +2340,15 @@ Kick player
 
 '{}' jailed for {} seconds for block.
 == '{}' посажен в тюрьму за блок на {} секунд.
+
+Name protection check passed ({}).
+== Проверка защиты ника пройдена ({}).
+
+Name protection check failed ({}).
+== Проверка защиты ника не пройдена ({}).
+
+Name check still in progress or name already taken by other player!
+== Проверка ника ещё в процессе или имя уже занято другим игроком!
+
+Protected name should be longer then {} symbols!
+== Имя для защиты должно быть длиннее чем {} символа!

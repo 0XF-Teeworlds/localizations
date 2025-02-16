@@ -2340,3 +2340,15 @@ Kick player
 
 '{}' jailed for {} seconds for block.
 == '{}' foi preso por {} segundos por bloqueio.
+
+Name protection check passed ({}).
+== A verificação da proteção do nome foi aprovada ({}).
+
+Name protection check failed ({}).
+== Falha na verificação da proteção do nome ({}).
+
+Name check still in progress or name already taken by other player!
+== A verificação do nome ainda está em andamento ou o nome já foi usado por outro jogador!
+
+Protected name should be longer then {} symbols!
+== O nome protegido deve ser maior do que os símbolos {}!
