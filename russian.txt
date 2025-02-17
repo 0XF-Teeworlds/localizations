@@ -2352,3 +2352,6 @@ Name check still in progress or name already taken by other player!
 
 Protected name should be longer then {} symbols!
 == Имя для защиты должно быть длиннее чем {} символа!
+
+Protected nicknames
+== Защищённые ники
