@@ -529,8 +529,8 @@ unknown
 Use 'Call vote' menu to access shop!
 == Use o menu 'Votação' para acessar a loja!
 
-Your protected nickname now is '{-}', which you used when you registered, if you want to change it please contact the administration.
-== Seu apelido protegido agora é '{-}', usado quando você se registrou. Se quiser alterá-lo, entre em contato com a administração.
+Your protected nickname now is '{-}'. If you want to change it please contact the administration.
+== Seu apelido protegido agora é '{-}'. Se quiser alterá-lo, entre em contato com a administração.
 
 You haven't this upgrade.
 == Você não possui esta melhoria.
@@ -540,9 +540,6 @@ This upgrade is not allowed in your current game type or zone.
 
 Press tab and shot twice to activate box.
 == Pressione Tab e dispare duas vezes para ativar a caixa.
-
-You can't reset it, contact admin if you want to update your protected nickname.
-== Você não pode redefini-lo, entre em contato com o administrador se quiser atualizar seu apelido protegido.
 
 You should be in previously spawned avatar to switch to new.
 == Você deve estar no avatar anterior para mudar para o novo.
@@ -2355,3 +2352,9 @@ Protected name should be longer then {} symbols!
 
 Protected nicknames
 == Apelidos protegidos
+
+Name protection [{}] for '{}'
+== Proteção de nome [{}] para '{}'
+
+Name protection [{}] for all nicknames
+== Proteção de nome [{}] para todos os apelidos

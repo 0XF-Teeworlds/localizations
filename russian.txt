@@ -529,8 +529,8 @@ unknown
 Use 'Call vote' menu to access shop!
 == Используйте меню 'Голосования' для доступа к магазину!
 
-Your protected nickname now is '{-}', which you used when you registered, if you want to change it please contact the administration.
-== Ваш защищенный ник теперь '{-}', который вы использовали при регистрации, если вы хотите изменить его, обратитесь к администрации.
+Your protected nickname now is '{-}'. If you want to change it please contact the administration.
+== Ваш защищенный ник теперь '{-}'. Если вы хотите изменить его, пожалуйста, свяжитесь с администрацией.
 
 You haven't this upgrade.
 == У вас нет этого улучшения.
@@ -540,9 +540,6 @@ This upgrade is not allowed in your current game type or zone.
 
 Press tab and shot twice to activate box.
 == Нажмите таб и дважды выстрелите, чтобы активировать коробку.
-
-You can't reset it, contact admin if you want to update your protected nickname.
-== Вы не можете сбросить его, обратитесь к администратору, если хотите обновить свой защищенный ник.
 
 You should be in previously spawned avatar to switch to new.
 == Чтобы переключиться на новый аватар, вы должны быть в предыдущем аватаре.
@@ -2355,3 +2352,9 @@ Protected name should be longer then {} symbols!
 
 Protected nicknames
 == Защищённые ники
+
+Name protection [{}] for '{}'
+== Защита ника [{}] для '{}'
+
+Name protection [{}] for all nicknames
+== Защита ника [{}] для всех ников
