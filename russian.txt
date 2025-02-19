@@ -643,9 +643,6 @@ You don't have any pending requests.
 Don't move {} seconds.
 == Не двигайтесь {} секунд.
 
-'{}' left or moved or frozen, duel canceled.
-== '{}' вышел или сдвинулся или был заморожен, дуэль отменена.
-
 Duel reward updated: Cash: {}$, Jail: {} seconds.
 == Обновлена награда дуэли: Деньги:{}$, Тюрьма:{} секунд.
 
@@ -2275,9 +2272,6 @@ Red team
 Blue team
 == Синяя команда
 
-'{}' isn't logged in account, rating duel canceled.
-== '{}' не вошел в аккаунт, рейтинговая дуэль отменена.
-
 You blocked '{}', this is forbidden on server.
 == Вы заблокировали '{}', это запрещено на сервере.
 
@@ -2358,3 +2352,30 @@ Name protection [{}] for '{}'
 
 Name protection [{}] for all nicknames
 == Защита ника [{}] для всех ников
+
+'{}' {}, {} canceled.
+== '{}' {}, {} отменена.
+
+left game
+== вышел из игры
+
+joined spectators
+== зашёл в наблюдатели
+
+logout from account
+== вышел из аккаунта
+
+respawned
+== зареспаунился
+
+moved
+== сдвинулся
+
+frozen
+== был заморожен
+
+changed team
+== сменил команду
+
+disabled duels
+== отключил дуэли

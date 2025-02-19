@@ -643,9 +643,6 @@ You don't have any pending requests.
 Don't move {} seconds.
 == Não se mova por {} segundos.
 
-'{}' left or moved or frozen, duel canceled.
-== '{}' saiu, se moveu ou foi congelado, duelo cancelado.
-
 Duel reward updated: Cash: {}$, Jail: {} seconds.
 == Recompensa do duelo atualizada: Dinheiro: {}$, Prisão: {} segundos.
 
@@ -2275,9 +2272,6 @@ Red team
 Blue team
 == Equipe Azul
 
-'{}' isn't logged in account, rating duel canceled.
-== '{}' não está logado na conta, duelo ranqueado cancelado.
-
 You blocked '{}', this is forbidden on server.
 == Você bloqueou '{}', isso é proibido no servidor.
 
@@ -2358,3 +2352,30 @@ Name protection [{}] for '{}'
 
 Name protection [{}] for all nicknames
 == Proteção de nome [{}] para todos os apelidos
+
+'{}' {}, {} canceled.
+== '{}' {}, {} cancelado.
+
+left game
+== abandonou o jogo
+
+joined spectators
+== juntou-se aos espectadores
+
+logout from account
+== saiu da conta
+
+respawned
+== reapareceu
+
+moved
+== deslocado
+
+frozen
+== foi congelado
+
+changed team
+== alterou o comando
+
+disabled duels
+== desligou os duelos
