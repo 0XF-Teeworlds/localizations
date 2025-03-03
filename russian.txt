@@ -1945,7 +1945,7 @@ Staff
 Choose staff name prefix:
 == Выбрать префикс стаффа:
 
-Stuff upgrades:
+Staff upgrades:
 == Стафф улучшения:
 
 Media
