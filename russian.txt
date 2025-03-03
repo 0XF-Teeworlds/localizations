@@ -2382,3 +2382,6 @@ changed team
 
 disabled duels
 == отключил дуэли
+
+Casino is disabled!
+== Казино отключено
