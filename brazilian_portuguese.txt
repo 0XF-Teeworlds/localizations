@@ -1564,8 +1564,12 @@ Score for '{-}'!
 Draw.
 == Empate.
 
-Duel with '{-}' canceled.
-== Duelo com '{-}' cancelado.
+Duel request with '{-}' was canceled.
+== A solicitação de duelo com “{-}” foi cancelada..
+
+Duel request was canceled.
+== A solicitação de duelo foi cancelada.
+
 
 '{-}' canceled duel request.
 == '{-}' cancelou o pedido de duelo.
@@ -2385,3 +2389,15 @@ disabled duels
 
 Casino is disabled!
 == O cassino está desativado!
+
+Duel request was cancelled. You've received {}{} back.
+==
+
+Rating duel request was canceled.
+==
+
+You can't search for rating duel when the server is going to restart soon.
+==
+
+You are banned from rating system for {} seconds ({}).
+==

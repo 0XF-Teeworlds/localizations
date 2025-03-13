@@ -1564,8 +1564,11 @@ Score for '{-}'!
 Draw.
 == Ничья.
 
-Duel with '{-}' canceled.
-== Дуэль с '{-}' отменена.
+Duel request with '{-}' was canceled.
+== Запрос на дуэль с '{-}' был отменен.
+
+Duel request was canceled.
+== Запрос на дуэль был отменен.
 
 '{-}' canceled duel request.
 == '{-}' отменил запрос дуэли.
@@ -1703,7 +1706,7 @@ Use dashes
 == Использовать дэши
 
 Opponent duel skin
-== Скин противника
+== Скин противника в дуэлях
 
 DND
 == Не беспокоить
@@ -2385,3 +2388,15 @@ disabled duels
 
 Casino is disabled!
 == Казино отключено
+
+Duel request was cancelled. You've received {}{} back.
+== Запрос на дуэль был отменен. Вы получили {}{} назад.
+
+Rating duel request was canceled.
+== Запрос на рейтинговую дуэль был отменен.
+
+You can't search for rating duel when the server is going to restart soon.
+== Вы не можете искать рейтинговую дуэль, когда сервер скоро перезапустится.
+
+You are banned from rating system for {} seconds ({}).
+== Вы забанены в системе рейтинга на {} секунд ({}).
