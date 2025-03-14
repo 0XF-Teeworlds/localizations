@@ -2400,3 +2400,6 @@ You can't search for rating duel when the server is going to restart soon.
 
 You are banned from rating system for {} seconds ({}).
 == Вы забанены в системе рейтинга на {} секунд ({}).
+
+Сensor system didn't permit your message
+== Система цензуры не пропустила ваше сообщение
