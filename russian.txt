@@ -2403,3 +2403,6 @@ You are banned from rating system for {} seconds ({}).
 
 Сensor system didn't permit your message
 == Система цензуры не пропустила ваше сообщение
+
+Rating search is disabled on the server.
+== Рейтинговый поиск выключен на этом сервере.
