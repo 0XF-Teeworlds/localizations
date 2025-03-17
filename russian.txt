@@ -2404,5 +2404,8 @@ You are banned from rating system for {} seconds ({}).
 Сensor system didn't permit your message
 == Система цензуры не пропустила ваше сообщение
 
+You can't sent more then {} same messages in chat.
+== Вы не можете отправлять более {} одинаковых сообщений в чате.
+
 Rating search is disabled on the server.
 == Рейтинговый поиск выключен на этом сервере.

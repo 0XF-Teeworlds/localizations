@@ -2404,5 +2404,8 @@ You are banned from rating system for {} seconds ({}).
 Сensor system didn't permit your message
 == O sistema de sensores não permitiu sua mensagem
 
+You can't sent more then {} same messages in chat.
+== Não é possível enviar mais de {} mensagens iguais no bate-papo.
+
 Rating search is disabled on the server.
 == A pesquisa de classificação está desativada no servidor.
