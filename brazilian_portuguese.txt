@@ -1429,6 +1429,9 @@ Options
 Passive mode activated for {} seconds.
 == Modo passivo ativado por {} segundos.
 
+Passive mode reset.
+== Reinicialização do modo passivo.
+
 Your clan is not registered.
 == Seu clã não está registrado.
 
