@@ -2412,3 +2412,72 @@ You can't sent more then {} same messages in chat.
 
 Rating search is disabled on the server.
 == Рейтинговый поиск выключен на этом сервере.
+
+In this game, you play blackjack against the dealer.
+== В этой игре вы играете в блэкджек против дилера.
+
+Place a bet using /bet <amount> and then choose an action using the buttons.
+== Сделайте ставку, используя /bet <amount>, а затем выберите действие с помощью кнопок.
+
+Actions available:
+== Доступные действия:
+
+CALL - Take an extra card to improve your hand.
+== CALL - Взять дополнительную карту для улучшения вашей руки.
+
+STAND - End your turn and let the dealer play.
+== STAND - Завершить ход и позволить дилеру сыграть.
+
+DOUBLE - Double your bet and receive one additional card.
+== DOUBLE - Удвоить вашу ставку и получить одну дополнительную карту.
+
+SURRENDER - Forfeit half your bet and end your turn.
+== SURRENDER - Сдаться, потеряв половину ставки, и завершить ход.
+
+SPLIT - Divide your pair into two separate hands (if your first two cards are identical).
+== SPLIT - Разделить пару на две отдельные руки (если первые две карты идентичны).
+
+Blackjack started! [Bet-{}]: Your cards: {} ({}). Dealer shows: {} ({}). Choose an action.
+== Блэкджек начался! [Ставка-{}]: Ваши карты: {} ({}). У дилера: {} ({}). Выберите действие.
+
+\[Bet-{}]: You call and received {} ({}). Your total is {} ({}).
+== [Ставка-{}]: Вы взяли карту и получили {} ({}). Ваш итог: {} ({}).
+
+\[Bet-{}]: Bust! You lose your bet of {} ({}).
+== [Ставка-{}]: Перебор! Вы проиграли ставку {} ({}).
+
+\[Bet-{}]: You stand with {} ({}).
+== [Ставка-{}]: Вы остановились с {} ({}).
+
+\[Bet-{}]: Not enough cash to double.
+== [Ставка-{}]: Недостаточно средств для удвоения.
+
+\[Bet-{}]: You double and received {} ({}). Your total is {} ({}).
+== [Ставка-{}]: Вы удвоили и получили {} ({}). Ваш итог: {} ({}).
+
+\[Bet-{}]: Bust after doubling! You lose your bet of {} ({}).
+== [Ставка-{}]: Перебор после удвоения! Вы проиграли ставку {} ({}).
+
+\[Bet-{}]: You surrendered. You get back {}.
+== [Ставка-{}]: Вы сдались. Вы получили обратно {}.
+
+\[Bet-{}]: Cannot split this hand.
+== [Ставка-{}]: Эту руку нельзя разделить.
+
+Hand split into [Bet-{}] and [Bet-{}]. Choose an action for [Bet-{}].
+== Рука разделена на [Ставка-{}] и [Ставка-{}]. Выберите действие для [Ставка-{}].
+
+\[Bet-{}]: Dealer's hand: {} ({}). You win! Your payout is {}.
+== [Ставка-{}]: Рука дилера: {} ({}). Вы победили! Выплата: {}.
+
+\[Bet-{}]: Dealer's hand: {} ({}). Push. Your bet is returned.
+== [Ставка-{}]: Рука дилера: {} ({}). Ничья. Ваша ставка возвращена.
+
+\[Bet-{}]: Dealer's hand: {} ({}). You lose your bet of {}.
+== [Ставка-{}]: Рука дилера: {} ({}). Вы проиграли ставку {}.
+
+Choose an action for [Bet-{}].
+== Выберите действие для [Ставка-{}].
+
+You are not participating in game. Use /bet <amount> to start.
+== Вы не участвуете в игре. Используйте /bet <сумма>, чтобы начать.
