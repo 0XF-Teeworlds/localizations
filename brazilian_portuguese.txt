@@ -2443,8 +2443,8 @@ Blackjack started! [Bet-{}]: Your cards: {} ({}). Dealer shows: {} ({}). Choose 
 \[Bet-{}]: You call and received {} ({}). Your total is {} ({}).
 == [Aposta-{}]: Você comprou e recebeu {} ({}). Seu total é {} ({}).
 
-\[Bet-{}]: Bust! You lose your bet of {} ({}).
-== [Aposta-{}]: Estourou! Você perdeu sua aposta de {} ({}).
+\[Bet-{}]: Bust! You lose your bet of {}$.
+== [Aposta-{}]: Estourou! Você perdeu sua aposta de {}$.
 
 \[Bet-{}]: You stand with {} ({}).
 == [Aposta-{}]: Você parou com {} ({}).
@@ -2455,29 +2455,35 @@ Blackjack started! [Bet-{}]: Your cards: {} ({}). Dealer shows: {} ({}). Choose 
 \[Bet-{}]: You double and received {} ({}). Your total is {} ({}).
 == [Aposta-{}]: Você dobrou e recebeu {} ({}). Seu total é {} ({}).
 
-\[Bet-{}]: Bust after doubling! You lose your bet of {} ({}).
-== [Aposta-{}]: Estourou após dobrar! Você perdeu sua aposta de {} ({}).
+\[Bet-{}]: Bust after doubling! You lose your bet of {}$.
+== [Aposta-{}]: Estourou após dobrar! Você perdeu sua aposta de {}$.
 
-\[Bet-{}]: You surrendered. You get back {}.
-== [Aposta-{}]: Você desistiu. Você recupera {}.
+\[Bet-{}]: You surrendered. You get back {}$.
+== [Aposta-{}]: Você desistiu. Você recupera {}$.
 
-\[Bet-{}]: Cannot split this hand.
-== [Aposta-{}]: Não é possível dividir esta mão.
+\[Bet-{}]: Cannot split this hand, the cards are not suitable for splitting.
+== [Aposta-{}]: Não é possível dividir essa mão, as cartas não são adequadas para dividir.
+
+\[Bet-{}]: Cannot split this hand, only {} split allowed.
+== [Aposta-{}]: Não é possível dividir essa mão, apenas a divisão {} é permitida.
 
 Hand split into [Bet-{}] and [Bet-{}]. Choose an action for [Bet-{}].
 == Mão dividida em [Aposta-{}] e [Aposta-{}]. Escolha uma ação para [Aposta-{}].
 
-\[Bet-{}]: Dealer's hand: {} ({}). You win! Your payout is {}.
-== [Aposta-{}]: Mão do dealer: {} ({}). Você venceu! Seu prêmio é {}.
+\[Bet-{}]: Dealer's hand: {} ({}). You win! Your payout is {}$.
+== [Aposta-{}]: Mão do dealer: {} ({}). Você venceu! Seu prêmio é {}$.
 
 \[Bet-{}]: Dealer's hand: {} ({}). Push. Your bet is returned.
 == [Aposta-{}]: Mão do dealer: {} ({}). Empate. Sua aposta foi devolvida.
 
-\[Bet-{}]: Dealer's hand: {} ({}). You lose your bet of {}.
-== [Aposta-{}]: Mão do dealer: {} ({}). Você perdeu sua aposta de {}.
+\[Bet-{}]: Dealer's hand: {} ({}). You lose your bet of {}$.
+== [Aposta-{}]: Mão do dealer: {} ({}). Você perdeu sua aposta de {}$.
 
-Choose an action for [Bet-{}].
-== Escolha uma ação para [Aposta-{}].
+\[Bet-{}]: Blackjack!. Your payout is {}$.
+== \[Aposta-{}]: Blackjack! Você venceu! Seu prêmio é {}$.
+
+Choose an action for [Bet-{}]. Your cards: {} ({}).
+== Escolha uma ação para [Aposta-{}]. Suas cartas: {} ({}).
 
 You are not participating in game. Use /bet <amount> to start.
 == Você não está participando do jogo. Use /bet <quantia> para começar.

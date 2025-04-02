@@ -2443,8 +2443,8 @@ Blackjack started! [Bet-{}]: Your cards: {} ({}). Dealer shows: {} ({}). Choose 
 \[Bet-{}]: You call and received {} ({}). Your total is {} ({}).
 == [Ставка-{}]: Вы взяли карту и получили {} ({}). Ваш итог: {} ({}).
 
-\[Bet-{}]: Bust! You lose your bet of {} ({}).
-== [Ставка-{}]: Перебор! Вы проиграли ставку {} ({}).
+\[Bet-{}]: Bust! You lose your bet of {}$.
+== [Ставка-{}]: Перебор! Вы проиграли ставку {}$.
 
 \[Bet-{}]: You stand with {} ({}).
 == [Ставка-{}]: Вы остановились с {} ({}).
@@ -2455,29 +2455,35 @@ Blackjack started! [Bet-{}]: Your cards: {} ({}). Dealer shows: {} ({}). Choose 
 \[Bet-{}]: You double and received {} ({}). Your total is {} ({}).
 == [Ставка-{}]: Вы удвоили и получили {} ({}). Ваш итог: {} ({}).
 
-\[Bet-{}]: Bust after doubling! You lose your bet of {} ({}).
-== [Ставка-{}]: Перебор после удвоения! Вы проиграли ставку {} ({}).
+\[Bet-{}]: Bust after doubling! You lose your bet of {}$.
+== [Ставка-{}]: Перебор после удвоения! Вы проиграли ставку {}$.
 
-\[Bet-{}]: You surrendered. You get back {}.
-== [Ставка-{}]: Вы сдались. Вы получили обратно {}.
+\[Bet-{}]: You surrendered. You get back {}$.
+== [Ставка-{}]: Вы сдались. Вы получили обратно {}$.
 
-\[Bet-{}]: Cannot split this hand.
-== [Ставка-{}]: Эту руку нельзя разделить.
+\[Bet-{}]: Cannot split this hand, the cards are not suitable for splitting.
+== [Ставка-{}]: Эту руку нельзя разделить, карты не подходят для сплита.
+
+\[Bet-{}]: Cannot split this hand, only {} split allowed.
+== [Ставка-{}]: Эту руку нельзя разделить, только {} сплит разрешён.
 
 Hand split into [Bet-{}] and [Bet-{}]. Choose an action for [Bet-{}].
 == Рука разделена на [Ставка-{}] и [Ставка-{}]. Выберите действие для [Ставка-{}].
 
-\[Bet-{}]: Dealer's hand: {} ({}). You win! Your payout is {}.
-== [Ставка-{}]: Рука дилера: {} ({}). Вы победили! Выплата: {}.
+\[Bet-{}]: Dealer's hand: {} ({}). You win! Your payout is {}$.
+== [Ставка-{}]: Рука дилера: {} ({}). Вы победили! Выплата: {}$.
 
 \[Bet-{}]: Dealer's hand: {} ({}). Push. Your bet is returned.
 == [Ставка-{}]: Рука дилера: {} ({}). Ничья. Ваша ставка возвращена.
 
-\[Bet-{}]: Dealer's hand: {} ({}). You lose your bet of {}.
-== [Ставка-{}]: Рука дилера: {} ({}). Вы проиграли ставку {}.
+\[Bet-{}]: Dealer's hand: {} ({}). You lose your bet of {}$.
+== [Ставка-{}]: Рука дилера: {} ({}). Вы проиграли ставку {}$.
 
-Choose an action for [Bet-{}].
-== Выберите действие для [Ставка-{}].
+\[Bet-{}]: Blackjack!. Your payout is {}$.
+== [Ставка-{}]: Блэкджек! Выплата: {}$.
+
+Choose an action for [Bet-{}]. Your cards: {} ({}).
+== Выберите действие для [Ставка-{}]. Ваши карты: {} ({}).
 
 You are not participating in game. Use /bet <amount> to start.
 == Вы не участвуете в игре. Используйте /bet <сумма>, чтобы начать.
