@@ -2404,7 +2404,7 @@ You can't search for rating duel when the server is going to restart soon.
 You are banned from rating system for {} seconds ({}).
 == Você está banido do sistema de classificação por {} segundos ({}).
 
-Сensor system didn't permit your message
+Censor system didn't permit your message
 == O sistema de sensores não permitiu sua mensagem
 
 You can't sent more then {} same messages in chat.
