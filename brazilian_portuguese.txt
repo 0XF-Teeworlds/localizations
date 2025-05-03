@@ -7,9 +7,6 @@ Back
 Username
 == Nome de usuário
 
-Not authorized
-== Não autorizado
-
 verified
 == verificado
 
@@ -118,36 +115,6 @@ Empty
 Not loaded
 == Não carregado
 
-Buy
-== Comprar
-
-Buy {} units [{}$]
-== Comprar {} unidades [{}$]
-
-Buy forever [{}$]
-== Comprar para sempre [{}$]
-
-Buy for a week [{}$]
-== Comprar por uma semana [{}$]
-
-Room owned by '{-}' → {}
-== Sala de '{-}' → {}
-
-Buy for a month
-== Comprar por um mês
-
-Buy for a year
-== Comprar por um ano
-
-Buy for X months (Type number in vote reason)
-== Comprar por X meses (Digite o número na razão do voto)
-
-You don't have upgrades
-== Você não tem melhorias
-
-Use the shop to buy them
-== Use a loja para comprá-las
-
 Deposit
 == Depositar
 
@@ -174,15 +141,6 @@ Here you need to be the last one left alive in the arena.
 
 The last player left in the arena gets a nice reward.
 == O último jogador na arena recebe uma boa recompensa.
-
-Battle.
-== Batalha.
-
-In this team game, you need to capture the enemy flag and bring it to your base.
-== Neste jogo em equipe, você precisa capturar a bandeira inimiga e levá-la para sua base.
-
-The transport on the map should help you. You will automatically get into it as soon as you are in the vicinity.
-== O transporte no mapa deve ajudá-lo. Você entrará automaticamente nele assim que estiver por perto.
 
 In this team game, you need to get a team score high enough to win.
 == Neste jogo em equipe, você precisa obter uma pontuação alta o suficiente para vencer.
@@ -397,9 +355,6 @@ Your wallet is empty!
 You have only {}$ in your wallet. This amount will be deposited into your account.
 == Você tem apenas {}$ na sua carteira. Este valor será depositado na sua conta.
 
-There is no bank near you or near receiver, transfer cash possible only both in the bank!
-== Não há banco próximo a você ou ao destinatário, a transferência de dinheiro só é possível quando ambos estão no banco!
-
 This player is not logged in.
 == Este jogador não está logado.
 
@@ -432,9 +387,6 @@ Not authorized!
 
 Successfully logout.
 == Você saiu da conta com sucesso.
-
-Wrong command usage, use '/help $s' for command info.
-== Comando usado incorretamente, use '/help $s' para informações sobre o comando.
 
 Wrong login length, allowed {}-{} symbols.
 == Comprimento do login incorreto, permitido {}-{} caracteres.
@@ -499,12 +451,6 @@ Balance updated: {} ({-}{})
 Wrong item identifier!
 == Identificador de item incorreto!
 
-Already have this item!
-== Você já possui este item!
-
-Too many requests!
-== Muitos pedidos!
-
 days
 == dias
 
@@ -520,9 +466,6 @@ seconds
 times
 == vezes
 
-usages
-== usos
-
 unknown
 == desconhecido
 
@@ -531,18 +474,6 @@ Use 'Call vote' menu to access shop!
 
 Your protected nickname now is '{-}'. If you want to change it please contact the administration.
 == Seu apelido protegido agora é '{-}'. Se quiser alterá-lo, entre em contato com a administração.
-
-You haven't this upgrade.
-== Você não possui esta melhoria.
-
-This upgrade is not allowed in your current game type or zone.
-== Esta melhoria não é permitida no tipo de jogo ou zona atual.
-
-Press tab and shot twice to activate box.
-== Pressione Tab e dispare duas vezes para ativar a caixa.
-
-You should be in previously spawned avatar to switch to new.
-== Você deve estar no avatar anterior para mudar para o novo.
 
 You in the bank, write '/bank' for info.
 == Você está no banco, escreva '/bank' para mais informações.
@@ -601,9 +532,6 @@ Now you're a hunter, catch someone or die.
 Invisible on cooldown!
 == Invisibilidade em tempo de recarga!
 
-Now you are a hunter, you need to find all the players on the map and catch them. You can only catch if the player is visible to you.
-== Agora você é um caçador, precisa encontrar todos os jogadores no mapa e capturá-los. Você só pode capturar se o jogador estiver visível para você.
-
 You have been released from jail.
 == Você foi liberado da prisão.
 
@@ -619,9 +547,6 @@ Only the first top player on the list can get it.
 You got your crown.
 == Você recebeu sua coroa.
 
-To get the information, you need to set the player's clan or specify it in the command.
-== Para obter as informações, você precisa definir o clã do jogador ou especificá-lo no comando.
-
 This map does not contain duel arena.
 == Este mapa não contém arena de duelo.
 
@@ -630,9 +555,6 @@ You are already in duel.
 
 You can't create duel while frozen.
 == Você não pode iniciar um duelo enquanto estiver congelado.
-
-Only {} parallel duels allowed.
-== Apenas {} duelos paralelos são permitidos.
 
 Your client is not verified or verification in progress.
 == Seu cliente não foi verificado ou a verificação está em andamento.
@@ -657,9 +579,6 @@ Not enough cash to accept duel ({}$ required).
 
 You have already pending request to this player.
 == Você já tem uma solicitação pendente para este jogador.
-
-You already in duel.
-== Você já está em um duelo.
 
 Player is already in duel.
 == O jogador já está em um duelo.
@@ -700,17 +619,8 @@ Duel request is expired.
 \[{}] '{-}' won '{-}' with score {} - {}!{}
 == [{}] '{-}' venceu '{-}' com placar {} - {}!{}
 
-\[{}] '{-}' won '{-}' with score {} [{}] - {} [{}]!{}
-== [{}] '{-}' venceu '{-}' com placar {} [{}] - {} [{}]!{}
-
 \[{}] '{-}' won '{-}' round with score {} [{}] - {} [{}]!
 == [{}] '{-}' venceu o round contra '{-}' com placar {} [{}] - {} [{}]!
-
-\[{}] ended with tie!
-== [{}] terminou empatado!
-
-\[{}] ended by timeout!
-== [{}] terminou por tempo esgotado!
 
 \[{}] Team {} won with score {} - {}!
 == [{}] Equipe {} venceu com placar {} - {}!
@@ -784,14 +694,8 @@ Kill Protection enabled. Use /exit to leave game.
 King of Hill already started, wait until the end.
 == O jogo King of Hill já começou, aguarde até o final.
 
-Players count not enough to start King of Hill {}/{}.
-== Número insuficiente de jogadores para iniciar King of Hill {}/{}.
-
 '{-}' is the King and received {}$!
 == '{-}' é o Rei e recebeu {}$!
-
-There is no this room on map.
-== Não há esta sala no mapa.
 
 Room is available in shop.
 == A sala está disponível na loja.
@@ -810,9 +714,6 @@ Spawn enabled.
 
 You can't invite yourself.
 == Você não pode se convidar.
-
-Only owners can add members.
-== Apenas os proprietários podem adicionar membros.
 
 Player already is room member.
 == O jogador já é membro da sala.
@@ -922,9 +823,6 @@ King of Hill ({} contestants) {}1
 King of Hill ({}/{} points [{}%])
 == King of Hill ({}/{} pontos [{}%])
 
-Too many items ($d).
-== Muitos itens ($d).
-
 You removed member edit permission from room {}.
 == Você removeu a permissão de edição de um membro na sala {}.
 
@@ -981,9 +879,6 @@ You give member editor permission for room {}.
 
 You got editor permission for room {}.
 == Você recebeu permissão de edição na sala {}.
-
-Brush: {}, {}/{} items
-== Pincel: {}, {}/{} itens
 
 Scroll: choose item
 == Rolagem: escolher item
@@ -1042,38 +937,14 @@ items
 Items
 == Itens
 
-Can't find upgrade.
-== Não foi possível encontrar a melhoria.
-
-Can't buy/prolong, wrong duration type.
-== Não é possível comprar/prolongar, tipo de duração incorreto.
-
 Can't find account.
 == Conta não encontrada.
 
 Not enough cash on account.
 == Dinheiro insuficiente na conta.
 
-Not enough {} on account ({}/{}).
-== Dinheiro insuficiente de {} na conta ({}/{}).
-
-Not enough level.
-== Nível insuficiente.
-
-Can't buy this item, another player already bought it.
-== Não é possível comprar este item, outro jogador já o comprou.
-
 Can't buy this item, you reached max item count for this type.
 == Não é possível comprar este item, você atingiu o limite máximo de itens deste tipo.
-
-Can't buy this item, you reached max item level for this type.
-== Não é possível comprar este item, você atingiu o nível máximo de itens deste tipo.
-
-You succeed bought upgrade.
-== Melhoria comprada com sucesso.
-
-Can't buy this, you already have one item in this category.
-== Não é possível comprar isso, você já possui um item nesta categoria.
 
 Can't find player with given name.
 == Não foi possível encontrar um jogador com este nome.
@@ -1093,14 +964,8 @@ Wrong login and/or password. Please check it and try again.
 Account blocked.
 == Conta bloqueada.
 
-You already authorized on another server. Logout first on that server. Contact administration if that's not the case.
-== Você já está autorizado em outro servidor. Saia primeiro nesse servidor. Entre em contato com a administração se este não for o caso.
-
 Password successfully changed.
 == Senha alterada com sucesso.
-
-Prefix successfully changed.
-== Prefixo alterado com sucesso.
 
 Pin code successfully changed.
 == Código PIN alterado com sucesso.
@@ -1171,218 +1036,17 @@ Wait until event finished!
 Clan '{-}' reached new level {}!
 == O clã '{-}' alcançou o nível {}!
 
-Rainbow feet
-== Pés arco-íris
-
-Rainbow body
-== Corpo arco-íris
-
-Rainbow tee
-== Camiseta arco-íris
-
-Hat hammer
-== Chapéu de martelo
-
-Hat pistol
-== Chapéu de pistola
-
-Hat shotgun
-== Chapéu de espingarda
-
-Hat grenade
-== Chapéu de granada
-
-Hat laser
-== Chapéu de laser
-
-Hat ninja
-== Chapéu de ninja
-
-Trail dot
-== Rastro de pontos
-
-Trail star
-== Rastro de estrelas
-
-Heart gun
-== Pistola de corações
-
-Evil gun
-== Pistola do mal
-
-Noob gun
-== Pistola NOOB
-
-Hiding Box
-== Caixa escondida
-
-Drawer
-== Desenhista
-
 Deaths
 == Mortes
 
-Grave
-== Túmulo
-
 Name protection
 == Proteção de nome
-
-Shotgun kit
-== Kit de espingarda
-
-Grenade kit
-== Kit de granada
-
-Laser kit
-== Kit de laser
-
-Wall jump
-== Pulo na parede
-
-Tank
-== Tanque
-
-Spidertron
-== Aranha robô
-
-Helicopter
-== Helicóptero
-
-Izbushka
-== Cabana
-
-Robo-legs
-== Pernas robóticas
-
-Hoverboard
-== Hoverboard
-
-Ship
-== Navio
-
-Cat
-== Gato
-
-Vip key
-== Chave VIP
 
 Vip
 == VIP
 
 Donor
 == Doador
-
-Your feet will shimmer with rainbows
-== Seus pés brilharão com arco-íris
-
-Your body will shimmer with rainbows
-== Seu corpo brilhará com arco-íris
-
-Your feet and body will shimmer with rainbows
-== Seus pés e corpo brilharão com arco-íris
-
-Your name will shimmer with rainbows
-== Seu nome brilhará com arco-íris
-
-The hammer will be over your head when you stand still
-== O martelo ficará sobre sua cabeça quando você estiver parado
-
-The pistol will be over your head when you stand still
-== A pistola ficará sobre sua cabeça quando você estiver parado
-
-The shotgun will be over your head when you stand still
-== A espingarda ficará sobre sua cabeça quando você estiver parado
-
-The grenade will be over your head when you stand still
-== A granada ficará sobre sua cabeça quando você estiver parado
-
-The laser will be over your head when you stand still
-== O laser ficará sobre sua cabeça quando você estiver parado
-
-The ninja will be over your head when you stand still
-== O ninja ficará sobre sua cabeça quando você estiver parado
-
-You will leave a trail of dots behind you
-== Você deixará um rastro de pontos atrás de você
-
-You will leave a trail of stars behind you
-== Você deixará um rastro de estrelas atrás de você
-
-Shoot with hearts
-== Atire com corações
-
-Shoot with shields
-== Atire com escudos
-
-Make a noob sign over another player by shooting them
-== Faça um sinal de NOOB sobre outro jogador atirando nele
-
-Become a box
-== Torne-se uma caixa
-
-Draw outside the boundaries of the map
-== Desenhe fora dos limites do mapa
-
-Leave a reminder of yourself in the form of a grave after death
-== Deixe um lembrete de si mesmo na forma de um túmulo após a morte
-
-Make it clear that others must respect you after death
-== Mostre que os outros devem respeitá-lo após a morte
-
-Activate protection for your nickname from fakes
-== Ative a proteção do seu apelido contra falsificações
-
-Use this kit after respawn to get hammer fast
-== Use este kit após renascer para obter o martelo rapidamente
-
-Use this kit after respawn to get shotgun fast
-== Use este kit após renascer para obter a espingarda rapidamente
-
-Use this kit after respawn to get grenade fast
-== Use este kit após renascer para obter a granada rapidamente
-
-Use this kit after respawn to get laser fast
-== Use este kit após renascer para obter o laser rapidamente
-
-Slide any walls
-== Deslize em qualquer parede
-
-Become a little tank
-== Torne-se um pequeno tanque
-
-Become a little spider
-== Torne-se uma pequena aranha
-
-Become a little helicopter
-== Torne-se um pequeno helicóptero
-
-Become a little izbushka
-== Torne-se uma pequena cabana
-
-Become a robo-legs
-== Torne-se pernas robóticas
-
-Become a Hoverboard
-== Torne-se um hoverboard
-
-Become a little ship
-== Torne-se um pequeno navio
-
-Become a little cat
-== Torne-se um pequeno gato
-
-Vip access
-== Acesso VIP
-
-Donor access
-== Acesso doador
-
-Only one owner allowed
-== Apenas um proprietário permitido
-
-Rainbows
-== Arco-íris
 
 Hats
 == Chapéus
@@ -1408,17 +1072,11 @@ Rooms
 Map design
 == Design de mapa
 
-Available designs:
-== Designs disponíveis:
-
 Design not found, use '/design' to check available.
 == Design não encontrado, use '/design' para verificar os disponíveis.
 
 Spawn point set.
 == Ponto de spawn definido.
-
-Successfully stored on account.
-== Salvo com sucesso na conta.
 
 Auto login into account on join
 == Login automático na conta ao entrar
@@ -1486,9 +1144,6 @@ Transfer Ownership
 Wrong role name, available: [member|moder|owner].
 == Nome da função incorreto, disponíveis: [member|moder|owner].
 
-Freeze progress bar
-== Barra de progresso congelada
-
 Wallet disabled.
 == Carteira desativada.
 
@@ -1497,18 +1152,6 @@ You need to reach {} level to create clan.
 
 You need to reach {} level to pass.
 == Você precisa alcançar o nível {} para passar.
-
-Ufo
-== Ovni
-
-Become a little ufo
-== Torne-se um pequeno ovni
-
-Rainbow name
-== Nome arco-íris
-
-Reached max item count.
-== Número máximo de itens alcançado.
 
 Vip indicator
 == Indicador VIP
@@ -1579,9 +1222,6 @@ Duel request was canceled.
 There is no pending duel request.
 == Não há pedido de duelo pendente.
 
-This player disabled duel requests.
-== Este jogador desativou os pedidos de duelo.
-
 All duel requests ignore: {}.
 == Ignorar todos os pedidos de duelo: {}.
 
@@ -1599,9 +1239,6 @@ Rating duel search started.
 
 Always rating duel search
 == Sempre pesquisar duelo ranqueado
-
-Rating duel found. Creating match with '{-}' (Rating: {}).
-== Duelo ranqueado encontrado. Criando partida com '{-}' (Classificação: {}).
 
 Rating duel found. Creating match.
 == Duelo de classificação encontrado. Criando partida.
@@ -1681,12 +1318,6 @@ Type '/accept rating' to play.
 Since you've been on the lookout for too long, a request to compete with a suitable player has been sent.
 == Como você está procurando há muito tempo, um pedido para competir com um jogador adequado foi enviado.
 
-Rating duel accepted.
-== Duelo ranqueado aceito.
-
-Arena {} already in blacklist.
-== A arena {} já está na lista negra.
-
 Arena {} removed from blacklist.
 == Arena {} removida da lista negra.
 
@@ -1713,30 +1344,6 @@ Opponent duel skin
 
 DND
 == Não Perturbe
-
-Activated for next rating duel.
-== Ativado para o próximo duelo ranqueado.
-
-Deactivated for next rating duel.
-== Desativado para o próximo duelo ranqueado.
-
-Double-Rating Badge
-== Insígnia de Classificação Dupla
-
-Double rating bet in duel
-== Aposta de classificação dupla no duelo
-
-Available Badges
-== Insígnias Disponíveis
-
-You don't have badges
-== Você não possui insígnias
-
-Badges Shop
-== Loja de Insígnias
-
-Badge
-== Insígnia
 
 Exited rating duel
 == Saiu do duelo ranqueado
@@ -1921,18 +1528,6 @@ more time
 more times
 == vezes
 
-Purchases
-== Compras
-
-Taser
-== Taser
-
-Upgrading to level {} → {}
-== Atualizando para o nível {} → {}
-
-Max
-== Máximo
-
 linked
 == vinculado
 
@@ -1996,9 +1591,6 @@ Not enough amount for drop {}/{}.
 Minimal drop amount is {}.
 == Quantidade mínima para largar é {}.
 
-Wrong item name, possible types: /drop <ammo> <amount>.
-== Nome de item errado, tipos possíveis: /drop <ammo> <quantidade>.
-
 Duel found. Creating match.
 == Duelo encontrado. Criando partida.
 
@@ -2056,9 +1648,6 @@ Rules
 Block Spree
 == Sequência de Bloqueios
 
-You have been punished for bad client. Get official client from ddnet.org/download
-== Você foi punido por usar um cliente suspeito. Obtenha o cliente oficial em ddnet.org/download
-
 Can't transfer cash while jailed.
 == Não é possível transferir dinheiro enquanto estiver preso.
 
@@ -2094,15 +1683,6 @@ You can't use chat right now. Please wait.
 
 You client is being verified or seems bad. Get official client from ddnet.org/downloads
 == Seu cliente está sendo verificado ou parece suspeito. Obtenha o cliente oficial em ddnet.org/downloads
-
-Spooky gun
-== Pistola Assustadora
-
-Shoot with spooky bullets
-== Atire com balas assustadoras
-
-You don't have purchases
-== Você não tem compras
 
 players
 == jogadores
@@ -2212,32 +1792,14 @@ Currency
 '{-}' tried to steal '{-}' kill!
 == '{-}' tentou roubar a morte de '{-}'!
 
-You get random bonus: {}
-== Você recebeu um bônus aleatório: {}
-
-Disable: {}
-== Desativar: {}
-
 Can't change teams while frozen!
 == Não é possível mudar de equipe enquanto estiver congelado!
-
-Star gun
-== Pistola Estelar
-
-Shoot with stars
-== Atire com estrelas
 
 You are sending reports too fast.
 == Você está enviando relatórios muito rápido.
 
 Effects
 == Efeitos
-
-Glow
-== Brilho
-
-Glow with happiness
-== Brilhar de felicidade
 
 The server is going to shutdown in {} {} ({-})
 == O servidor será desligado em {} {} ({-})
@@ -2269,9 +1831,6 @@ Firework
 Sparklers
 == Estalinhos
 
-Got smoke grenade. Current count: {}/{}
-== Granada de fumaça recebida. Quantidade atual: {}/{}
-
 Score
 == Pontuação
 
@@ -2287,12 +1846,6 @@ You blocked '{}', this is forbidden on server.
 Laser ammo will be respawned in {} seconds.
 == A munição do laser será recarregada em {} segundos.
 
-That was the death in good game
-== Essa foi uma morte em um bom jogo.
-
-Kills:
-== Mortes:
-
 {}. '{-}' - {} kills!
 == {}. '{-}' - {} mortes!
 
@@ -2302,35 +1855,11 @@ Kills:
 \[{}] The event is over!
 == [{}] O evento acabou!
 
-No winners in this event.
-== Não há vencedores neste evento.
-
 You aren't logged in an account to receive a reward.
 == Você não está logado em uma conta para receber a recompensa.
 
-Star
-== Estrela
-
-Stars circle
-== Círculo de estrelas
-
-Vortex
-== Vórtice
-
-Lovely
-== Adorável
-
 Weapons
 == Armas
-
-Five stars after death make clear you were a bandit
-== Cinco estrelas após a morte deixam claro que você era um bandido.
-
-Shine like never before after death
-== Brilhe como nunca após a morte.
-
-Plasma vortex hides you after death
-== O vórtice de plasma esconde você após a morte.
 
 Do not disturb mode enabled, to disable write /dnd.
 == Modo Não Perturbe ativado. Para desativar, escreva /dnd.
@@ -2467,9 +1996,6 @@ Blackjack started! [Bet-{}]: Your cards: {} ({}). Dealer shows: {} ({}). Choose 
 \[Bet-{}]: Cannot split this hand, only {} split allowed.
 == [Aposta-{}]: Não é possível dividir essa mão, apenas a divisão {} é permitida.
 
-Hand split into [Bet-{}] and [Bet-{}]. Choose an action for [Bet-{}].
-== Mão dividida em [Aposta-{}] e [Aposta-{}]. Escolha uma ação para [Aposta-{}].
-
 \[Bet-{}]: Dealer's hand: {} ({}). You win! Your payout is {}$.
 == [Aposta-{}]: Mão do dealer: {} ({}). Você venceu! Seu prêmio é {}$.
 
@@ -2488,5 +2014,20 @@ Choose an action for [Bet-{}]. Your cards: {} ({}).
 You are not participating in game. Use /bet <amount> to start.
 == Você não está participando do jogo. Use /bet <quantia> para começar.
 
-== Smoke Grenate
-Granada de fumaça
+not authorized
+== 
+
+Hand split into [Bet-{}] and [Bet-{}].
+== 
+
+Wrong command usage, use '/help {}' for command info.
+== 
+
+Too many requests.
+== 
+
+Smoke Grenade
+== 
+
+Got smoke grenade. Current count: {}/{}
+== 
