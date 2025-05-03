@@ -7,9 +7,6 @@ Back
 Username
 == Имя пользователя
 
-Not authorized
-== не авторизован
-
 verified
 == подтверждён
 
@@ -118,36 +115,6 @@ Empty
 Not loaded
 == Не загружено
 
-Buy
-== Купить
-
-Buy {} units [{}$]
-== Купить {} шт. [{}$]
-
-Buy forever [{}$]
-== Купить навсегда [{}$]
-
-Buy for a week [{}$]
-== Купить на неделю [{}$]
-
-Room owned by '{-}' → {}
-== Комната '{-}' → {}
-
-Buy for a month
-== Купить на месяц
-
-Buy for a year
-== Купить на год
-
-Buy for X months (Type number in vote reason)
-== Купить на X месяцев (Введите число в причину голосования)
-
-You don't have upgrades
-== У вас нет улучшений
-
-Use the shop to buy them
-== Используйте магазин чтобы купить что-либо
-
 Deposit
 == Положить на счёт
 
@@ -174,15 +141,6 @@ Here you need to be the last one left alive in the arena.
 
 The last player left in the arena gets a nice reward.
 == Последний игрок оставшийся на арене получает хорошую награду.
-
-Battle.
-== Батл.
-
-In this team game, you need to capture the enemy flag and bring it to your base.
-== В этой командной игре вам необходимо захватить флаг противника и принести его на свою базу.
-
-The transport on the map should help you. You will automatically get into it as soon as you are in the vicinity.
-== Транспорт на карте должен помочь вам. Вы автоматически сядете в него как только будете находиться поблизости.
 
 In this team game, you need to get a team score high enough to win.
 == В этой командной игре вам необходимо набрать командный счёт достаточный для победы.
@@ -397,9 +355,6 @@ Your wallet is empty!
 You have only {}$ in your wallet. This amount will be deposited into your account.
 == У вас есть только {}$ в кошельке. Эта сумма будет положена на счёт вашего аккаунта.
 
-There is no bank near you or near receiver, transfer cash possible only both in the bank!
-== Рядом с вами или с получателем нет банка, переводы возможны только когда оба участника в банке!
-
 This player is not logged in.
 == Этот игрок не авторизован.
 
@@ -432,9 +387,6 @@ Not authorized!
 
 Successfully logout.
 == Вы успешно вышли из аккаунта.
-
-Wrong command usage, use '/help $s' for command info.
-== Неправильно использована команда, напишите '/help $s' для информации.
 
 Wrong login length, allowed {}-{} symbols.
 == Неправильная длинна логина, разрешено {}-{} символов.
@@ -499,12 +451,6 @@ Balance updated: {} ({-}{})
 Wrong item identifier!
 == Неправильный идентификатор предмета!
 
-Already have this item!
-== У вас уже есть этот предмет!
-
-Too many requests!
-== Слишком много запросов!
-
 days
 == дней
 
@@ -520,9 +466,6 @@ seconds
 times
 == раз
 
-usages
-== исп.
-
 unknown
 == неизвестно
 
@@ -531,18 +474,6 @@ Use 'Call vote' menu to access shop!
 
 Your protected nickname now is '{-}'. If you want to change it please contact the administration.
 == Ваш защищенный ник теперь '{-}'. Если вы хотите изменить его, пожалуйста, свяжитесь с администрацией.
-
-You haven't this upgrade.
-== У вас нет этого улучшения.
-
-This upgrade is not allowed in your current game type or zone.
-== Это улучшение не разрешено в текущем режиме игры или зоне.
-
-Press tab and shot twice to activate box.
-== Нажмите таб и дважды выстрелите, чтобы активировать коробку.
-
-You should be in previously spawned avatar to switch to new.
-== Чтобы переключиться на новый аватар, вы должны быть в предыдущем аватаре.
 
 You in the bank, write '/bank' for info.
 == Вы в банке, напишите '/bank' для информации.
@@ -601,9 +532,6 @@ Now you're a hunter, catch someone or die.
 Invisible on cooldown!
 == Невидимость на перезарядке!
 
-Now you are a hunter, you need to find all the players on the map and catch them. You can only catch if the player is visible to you.
-== Теперь вы охотник, вам нужно найти всех игроков на карте и поймать их. Поймать можно только в том случае, если игрок виден вам.
-
 You have been released from jail.
 == Вас выпустили из тюрьмы.
 
@@ -619,9 +547,6 @@ Only the first top player on the list can get it.
 You got your crown.
 == Вы получили свою корону.
 
-To get the information, you need to set the player's clan or specify it in the command.
-== Чтобы получить информацию, необходимо задать клан игрока или указать его в команде.
-
 This map does not contain duel arena.
 == Эта карта не содержит дуэльной арены.
 
@@ -630,9 +555,6 @@ You are already in duel.
 
 You can't create duel while frozen.
 == Вы не можете начать дуэль, пока заморожены.
-
-Only {} parallel duels allowed.
-== Разрешено только {} параллельных дуэлей.
 
 Your client is not verified or verification in progress.
 == Ваш клиент не проверен или верификация ещё в процессе.
@@ -657,9 +579,6 @@ Not enough cash to accept duel ({}$ required).
 
 You have already pending request to this player.
 == У вас уже есть ожидающий запрос к этому игроку.
-
-You already in duel.
-== Вы уже участвуете в дуэли.
 
 Player is already in duel.
 == Игрок уже участвует в дуэли.
@@ -700,17 +619,8 @@ Duel request is expired.
 \[{}] '{-}' won '{-}' with score {} - {}!{}
 == [{}] '{-}' выиграл '{-}' со счетом {} - {}!{}
 
-\[{}]'{-}' won '{-}' with score {} [{}] - {} [{}]!{}
-== [{}] {-}' выиграл '{-}' со счетом {} [{}] - {} [{}]!{}
-
 \[{}] '{-}' won '{-}' round with score {} [{}] - {} [{}]!
 == [{}] '{-}' выиграл раунд у '{-}' со счетом {} [{}] - {} [{}]!
-
-\[{}] ended with tie!
-== [{}] закончилась вничью!
-
-\[{}] ended by timeout!
-== [{}] закончилась по истечению времени!
 
 \[{}] Team {} won with score {} - {}!
 == [{}] Команда {} выиграла со счетом {} - {}!
@@ -784,14 +694,8 @@ Kill Protection enabled. Use /exit to leave game.
 King of Hill already started, wait until the end.
 == Игра King of Hill уже началась, дождитесь окончания.
 
-Players count not enough to start King of Hill {}/{}.
-== Количество игроков недостаточно для начала King of Hill {}/{}.
-
 '{-}' is the King and received {}$!
 == '{-}' - Король в этой зоне и получил {}$!
-
-There is no this room on map.
-== На карте нет этой комнаты.
 
 Room is available in shop.
 == Комната доступна в магазине.
@@ -810,9 +714,6 @@ Spawn enabled.
 
 You can't invite yourself.
 == Вы не можете пригласить себя.
-
-Only owners can add members.
-== Только владельцы могут добавлять участников.
 
 Player already is room member.
 == Игрок уже является участником комнаты.
@@ -922,9 +823,6 @@ King of Hill ({} contestants) {}1
 King of Hill ({}/{} points [{}%])
 == King of Hill ({}/{} очков [{}%])
 
-Too many items ($d).
-== Слишком много предметов ($d).
-
 You removed member edit permission from room {}.
 == Вы забрали права на редактирования у участника комнаты {}.
 
@@ -981,9 +879,6 @@ You give member editor permission for room {}.
 
 You got editor permission for room {}.
 == Вы получили разрешение на редактирование в комнате {}.
-
-Brush: {}, {}/{} items
-== Кисть: {}, {}/{} предметов
 
 Scroll: choose item
 == Скролл: смена предмета
@@ -1042,38 +937,14 @@ items
 Items
 == Предметы
 
-Can't find upgrade.
-== Улучшение не найдено.
-
-Can't buy/prolong, wrong duration type.
-== Невозможно купить/продлить, неверный тип длительности.
-
 Can't find account.
 == Аккаунт не найден.
 
 Not enough cash on account.
 == Недостаточно денег на счету.
 
-Not enough {} on account ({}/{}).
-== Недостаточно {} на счету ({}/{}).
-
-Not enough level.
-== Недостаточный уровень.
-
-Can't buy this item, another player already bought it.
-== Невозможно купить, другой игрок уже владеет этим.
-
 Can't buy this item, you reached max item count for this type.
 == Невозможно купить, достигнут максимальный лимит количества предметов данного типа.
-
-Can't buy this item, you reached max item level for this type.
-== Невозможно купить, достигнут максимальный лимит уровня.
-
-You succeed bought upgrade.
-== Покупка совершена.
-
-Can't buy this, you already have one item in this category.
-== Вы не можете это купить, у вас уже есть один предмет данной категории.
 
 Can't find player with given name.
 == Игрок с таким именем не найден.
@@ -1093,14 +964,8 @@ Wrong login and/or password. Please check it and try again.
 Account blocked.
 == Аккаунт заблокирован.
 
-You already authorized on another server. Logout first on that server. Contact administration if that's not the case.
-== Вы уже авторизированны на другом сервере. Свяжитесь с администрацией если считаете что данные ошибочные.
-
 Password successfully changed.
 == Пароль успешно изменён.
-
-Prefix successfully changed.
-== Префикс успешно изменён.
 
 Pin code successfully changed.
 == Пин код успешно изменён.
@@ -1171,218 +1036,17 @@ Wait until event finished!
 Clan '{-}' reached new level {}!
 == Клан '{-}' достиг уровня {}!
 
-Rainbow feet
-== Радужные ноги
-
-Rainbow body
-== Радужное тело
-
-Rainbow tee
-== Радужный тии
-
-Hat hammer
-== Шляпа-молоток
-
-Hat pistol
-== Шляпа-пистолет
-
-Hat shotgun
-== Шляпа-дробовик
-
-Hat grenade
-== Шляпа-граната
-
-Hat laser
-== Шляпа-лазер
-
-Hat ninja
-== Шляпа-ниндзя
-
-Trail dot
-== Точечный след
-
-Trail star
-== Звёздный след
-
-Heart gun
-== Пули сердечки
-
-Evil gun
-== Пули злые
-
-Noob gun
-== Пули NOOB
-
-Hiding Box
-== Коробка
-
-Drawer
-== Рисовалка
-
 Deaths
 == Респаун
 
-Grave
-== Могилка
-
 Name protection
 == Защита имени
-
-Shotgun kit
-== Набор дробовик
-
-Grenade kit
-== Набор граната
-
-Laser kit
-== Набор лазер
-
-Wall jump
-== Прыжки от стен
-
-Tank
-== Танк
-
-Spidertron
-== Паук
-
-Helicopter
-== Вертолёт
-
-Izbushka
-== Избушка
-
-Robo-legs
-== Робо-ноги
-
-Hoverboard
-== Ховерборд
-
-Ship
-== Корабль
-
-Cat
-== Котик
-
-Vip key
-== Вип ключ
 
 Vip
 == Вип
 
 Donor
 == Донор
-
-Your feet will shimmer with rainbows
-== Ваши ноги будут мерцать радугой
-
-Your body will shimmer with rainbows
-== Ваше тело будет мерцать радугой
-
-Your feet and body will shimmer with rainbows
-== Ваши ноги и тело будут мерцать радугой
-
-Your name will shimmer with rainbows
-== Ваше имя будет мерцать радугой
-
-The hammer will be over your head when you stand still
-== Молоток будет над вашей головой
-
-The pistol will be over your head when you stand still
-== Пистолет будет над вашей головой
-
-The shotgun will be over your head when you stand still
-== Дробовик будет над вашей головой
-
-The grenade will be over your head when you stand still
-== Граната будет над вашей головой
-
-The laser will be over your head when you stand still
-== Лазер будет над вашей головой
-
-The ninja will be over your head when you stand still
-== Ниндзя будет над вашей головой
-
-You will leave a trail of dots behind you
-== Вы оставите за собой след из точек
-
-You will leave a trail of stars behind you
-== Вы оставите за собой след из звезд
-
-Shoot with hearts
-== Стреляйте сердечками
-
-Shoot with shields
-== Стреляйте щитками
-
-Make a noob sign over another player by shooting them
-== Пометьте другого игрока NOOB
-
-Become a box
-== Станьте коробкой
-
-Draw outside the boundaries of the map
-== Рисуйте за границами карты
-
-Leave a reminder of yourself in the form of a grave after death
-== Могилка при респауне
-
-Make it clear that others must respect you after death
-== Знак F при респауне
-
-Activate protection for your nickname from fakes
-== Защита ника от фейков
-
-Use this kit after respawn to get hammer fast
-== Комплект чтобы получить молоток
-
-Use this kit after respawn to get shotgun fast
-== Комплект чтобы получить дробовик
-
-Use this kit after respawn to get grenade fast
-== Комплект чтобы получить гранату
-
-Use this kit after respawn to get laser fast
-== Комплект чтобы получить лазер
-
-Slide any walls
-== Скользите по любым стенам
-
-Become a little tank
-== Станьте маленьким танком
-
-Become a little spider
-== Станьте маленьким пауком
-
-Become a little helicopter
-== Станьте маленьким вертолётом
-
-Become a little izbushka
-== Станьте маленькой избушкой
-
-Become a robo-legs
-== Станьте робо-ногами
-
-Become a Hoverboard
-== Станьте ховербордом
-
-Become a little ship
-== Станьте маленьким кораблём
-
-Become a little cat
-== Станьте котиком
-
-Vip access
-== Доступ випа
-
-Donor access
-== Доступ донора
-
-Only one owner allowed
-== Разрешён только один владелец
-
-Rainbows
-== Радуги
 
 Hats
 == Шляпы
@@ -1408,17 +1072,11 @@ Rooms
 Map design
 == Дизайн карты
 
-Available designs:
-== Доступные дизайны:
-
 Design not found, use '/design' to check available.
 == Дизайн не найден, используй '/design' чтобы вывести список.
 
 Spawn point set.
 == Точка возрождения установлена.
-
-Successfully stored on account.
-== Успешно сохранено на вашем аккаунте.
 
 Auto login into account on join
 == Авто логин в аккаунт при входе
@@ -1486,9 +1144,6 @@ Transfer Ownership
 Wrong role name, available: [member|moder|owner].
 == Неправильное название роли, существуют: [member|moder|owner].
 
-Freeze progress bar
-== Полоска прогресса заморозки
-
 Wallet disabled.
 == Кошелёк отключен.
 
@@ -1497,18 +1152,6 @@ You need to reach {} level to create clan.
 
 You need to reach {} level to pass.
 == Вам нужно достигнуть {} уровня чтобы пройти.
-
-Ufo
-== Нло
-
-Become a little ufo
-== Станьте маленьким нло
-
-Rainbow name
-== Радужное имя
-
-Reached max item count.
-== Достигнут максимум предметов.
 
 Vip indicator
 == Вип индикатор
@@ -1579,9 +1222,6 @@ Duel request was canceled.
 There is no pending duel request.
 == Нет запросов дуэли.
 
-This player disabled duel requests.
-== Этот игрок отключил запросы на дуэль.
-
 All duel requests ignore: {}.
 == Игнорирование всех запросов дуэлей: {}.
 
@@ -1599,9 +1239,6 @@ Rating duel search started.
 
 Always rating duel search
 == Постоянный поиск рейтинговой дуэли
-
-Rating duel found. Creating match with '{-}' (Rating: {}).
-== Рейтинговая дуэль найдена. Создаём матч с '{-}' (Рейтинг: {}).
 
 Rating duel found. Creating match.
 == Рейтинговая дуэль найдена. Создаём матч.
@@ -1681,12 +1318,6 @@ Type '/accept rating' to play.
 Since you've been on the lookout for too long, a request to compete with a suitable player has been sent.
 == Так как вы слишком долго находитесь в поиске, был отправлен запрос на соперничество подходящему игроку.
 
-Rating duel accepted.
-== Рейтинговая дуэль принята.
-
-Arena {} already in blacklist.
-== Арена {} уже в чёрном списке.
-
 Arena {} removed from blacklist.
 == Арена {} удалена из чёрного списка.
 
@@ -1713,30 +1344,6 @@ Opponent duel skin
 
 DND
 == Не беспокоить
-
-Activated for next rating duel.
-== Активировано для следующей рейтинговой дуэли.
-
-Deactivated for next rating duel.
-== Деактивировано для следующей рейтинговой дуэли.
-
-Double-Rating Badge
-== Двойной рейтинг
-
-Double rating bet in duel
-== Удвоение рейтинговой ставки
-
-Available Badges
-== Доступные Жетоны
-
-You don't have badges
-== У вас нет жетонов
-
-Badges Shop
-== Магазин жетонов
-
-Badge
-== Жетон
 
 Exited rating duel
 == Выход из рейтинговой дуэли
@@ -1921,18 +1528,6 @@ more time
 more times
 == раза
 
-Purchases
-== Покупки
-
-Taser
-== Тайзер
-
-Upgrading to level {} → {}
-== Улучшается до уровня {} → {}
-
-Max
-== Максимальный
-
 linked
 == привязан
 
@@ -1996,9 +1591,6 @@ Not enough amount for drop {}/{}.
 Minimal drop amount is {}.
 == Минимальное количество для выброса {}.
 
-Wrong item name, possible types: /drop <ammo> <amount>.
-== Неправильное название предмета, возможные параметры: /drop <ammo> <amount>.
-
 Duel found. Creating match.
 == Дуэль найдена. Создаём матч.
 
@@ -2056,9 +1648,6 @@ Rules
 Block Spree
 == Блок серия
 
-You have been punished for bad client. Get official client from ddnet.org/download
-== Вы были наказаны за подозрительный клиент игры. Пользуйтесь официальным клиентом ddnet.org/download
-
 Can't transfer cash while jailed.
 == Нельзя передавать деньги, пока вы находитесь в джайле.
 
@@ -2094,15 +1683,6 @@ You can't use chat right now. Please wait.
 
 You client is being verified or seems bad. Get official client from ddnet.org/downloads
 == Ваш клиент проходит верификацию или является подозрительным. Скачайте официальный клиент с ddnet.org/downloads
-
-Spooky gun
-== Пули страшные
-
-Shoot with spooky bullets
-== Стреляйте устрашением
-
-You don't have purchases
-== У вас нет покупок
 
 players
 == игроков
@@ -2212,32 +1792,14 @@ Currency
 '{-}' tried to steal '{-}' kill!
 == '{-}' попытался украсть убийство '{-}'!
 
-You get random bonus: {}
-== Вы получили рандомный бонус: {}
-
-Disable: {}
-== Отключить: {}
-
 Can't change teams while frozen!
 == Вы не можете поменять команду пока заморожены!
-
-Star gun
-== Звёздная пушка
-
-Shoot with stars
-== Стреляйте звёздочками
 
 You are sending reports too fast.
 == Вы отправляете репорты слишком быстро.
 
 Effects
 == Эффекты
-
-Glow
-== Свечение
-
-Glow with happiness
-== Светиться от счастья
 
 The server is going to shutdown in {} {} ({-})
 == Сервер будет выключен через {} {} ({-})
@@ -2269,9 +1831,6 @@ Firework
 Sparklers
 == Бенгальский огонь
 
-Got smoke grenade. Current count: {}/{}
-== Получена дымовая граната. Количество: {}/{}
-
 Score
 == Очки
 
@@ -2287,12 +1846,6 @@ You blocked '{}', this is forbidden on server.
 Laser ammo will be respawned in {} seconds.
 == Респаун патронов для лазера через {} секунд.
 
-That was the death in good game
-== Эта смерть была в хорошей игре
-
-Kills:
-== Убийства:
-
 {}. '{-}' - {} kills!
 == {}. '{-}' - {} убийств!
 
@@ -2302,35 +1855,11 @@ Kills:
 \[{}] The event is over!
 == [{}] Событие завершено!
 
-No winners in this event.
-== Нет победителей в этом событии.
-
 You aren't logged in an account to receive a reward.
 == Вы не вошли в аккаунт для получения награды.
 
-Star
-== Звезда
-
-Stars circle
-== Круг звёзд
-
-Vortex
-== Вихрь
-
-Lovely
-== Влюблённый
-
 Weapons
 == Оружия
-
-Five stars after death make clear you were a bandit
-== Пять звезд после смерти дают понять, что вы были бандитом
-
-Shine like never before after death
-== Сияй как никогда после смерти
-
-Plasma vortex hides you after death
-== Плазменный вихрь скрывает вас после смерти
 
 Do not disturb mode enabled, to disable write /dnd.
 == Включен режим 'Не беспокоить', для отключения напишите /dnd.
@@ -2467,9 +1996,6 @@ Blackjack started! [Bet-{}]: Your cards: {} ({}). Dealer shows: {} ({}). Choose 
 \[Bet-{}]: Cannot split this hand, only {} split allowed.
 == [Ставка-{}]: Эту руку нельзя разделить, только {} сплит разрешён.
 
-Hand split into [Bet-{}] and [Bet-{}]. Choose an action for [Bet-{}].
-== Рука разделена на [Ставка-{}] и [Ставка-{}]. Выберите действие для [Ставка-{}].
-
 \[Bet-{}]: Dealer's hand: {} ({}). You win! Your payout is {}$.
 == [Ставка-{}]: Рука дилера: {} ({}). Вы победили! Выплата: {}$.
 
@@ -2488,6 +2014,20 @@ Choose an action for [Bet-{}]. Your cards: {} ({}).
 You are not participating in game. Use /bet <amount> to start.
 == Вы не участвуете в игре. Используйте /bet <сумма>, чтобы начать.
 
-Smoke Grenade
-== Дымовая граната
+not authorized
+== 
 
+Hand split into [Bet-{}] and [Bet-{}].
+== 
+
+Wrong command usage, use '/help {}' for command info.
+== 
+
+Too many requests.
+== 
+
+Smoke Grenade
+== 
+
+Got smoke grenade. Current count: {}/{}
+== 
