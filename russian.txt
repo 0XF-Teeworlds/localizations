@@ -2269,8 +2269,8 @@ Firework
 Sparklers
 == Бенгальский огонь
 
-Got smoke grenade. Current count: {}
-== Получена дымовая граната. Количество: {}
+Got smoke grenade. Current count: {}/{}
+== Получена дымовая граната. Количество: {}/{}
 
 Score
 == Очки
@@ -2487,3 +2487,7 @@ Choose an action for [Bet-{}]. Your cards: {} ({}).
 
 You are not participating in game. Use /bet <amount> to start.
 == Вы не участвуете в игре. Используйте /bet <сумма>, чтобы начать.
+
+Smoke Grenade
+== Дымовая граната
+

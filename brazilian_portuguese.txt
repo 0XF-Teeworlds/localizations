@@ -2269,8 +2269,8 @@ Firework
 Sparklers
 == Estalinhos
 
-Got smoke grenade. Current count: {}
-== Granada de fumaça recebida. Quantidade atual: {}
+Got smoke grenade. Current count: {}/{}
+== Granada de fumaça recebida. Quantidade atual: {}/{}
 
 Score
 == Pontuação
@@ -2487,3 +2487,6 @@ Choose an action for [Bet-{}]. Your cards: {} ({}).
 
 You are not participating in game. Use /bet <amount> to start.
 == Você não está participando do jogo. Use /bet <quantia> para começar.
+
+== Smoke Grenate
+Granada de fumaça
