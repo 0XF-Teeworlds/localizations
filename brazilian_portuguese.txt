@@ -1777,9 +1777,6 @@ Max Multi
 Max Spree
 == Máxima Sequência de Mortes
 
-Currency
-== Moeda
-
 '{-}' multi x{}!
 == '{-}' multi-morte x{}!
 
