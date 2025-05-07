@@ -112,9 +112,6 @@ Game Votes
 Empty
 == Vazio
 
-Not loaded
-== Não carregado
-
 Deposit
 == Depositar
 
@@ -943,9 +940,6 @@ Can't find account.
 Not enough cash on account.
 == Dinheiro insuficiente na conta.
 
-Can't buy this item, you reached max item count for this type.
-== Não é possível comprar este item, você atingiu o limite máximo de itens deste tipo.
-
 Can't find player with given name.
 == Não foi possível encontrar um jogador com este nome.
 
@@ -1036,9 +1030,6 @@ Wait until event finished!
 Clan '{-}' reached new level {}!
 == O clã '{-}' alcançou o nível {}!
 
-Deaths
-== Mortes
-
 Name protection
 == Proteção de nome
 
@@ -1057,14 +1048,8 @@ Trails
 Guns
 == Armas
 
-Kits
-== Kits
-
 Avatars
 == Avatares
-
-Others
-== Outros
 
 Rooms
 == Salas
@@ -2011,20 +1996,143 @@ Choose an action for [Bet-{}]. Your cards: {} ({}).
 You are not participating in game. Use /bet <amount> to start.
 == Você não está participando do jogo. Use /bet <quantia> para começar.
 
-not authorized
-== 
-
 Hand split into [Bet-{}] and [Bet-{}].
-== 
+== Mão dividida em [Aposta-{}] e [Aposta-{}].
 
 Wrong command usage, use '/help {}' for command info.
-== 
+== Uso incorreto do comando. Use '/help {}' para informações.
 
 Too many requests.
-== 
+== Solicitações demais.
 
 Smoke Grenade
-== 
+== Granada de fumaça
 
-Got smoke grenade. Current count: {}/{}
-== 
+Currencies
+== Moedas
+
+Inventory
+== Inventário
+
+Filters
+== Filtros
+
+User Items
+== Itens do usuário
+
+Bonus Items
+== Itens bônus
+
+Role Items
+== Itens por função
+
+You don't have any items with filters selected.
+== Você não tem itens com os filtros selecionados.
+
+Kits
+== Kits
+
+Unknown
+== Desconhecido
+
+Weapon Upgrades
+== Melhorias de armas
+
+Other
+== Outros
+
+{}. Buy for {} {} [{}]
+== {}. Comprar por {} {} [{}]
+
+{}. Buy forever [{}]
+== {}. Comprar para sempre [{}]
+
+{}. Buy {} items [{}]
+== {}. Comprar {} itens [{}]
+
+- Use vote reason to buy specific item count.
+== - Use o motivo do voto para comprar uma quantidade específica de itens.
+
+\[LIMITED] {} left
+== [LIMITADO] restam {}
+
+\[LIMITED] expired {} ago
+== [LIMITADO] expirou há {}
+
+Item Info
+== Informações do item
+
+Room Info
+== Informações da sala
+
+Max Owners
+== Máximo de donos
+
+Max level reached.
+== Nível máximo alcançado.
+
+Upgrading {} → {}
+== Melhorando {} → {}
+
+Required Level
+== Nível necessário
+
+- Next buy: {}
+== Próxima compra: {}
+
+Upgrade Time
+== Tempo de melhoria
+
+\[Gift for {-}]
+== [Presente para {-}]
+
+✧ Want to make a gift?
+== ✧ Quer fazer um presente?
+
+No available data.
+== Nenhum dado disponível.
+
+Select a player to gift an item to:
+== Selecione um jogador para presentear com um item:
+
+No any players.
+== Nenhum jogador disponível.
+
+Usage
+== Uso
+
+Not enough currency to buy:
+== Moeda insuficiente para comprar:
+
+Your level is too low to buy the item. Required level: {}.
+== Seu nível é muito baixo para comprar este item. Nível necessário: {}.
+
+You have bought {} items.
+== Você comprou {} itens.
+
+You have started upgrading the item {} → {}.
+== Você começou a melhorar o item {} → {}.
+
+You have bought the item forever.
+== Você comprou o item permanentemente.
+
+You have bought the item for {} {}.
+== Você comprou o item por {} {}.
+
+You have gifted the item.
+== Você presenteou com o item.
+
+You have received a gift from '{}'.
+== Você recebeu um presente de '{}'.
+
+You have received a gift.
+== Você recebeu um presente.
+
+You have got {} items.
+== Você recebeu {} itens.
+
+You have got the item forever.
+== Você recebeu o item permanentemente.
+
+You have got the item for {} {}.
+== Você recebeu o item por {} {}.
