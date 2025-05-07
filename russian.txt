@@ -448,18 +448,6 @@ Balance updated: {} ({-}{})
 Wrong item identifier!
 == Неправильный идентификатор предмета!
 
-days
-== дней
-
-hours
-== часов
-
-minutes
-== минут
-
-seconds
-== секунд
-
 times
 == раз
 
@@ -1363,8 +1351,8 @@ Weekend Boost
 Vip Boost
 == Вип буст
 
-Vip Discount
-== Вип скидка
+Discount
+== Скидка
 
 \[{}] The {} won with score {} - {}!
 == [{}] {} выиграла со счётом {} - {}!
@@ -2136,3 +2124,33 @@ You have got the item forever.
 
 You have got the item for {} {}.
 == Вы получили предмет на {} {}.
+
+seconds
+== секунд
+
+minutes
+== минут
+
+hours
+== часов
+
+days
+== дней
+
+weeks
+== недель
+
+months
+== месяцев
+
+years
+== лет
+
+Roles
+== Роли
+
+[{} items] {}
+== [{} предметов] {}
+
+[{} items] {} [★]
+== [{} предметов] {} [★]

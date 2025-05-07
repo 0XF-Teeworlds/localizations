@@ -448,18 +448,6 @@ Balance updated: {} ({-}{})
 Wrong item identifier!
 == Identificador de item incorreto!
 
-days
-== dias
-
-hours
-== horas
-
-minutes
-== minutos
-
-seconds
-== segundos
-
 times
 == vezes
 
@@ -1363,8 +1351,8 @@ Weekend Boost
 Vip Boost
 == Impulso VIP
 
-Vip Discount
-== Desconto VIP
+Discount
+== Desconto
 
 \[{}] The {} won with score {} - {}!
 == [{}] O {} venceu com pontuação {} - {}!
@@ -2136,3 +2124,33 @@ You have got the item forever.
 
 You have got the item for {} {}.
 == Você recebeu o item por {} {}.
+
+seconds
+== segundos
+
+minutes
+== minutos
+
+hours
+== horas
+
+days
+== dias
+
+weeks
+== semanas
+
+months
+== meses
+
+years
+== anos
+
+Roles
+== Funções
+
+[{} items] {}
+== [{} itens] {}
+
+[{} items] {} [★]
+== [{} itens] {} [★]
