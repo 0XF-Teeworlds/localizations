@@ -2116,34 +2116,13 @@ You have got the item forever.
 You have got the item for {} {}.
 == Вы получили предмет на {} {}.
 
-seconds
-== секунд
-
-minutes
-== минут
-
-hours
-== часов
-
-days
-== дней
-
-weeks
-== недель
-
-months
-== месяцев
-
-years
-== лет
-
 Roles
 == Роли
 
-[{} items] {}
+\[{} items] {}
 == [{} предметов] {}
 
-[{} items] {} [★]
+\[{} items] {} [★]
 == [{} предметов] {} [★]
 
 Fun Items
