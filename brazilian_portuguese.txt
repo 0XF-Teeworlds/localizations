@@ -919,9 +919,6 @@ Brush
 items
 == itens
 
-Items
-== Itens
-
 Can't find account.
 == Conta não encontrada.
 
@@ -1017,12 +1014,6 @@ Wait until event finished!
 
 Clan '{-}' reached new level {}!
 == O clã '{-}' alcançou o nível {}!
-
-Name protection
-== Proteção de nome
-
-Vip
-== VIP
 
 Donor
 == Doador
@@ -2154,3 +2145,12 @@ Roles
 
 [{} items] {} [★]
 == [{} itens] {} [★]
+
+Fun Items
+== Itens Divertidos
+
+Death Effects
+== Efeitos de Morte
+
+Clantag protection
+== Proteção de Clantag

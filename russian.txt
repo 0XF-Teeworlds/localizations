@@ -919,9 +919,6 @@ Brush
 items
 == предметов
 
-Items
-== Предметы
-
 Can't find account.
 == Аккаунт не найден.
 
@@ -1017,12 +1014,6 @@ Wait until event finished!
 
 Clan '{-}' reached new level {}!
 == Клан '{-}' достиг уровня {}!
-
-Name protection
-== Защита имени
-
-Vip
-== Вип
 
 Donor
 == Донор
@@ -2154,3 +2145,12 @@ Roles
 
 [{} items] {} [★]
 == [{} предметов] {} [★]
+
+Fun Items
+== Развлекательные предметы
+
+Death Effects
+== Эффекты смерти
+
+Clantag protection
+== Защита клантега
