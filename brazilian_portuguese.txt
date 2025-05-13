@@ -1786,12 +1786,6 @@ Clan
 Time
 == Tempo
 
-Firework
-== Fogos de Artifício
-
-Sparklers
-== Estalinhos
-
 Score
 == Pontuação
 
