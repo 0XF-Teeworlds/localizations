@@ -2127,3 +2127,33 @@ Death Effects
 
 Clantag protection
 == Proteção de Clantag
+
+Opening
+== Abertura
+
+You are already opening a case.
+== Você já está abrindo um caixa.
+
+Opening case failed:
+== Falha ao abrir o caixa:
+
+You've successfully opened {}:
+== Você abriu com sucesso {}:
+
+You don't have that many items.
+== Você não tem tantos itens.
+
+Failed to open case:
+== Não foi possível abrir o caixa:
+
+Sold for {}
+== Vendido por {}
+
+The item has been sold for {}.
+== O item foi vendido por {}.
+
+nothing
+== nada
+
+You can't open a case in this game.
+== Você não pode abrir um caixa neste jogo.
