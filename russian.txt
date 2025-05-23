@@ -2127,3 +2127,33 @@ Death Effects
 
 Clantag protection
 == Защита клантега
+
+Opening
+== Открытие
+
+You are already opening a case.
+== Вы уже открываете кейс.
+
+Opening case failed:
+== Открытие кейса не удалось
+
+You've successfully opened {}:
+== Вы успешно открыли {}:
+
+You don't have that many items.
+== У вас нет столько предметов.
+
+Failed to open case:
+== Не удалось открыть кейс:
+
+Sold for {}
+== Продано за {}
+
+The item has been sold for {}.
+== Предмет был продан за {}.
+
+nothing
+== ничего
+
+You can't open a case in this game.
+== Вы не можете открыть кейс в этой игре.
