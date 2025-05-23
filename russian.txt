@@ -40,9 +40,6 @@ Dash
 Shop
 == Магазин
 
-Upgrades
-== Улучшения
-
 Statistic
 == Статистика
 
@@ -1327,8 +1324,8 @@ Choose donor name prefix:
 Choose vip name prefix:
 == Выберите вип префикс:
 
-You are not the Vip.
-== Вы не вип.
+You are not a VIP.
+== Вы не VIP.
 
 You are not the Donor.
 == Вы не донор.
@@ -1351,11 +1348,11 @@ Discount
 Cosmetic
 == Косметика
 
-Vip upgrades:
-== Вип улучшения:
+VIP items:
+== VIP предметы:
 
-Donor upgrades:
-== Донор улучшения:
+Donor items:
+== Донор предметы:
 
 Freeze players from the opposing team and throw them into the scoring area.
 == Замораживайте игроков из противоположной команды и закидывайте в зону получения очков.
@@ -1510,8 +1507,8 @@ Staff
 Choose staff name prefix:
 == Выбрать префикс стаффа:
 
-Staff upgrades:
-== Стафф улучшения:
+Staff items:
+== Стафф предметы:
 
 Media
 == Медия
@@ -1519,8 +1516,8 @@ Media
 Choose media name prefix:
 == Выбрать префикс медии:
 
-Media upgrades:
-== Медия улучшения:
+Media items:
+== Медиа предметы:
 
 '{-}' was transferred to '{}'
 == '{-}' отправился на '{}'
@@ -1843,9 +1840,6 @@ Protected nicknames
 Name protection [{}] for '{}'
 == Защита ника [{}] для '{}'
 
-Name protection [{}] for all nicknames
-== Защита ника [{}] для всех ников
-
 '{}' {}, {} canceled.
 == '{}' {}, {} отменена.
 
@@ -2050,9 +2044,6 @@ Upgrading {} → {}
 Required Level
 == Необходимый уровень
 
-- Next buy: {}
-== Следующая покупка: {}
-
 Upgrade Time
 == Время улучшения
 
@@ -2134,9 +2125,6 @@ Opening
 You are already opening a case.
 == Вы уже открываете кейс.
 
-Opening case failed:
-== Открытие кейса не удалось
-
 You've successfully opened {}:
 == Вы успешно открыли {}:
 
@@ -2157,3 +2145,10 @@ nothing
 
 You can't open a case in this game.
 == Вы не можете открыть кейс в этой игре.
+
+\[This item cannot be purchased.]
+== [Невозможно купить этот предмет]
+
+The item is on cooldown: {}
+== Предмет будет доступен через: {}
+

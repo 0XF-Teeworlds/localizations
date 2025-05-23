@@ -40,9 +40,6 @@ Dash
 Shop
 == Loja
 
-Upgrades
-== Melhorias
-
 Statistic
 == Estatísticas
 
@@ -1327,7 +1324,7 @@ Choose donor name prefix:
 Choose vip name prefix:
 == Escolha o prefixo de nome VIP:
 
-You are not the Vip.
+You are not a VIP.
 == Você não é VIP.
 
 You are not the Donor.
@@ -1351,11 +1348,11 @@ Discount
 Cosmetic
 == Cosméticos
 
-Vip upgrades:
-== Melhorias VIP:
+VIP items:
+== Itens VIP:
 
-Donor upgrades:
-== Melhorias de Doador:
+Donor items:
+== Itens de Doador:
 
 Freeze players from the opposing team and throw them into the scoring area.
 == Congele jogadores da equipe adversária e jogue-os na área de pontuação.
@@ -1510,8 +1507,8 @@ Staff
 Choose staff name prefix:
 == Escolha o prefixo de nome da equipe:
 
-Staff upgrades:
-== Melhorias da equipe:
+Staff items:
+== Itens da equipe:
 
 Media
 == Mídia
@@ -1519,8 +1516,8 @@ Media
 Choose media name prefix:
 == Escolha o prefixo de nome da mídia:
 
-Media upgrades:
-== Melhorias da mídia:
+Media items:
+== Itens de mídia:
 
 '{-}' was transferred to '{}'
 == '{-}' foi transferido para '{}'
@@ -1843,9 +1840,6 @@ Protected nicknames
 Name protection [{}] for '{}'
 == Proteção de nome [{}] para '{}'
 
-Name protection [{}] for all nicknames
-== Proteção de nome [{}] para todos os apelidos
-
 '{}' {}, {} canceled.
 == '{}' {}, {} cancelado.
 
@@ -2050,9 +2044,6 @@ Upgrading {} → {}
 Required Level
 == Nível necessário
 
-- Next buy: {}
-== Próxima compra: {}
-
 Upgrade Time
 == Tempo de melhoria
 
@@ -2134,9 +2125,6 @@ Opening
 You are already opening a case.
 == Você já está abrindo um caixa.
 
-Opening case failed:
-== Falha ao abrir o caixa:
-
 You've successfully opened {}:
 == Você abriu com sucesso {}:
 
@@ -2157,3 +2145,9 @@ nothing
 
 You can't open a case in this game.
 == Você não pode abrir um caixa neste jogo.
+
+[This item cannot be purchased.]
+== [Este item não pode ser comprado.]
+
+The item is on cooldown: {}
+== O item estará disponível em: {}
