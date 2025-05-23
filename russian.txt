@@ -2146,7 +2146,7 @@ nothing
 You can't open a case in this game.
 == Вы не можете открыть кейс в этой игре.
 
-\[This item cannot be purchased.]
+\[The item cannot be purchased]
 == [Невозможно купить этот предмет]
 
 The item is on cooldown: {}

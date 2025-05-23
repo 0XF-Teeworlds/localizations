@@ -2146,8 +2146,8 @@ nothing
 You can't open a case in this game.
 == Você não pode abrir um caixa neste jogo.
 
-[This item cannot be purchased.]
-== [Este item não pode ser comprado.]
+\[The item cannot be purchased]
+== [Este item não pode ser comprado]
 
 The item is on cooldown: {}
 == O item estará disponível em: {}
