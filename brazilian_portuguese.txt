@@ -2151,3 +2151,18 @@ You can't open a case in this game.
 
 The item is on cooldown: {}
 == O item estará disponível em: {}
+
+Press F3 to keep the item
+== Pressione F3 para manter o item
+
+Press F4 to sell the item for {}
+== Pressione F4 para vender o item por {}
+
+You received {}$ and {} experience for participation.
+== Você recebeu {}$ e {} de experiência pela participação.
+
+You received {}$ and {} experience for your winner place.
+== Você recebeu {}$ e {} de experiência pela colocação vencedora.
+
+Total Participants: {}
+== Total de participantes: {}
