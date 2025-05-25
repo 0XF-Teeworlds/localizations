@@ -2163,3 +2163,6 @@ You received {}$ and {} experience for your winner place.
 
 Total Participants: {}
 == Всего участников: {}
+
+To main menu
+== В главное меню

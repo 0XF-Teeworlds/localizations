@@ -2163,3 +2163,6 @@ You received {}$ and {} experience for your winner place.
 
 Total Participants: {}
 == Total de participantes: {}
+
+To main menu
+== Para o menu principal
