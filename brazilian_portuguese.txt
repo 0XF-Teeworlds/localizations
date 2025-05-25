@@ -2166,3 +2166,10 @@ Total Participants: {}
 
 To main menu
 == Para o menu principal
+
+Cases
+== Casos
+
+Spawn Effects
+== Efeitos de geração
+
