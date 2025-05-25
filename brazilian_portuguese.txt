@@ -1759,11 +1759,11 @@ You are sending reports too fast.
 Effects
 == Efeitos
 
-The server is going to shutdown in {} {} ({-})
-== O servidor será desligado em {} {} ({-})
+The server is going to shutdown in {} {-} ({-})
+== O servidor será desligado em {} {-} ({-})
 
-The map is going to reload in {} {} ({-})
-== O mapa será recarregado em {} {} ({-})
+The map is going to reload in {} {-} ({-})
+== O mapa será recarregado em {} {-} ({-})
 
 The server shutdown was cancelled.
 == O desligamento do servidor foi cancelado.
@@ -2142,9 +2142,6 @@ The item has been sold for {}.
 
 nothing
 == nada
-
-You can't open a case in this game.
-== Você não pode abrir um caixa neste jogo.
 
 \[The item cannot be purchased]
 == [Este item não pode ser comprado]
