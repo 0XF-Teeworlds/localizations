@@ -1474,8 +1474,8 @@ Rating: {}
 Winrate: {}/{} ({~.2}%)
 == Taxa de vitórias: {}/{} ({~.2}%)
 
-Your discord link code is {-}. It lasts for {-} {}.
-== Seu código de link do Discord é {-}. Ele dura {-} {}.
+Your discord link code is {-}. It lasts for {} {t}.
+== Seu código de link do Discord é {-}. Ele dura {} {t}.
 
 Natural physic prediction
 == Previsão física natural

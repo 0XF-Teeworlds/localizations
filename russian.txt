@@ -1474,8 +1474,8 @@ Rating: {}
 Winrate: {}/{} ({~.2}%)
 == Процент побед: {}/{} ({~.2}%)
 
-Your discord link code is {-}. It lasts for {-} {}.
-== Ваш код привязки дискорда - {-}. Он длится {-} {}.
+Your discord link code is {-}. It lasts for {} {t}.
+== Ваш код привязки дискорда - {-}. Он длится {} {t}.
 
 Natural physic prediction
 == Естественное предсказывание физики
