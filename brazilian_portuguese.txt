@@ -2008,8 +2008,8 @@ Weapon Upgrades
 Other
 == Outros
 
-{}. Buy for {} {} [{}]
-== {}. Comprar por {} {} [{}]
+{}. Buy for {} {t} [{}]
+== {}. Comprar por {} {t} [{}]
 
 {}. Buy forever [{}]
 == {}. Comprar para sempre [{}]
