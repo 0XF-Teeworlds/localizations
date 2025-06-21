@@ -2098,8 +2098,8 @@ You have got {} items.
 You have got the item forever.
 == Вы получили предмет навсегда.
 
-You have got the item for {} {}.
-== Вы получили предмет на {} {}.
+You have got the item for {} {t}.
+== Вы получили предмет на {} {t}.
 
 Roles
 == Роли

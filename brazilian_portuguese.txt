@@ -2098,8 +2098,8 @@ You have got {} items.
 You have got the item forever.
 == Você recebeu o item permanentemente.
 
-You have got the item for {} {}.
-== Você recebeu o item por {} {}.
+You have got the item for {} {t}.
+== Você recebeu o item por {} {t}.
 
 Roles
 == Funções
