@@ -2172,3 +2172,6 @@ Cases
 
 Spawn Effects
 == Эффекты появления
+
+Looks like you used cheats while going through the map, your finish will not be counted
+== Похоже ты использовал читы во время прохождения карты, твой финиш не будет засчитан

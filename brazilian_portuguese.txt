@@ -2173,3 +2173,5 @@ Cases
 Spawn Effects
 == Efeitos de geração
 
+Looks like you used cheats while going through the map, your finish will not be counted
+== Parece que você usou trapaças ao percorrer o mapa, sua conclusão não será contabilizada
