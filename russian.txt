@@ -2175,3 +2175,9 @@ Spawn Effects
 
 Looks like you used cheats while going through the map, your finish will not be counted
 == Похоже ты использовал читы во время прохождения карты, твой финиш не будет засчитан
+
+Accept rating duel?
+== Принять рейтинговый дуэль?
+
+Accept match?
+== Принять матч?

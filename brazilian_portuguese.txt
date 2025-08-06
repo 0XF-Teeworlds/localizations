@@ -2175,3 +2175,10 @@ Spawn Effects
 
 Looks like you used cheats while going through the map, your finish will not be counted
 == Parece que você usou trapaças ao percorrer o mapa, sua conclusão não será contabilizada
+
+Accept rating duel?
+== Aceitar duelo de classificação?
+
+Accept match?
+== Aceitar a partida?
+
