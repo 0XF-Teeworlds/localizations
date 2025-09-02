@@ -2184,3 +2184,6 @@ Accept match?
 
 Hunter hook players
 == Jogadores de gancho caçadores
+
+Weapon hat rotation
+== Rotação do chapéu de arma

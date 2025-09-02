@@ -2184,3 +2184,6 @@ Accept match?
 
 Hunter hook players
 == Охотник хукает игроков
+
+Weapon hat rotation
+== Поворот шляпы оружия
