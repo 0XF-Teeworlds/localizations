@@ -2182,3 +2182,5 @@ Accept rating duel?
 Accept match?
 == Aceitar a partida?
 
+Hunter hook players
+== Jogadores de gancho caçadores

@@ -2181,3 +2181,6 @@ Accept rating duel?
 
 Accept match?
 == Принять матч?
+
+Hunter hook players
+== Охотник хукает игроков
