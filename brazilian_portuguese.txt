@@ -2187,3 +2187,369 @@ Hunter hook players
 
 Weapon hat rotation
 == Rotação do chapéu de arma
+
+Keys
+== Chaves
+
+Dungeon reload failed. Try again shortly.
+== Falha ao recarregar a masmorra. Tente novamente em breve.
+
+World warp failed.
+== Falha ao teletransportar para o mundo.
+
+Dungeon updated. Warping to new layout...
+== Masmorra atualizada. Teletransportando para o novo layout...
+
+Dungeon warp failed.
+== Falha ao teletransportar para a masmorra.
+
+World create failed.
+== Falha ao criar o mundo.
+
+Dungeon game not found.
+== Partida da masmorra não encontrada.
+
+Warping to '{}' dungeon..
+== Teletransportando para a masmorra '{}'..
+
+Warping to main world..
+== Teletransportando para o mundo principal..
+
+You must be logged in.
+== Você precisa estar logado.
+
+Not available from dummy.
+== Indisponível a partir do dummy.
+
+Not alive.
+== Você está morto.
+
+Warp available only near the dungeon door.
+== O teleporte está disponível apenas perto da porta da masmorra.
+
+Unable to start dungeon warp right now.
+== Não é possível iniciar o teleporte para a masmorra agora.
+
+Loading your dungeon, please wait.
+== Carregando sua masmorra, aguarde.
+
+Dungeon edit mode available only in dungeons.
+== O modo de edição de masmorra está disponível apenas nas masmorras.
+
+Your dungeon is still loading, please wait...
+== Sua masmorra ainda está carregando, aguarde...
+
+You are already in edit mode.
+== Você já está no modo de edição.
+
+Edit mode enabled.
+== Modo de edição ativado.
+
+Only the owner can reset edit mode.
+== Apenas o dono pode redefinir o modo de edição.
+
+Edit reset available only inside your dungeon.
+== A redefinição da edição está disponível apenas dentro da sua masmorra.
+
+Edit reset available only in edit mode.
+== A redefinição da edição está disponível apenas no modo de edição.
+
+Edit layout reset to the saved dungeon.
+== O layout de edição foi redefinido para a versão salva da masmorra.
+
+Only the owner can start save mode.
+== Apenas o dono pode iniciar o modo de salvamento.
+
+Save mode available only inside your dungeon.
+== O modo de salvamento está disponível apenas dentro da sua masmorra.
+
+Save mode already active.
+== O modo de salvamento já está ativo.
+
+Enter edit mode before starting save mode.
+== Entre no modo de edição antes de iniciar o modo de salvamento.
+
+Your dungeon must contain at least one door.
+== Sua masmorra deve conter pelo menos uma porta.
+
+Your dungeon must contain at least one chest.
+== Sua masmorra deve conter pelo menos um baú.
+
+Save mode enabled. Press fire to start your attempt and reach the chest twice in a row to confirm.
+== Modo de salvamento ativado. Aperte o botão de disparo para iniciar sua tentativa e alcance o baú duas vezes seguidas para confirmar.
+
+Only the owner can control their dungeon.
+== Apenas o dono pode controlar a própria masmorra.
+
+Control mode available only inside your dungeon.
+== O modo de controle está disponível apenas dentro da sua masmorra.
+
+Control mode enabled. Press fire to start your practice run.
+== Modo de controle ativado. Aperte o botão de disparo para iniciar sua corrida de treino.
+
+Control mode unavailable right now.
+== O modo de controle está indisponível no momento.
+
+You are already controlling your dungeon.
+== Você já está controlando sua masmorra.
+
+Specify player name.
+== Especifique o nome do jogador.
+
+Available only inside your dungeon.
+== Disponível apenas dentro da sua masmorra.
+
+Can't find player with given name.
+== Não foi possível encontrar um jogador com esse nome.
+
+You can't invite yourself.
+== Você não pode se convidar.
+
+This player is not logged in.
+== Esse jogador não está logado.
+
+Player is already inside a dungeon.
+== O jogador já está dentro de uma masmorra.
+
+{} is not near the dungeon door.
+== {} não está perto da porta da masmorra.
+
+Stand near the dungeon door to receive dungeon invites.
+== Fique perto da porta da masmorra para receber convites para masmorras.
+
+{} didn't accept your dungeon invite.
+== {} não aceitou seu convite para a masmorra.
+
+Dungeon invite failed: player is no longer available.
+== Convite para a masmorra falhou: o jogador não está mais disponível.
+
+Stand near the dungeon door to accept the invite.
+== Fique perto da porta da masmorra para aceitar o convite.
+
+{} left the dungeon door.
+== {} se afastou da porta da masmorra.
+
+Failed to warp to dungeon.
+== Falha ao teletransportar para a masmorra.
+
+Failed to warp to dungeon. Try again later.
+== Falha ao teletransportar para a masmorra. Tente novamente mais tarde.
+
+Dungeon invite failed: dungeon is no longer available.
+== Convite para a masmorra falhou: a masmorra não está mais disponível.
+
+Dungeon invite failed: couldn't warp player.
+== Convite para a masmorra falhou: não foi possível teletransportar o jogador.
+
+{} accepted your dungeon invite.
+== {} aceitou seu convite para a masmorra.
+
+An invite for this player is already pending.
+== Um convite para esse jogador já está pendente.
+
+Unable to start invite vote right now.
+== Não é possível iniciar a votação de convite agora.
+
+Invited {} to your dungeon. Waiting for acceptance...
+== Você convidou {} para sua masmorra. Aguardando aceitação...
+
+You are not inside a dungeon.
+== Você não está dentro de uma masmorra.
+
+You must be in control mode to search for raids.
+== Você precisa estar no modo de controle para procurar invasões.
+
+Dungeon layout is being rebuilt. You'll return shortly.
+== O layout da masmorra está sendo reconstruído. Você voltará em breve.
+
+You must be logged in to search for raids.
+== Você precisa estar logado para procurar invasões.
+
+No dungeons to raid right now.
+== Não há masmorras para invadir no momento.
+
+Raids is disabled in configuration.
+== As invasões estão desativadas na configuração.
+
+You need to wait {} before starting another raid.
+== Você precisa esperar {} antes de iniciar outra invasão.
+
+You need to wait before starting another raid.
+== Você precisa esperar antes de iniciar outra invasão.
+
+Searching for a dungeon to raid...
+== Procurando uma masmorra para invadir...
+
+You must be inside a dungeon to start the raid.
+== Você precisa estar dentro de uma masmorra para iniciar a invasão.
+
+There is no raid to accept right now.
+== Não há nenhuma invasão para aceitar no momento.
+
+Raid already in progress.
+== A invasão já está em andamento.
+
+Raid ready. Press fire to break in.
+== Invasão pronta. Aperte o botão de disparo para invadir.
+
+You are not raiding a dungeon.
+== Você não está invadindo uma masmorra.
+
+You can only switch targets before the raid starts.
+== Você só pode mudar de alvo antes do início da invasão.
+
+You need {}{} to search for another dungeon.
+== Você precisa de {}{} para procurar outra masmorra.
+
+Searching for another dungeon to raid...
+== Procurando outra masmorra para invadir...
+
+Your dungeon is being raided by {}
+== Sua masmorra está sendo invadida por {}.
+
+Dungeon is locked by another raid. Try again in {}.
+== A masmorra está bloqueada por outra invasão. Tente novamente em {}.
+
+Dungeon is locked by another raid. Try again soon.
+== A masmorra está bloqueada por outra invasão. Tente novamente em breve.
+
+You must stand near the dungeon door to start a raid.
+== Para iniciar uma invasão, você precisa ficar perto da porta da masmorra.
+
+You already avenged this attack.
+== Você já se vingou desse ataque.
+
+That attacker is no longer available for revenge. Refresh the list first.
+== Esse atacante não está mais disponível para vingança. Atualize a lista primeiro.
+
+Invalid revenge target.
+== Alvo de vingança inválido.
+
+Reach the chest twice in a row to save automatically. Progress reset.
+== Alcance o baú duas vezes seguidas para salvar automaticamente. Progresso reiniciado.
+
+Dungeon save confirmed!
+== Salvamento da masmorra confirmado!
+
+Dungeon saved
+== Masmorra salva
+
+Width and height must be > 10.
+== A largura e a altura devem ser > 10.
+
+Generated dungeon template ID: {}
+== Modelo de masmorra gerado com ID: {}
+
+No recent attackers to take revenge on.
+== Não há atacantes recentes para se vingar.
+
+Recent attackers loaded. Use the vote menu to pick a revenge target.
+== Atacantes recentes carregados. Use o menu de votação para escolher um alvo de vingança.
+
+You stole {}$ from the dungeon bank!
+== Você roubou {}$ do banco da masmorra!
+
+Raid recorded, but the owner's bank balance couldn't be read. No payout this time.
+== A invasão foi registrada, mas o saldo do banco do dono não pôde ser lido. Sem recompensa desta vez.
+
+The owner's bank was empty. You stole nothing.
+== O banco do dono estava vazio. Você não roubou nada.
+
+{} raided your dungeon and stole {}$ (1% of your bank).
+== {} invadiu sua masmorra e roubou {}$ (1% do seu banco).
+
+{} raided your dungeon, but the reward could not be processed.
+== {} invadiu sua masmorra, mas a recompensa não pôde ser processada.
+
+{} raided your dungeon, but your bank had no funds to steal.
+== {} invadiu sua masmorra, mas não havia fundos no seu banco para roubar.
+
+Dungeon door must fit completely inside the map.
+== A porta da masmorra deve caber completamente dentro do mapa.
+
+Dungeon door requires a 3x3 free area without solid tiles.
+== A porta da masmorra requer uma área livre de 3x3 sem blocos sólidos.
+
+Only one dungeon chest allowed. Remove the existing chest first.
+== Só é permitido um baú de masmorra. Remova primeiro o baú existente.
+
+Dungeon chest must fit completely inside the map.
+== O baú da masmorra deve caber completamente dentro do mapa.
+
+Dungeon chest requires a 3x2 free area without solid tiles.
+== O baú da masmorra requer uma área livre de 3x2 sem blocos sólidos.
+
+Too many items ({}/{}).
+== Itens demais ({}/{}).
+
+Gold already collected. Next collection in {}.
+== O ouro já foi coletado. Próxima coleta em {}.
+
+Gold collect is disabled in configuration.
+== A coleta de ouro está desativada na configuração.
+
+Collected {}{} from your dungeon.
+== Você coletou {}{} da sua masmorra.
+
+You must be inside your dungeon to upgrade traps.
+== Para aprimorar armadilhas, você precisa estar dentro da sua masmorra.
+
+Only the owner can upgrade traps.
+== Apenas o dono pode aprimorar as armadilhas.
+
+Dungeon data not loaded yet.
+== Os dados da masmorra ainda não foram carregados.
+
+You need to be alive to upgrade traps.
+== Você precisa estar vivo para aprimorar armadilhas.
+
+Aim closer to a trap to upgrade it (within 3 tiles).
+== Mire mais perto da armadilha para aprimorá-la (dentro de 3 blocos).
+
+This trap is already at maximum level.
+== Essa armadilha já está no nível máximo.
+
+Trap upgrade is disabled in configuration.
+== O aprimoramento de armadilhas está desativado na configuração.
+
+Not enough cash. Need {}{}.
+== Dinheiro insuficiente. É necessário {}{}.
+
+Trap upgraded to level {} ({}{} spent).
+== Armadilha aprimorada para o nível {} (foram gastos {}{}).
+
+Attempt failed. Consecutive progress reset.
+== Tentativa falhou. O progresso em sequência foi reiniciado.
+
+Raid already completed. Use the vote menu to exit when ready.
+== A invasão já foi concluída. Use o menu de votação para sair quando estiver pronto.
+
+Raid complete! You can keep practicing or exit through the vote menu.
+== Invasão concluída! Você pode continuar praticando ou sair pelo menu de votação.
+
+Run complete. Use the vote menu to exit when you're done.
+== Corrida concluída. Use o menu de votação para sair quando terminar.
+
+Returning to your dungeon...
+== Retornando à sua masmorra...
+
+Loading your dungeon, please wait...
+== Carregando sua masmorra, aguarde...
+
+Unable to return automatically. Use the vote menu to exit the raid dungeon.
+== Não foi possível retornar automaticamente. Use o menu de votação para sair da masmorra de invasão.
+
+Practice run complete. Returning to start.
+== Corrida de treino concluída. Retornando ao início.
+
+Start save mode from edit to record your run.
+== Inicie o modo de salvamento a partir do modo de edição para registrar sua corrida.
+
+Chest reached! Progress: {}/2 successful runs.
+== Baú alcançado! Progresso: {}/2 corridas bem-sucedidas.
+
+Saving dungeon automatically...
+== Salvando a masmorra automaticamente...
+
+Reach the chest once more to trigger automatic saving.
+== Alcance o baú mais uma vez para disparar o salvamento automático.
