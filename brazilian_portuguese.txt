@@ -922,9 +922,6 @@ Can't find account.
 Not enough cash on account.
 == Dinheiro insuficiente na conta.
 
-Can't find player with given name.
-== Não foi possível encontrar um jogador com este nome.
-
 Login already exists.
 == O login já existe.
 
@@ -2299,15 +2296,6 @@ Specify player name.
 Available only inside your dungeon.
 == Disponível apenas dentro da sua masmorra.
 
-Can't find player with given name.
-== Não foi possível encontrar um jogador com esse nome.
-
-You can't invite yourself.
-== Você não pode se convidar.
-
-This player is not logged in.
-== Esse jogador não está logado.
-
 Player is already inside a dungeon.
 == O jogador já está dentro de uma masmorra.
 
@@ -2553,3 +2541,651 @@ Saving dungeon automatically...
 
 Reach the chest once more to trigger automatic saving.
 == Alcance o baú mais uma vez para disparar o salvamento automático.
+
+------- Top cash -------
+== ------- Top dinheiro -------
+
+------- Top level -------
+== ------- Top nível -------
+
+------- Top rating -------
+== ------- Top classificação -------
+
+------- Clan members -------
+== ------- Membros do clã -------
+
+------- Top clans cash -------
+== ------- Top clãs por dinheiro -------
+
+------- Top clans level -------
+== ------- Top clãs por nível -------
+
+------- Room members -------
+== ------- Membros da sala -------
+
+You have used x{} {}.
+== Você usou x{} {}.
+
+You have received the bonus item - {}. Disable '/tu {}'
+== Você recebeu o item bônus - {}. Desative com '/tu {}'.
+
+\[{}] '{-}' has got {-}!
+== [{}] '{-}' pegou {-}!
+
+Cash must be a positive number.
+== O valor deve ser um número positivo.
+
+You have to deposit at least {}{}.
+== Você precisa depositar pelo menos {}{}.
+
+You aren't a member of any clan.
+== Você não faz parte de nenhum clã.
+
+You have successfully deposited {}{} to your clan bank.
+== Você depositou com sucesso {}{} no banco do clã.
+
+You didn't receive a daily join reward:
+== Você não recebeu a recompensa diária de login:
+
+You have received a daily join reward for {} day:
+== Você recebeu a recompensa diária pelo {}º dia:
+
+Your account has been linked to discord '{}'.
+== Sua conta foi vinculada ao Discord '{}'.
+
+You lost drawer.
+== Você perdeu o cargo de desenhista.
+
+You got drawer.
+== Você recebeu o cargo de desenhista.
+
+You're not logged in.
+== Você não está logado.
+
+You don't have sufficient rights to use this command.
+== Você não tem permissão suficiente para usar este comando.
+
+Client name '{}' not found.
+== Jogador com o nome '{}' não encontrado.
+
+Duel with '{}' not found.
+== Duelo com '{}' não encontrado.
+
+Score updated for '{}'.
+== Pontuação atualizada para '{}'.
+
+Team score updated for '{}'.
+== Pontuação da equipe atualizada para '{}'.
+
+\[BlockZomb] Starting zombies can't send duel requests during an active round.
+== [BlockZomb] Zumbis iniciais não podem enviar pedidos de duelo durante uma rodada ativa.
+
+You can't send a duel while searching for a duel.
+== Você não pode enviar um duelo enquanto está procurando um duelo.
+
+Only %d parallel duels allowed.
+== Apenas %d duelos paralelos são permitidos.
+
+\[BlockZomb] {} can't join duels while they're a starting zombie.
+== [BlockZomb] {} não pode entrar em duelos enquanto é um zumbi inicial.
+
+This player has disabled duel requests.
+== Este jogador desativou os pedidos de duelo.
+
+Player is searching for a duel.
+== O jogador está procurando um duelo.
+
+Can't create duel, one of participants not valid.
+== Não é possível criar o duelo, um dos participantes é inválido.
+
+Can't find valid arena for you.
+== Não foi possível encontrar uma arena adequada para você.
+
+\[{}] Ended by timeout!
+== [{}] Encerrado por tempo limite!
+
+\[{}] Ended with tie!
+== [{}] Terminou em empate!
+
+Failed to prepare save layout. Please try again.
+== Falha ao preparar o layout de salvamento. Tente novamente.
+
+Raid bank holds up to {}{} on entry.
+== O banco do raid comporta até {}{} na entrada.
+
+You were returned to the main world for being AFK.
+== Você foi retornado ao mundo principal por estar AFK.
+
+Only the owner can regenerate their dungeon.
+== Apenas o dono pode regenerar a própria masmorra.
+
+Your mine is still active. Regenerate once it runs dry.
+== Sua mina ainda está ativa. Regere quando ela se esgotar.
+
+Dungeon regeneration is already in progress.
+== A regeneração da masmorra já está em andamento.
+
+Your dungeon is busy. Try again shortly.
+== Sua masmorra está ocupada. Tente novamente em breve.
+
+Regeneration is available only inside your dungeon.
+== A regeneração só está disponível dentro da sua masmorra.
+
+You cannot regenerate while a raid is in progress.
+== Você não pode regenerar enquanto há um raid em andamento.
+
+Regenerating your dungeon...
+== Regenerando sua masmorra...
+
+Unlock the door with a dungeon key before starting the raid.
+== Desbloqueie a porta com uma chave de masmorra antes de iniciar o raid.
+
+You need a dungeon key to search for raids.
+== Você precisa de uma chave de masmorra para procurar raids.
+
+Unable to reserve a dungeon key right now. Try again in a moment.
+== Não foi possível reservar uma chave de masmorra agora. Tente novamente em instantes.
+
+Unable to return your reserved dungeon key right now. Please try again later.
+== Não foi possível devolver sua chave de masmorra reservada agora. Tente novamente mais tarde.
+
+You are not raiding right now.
+== Você não está em um raid no momento.
+
+The door is already unlocked.
+== A porta já está desbloqueada.
+
+Wait for the current lock attempt to finish.
+== Aguarde a tentativa atual de abertura da fechadura terminar.
+
+This lock is already broken.
+== Esta fechadura já está quebrada.
+
+You need a dungeon key to try a lock.
+== Você precisa de uma chave de masmorra para tentar abrir a fechadura.
+
+Unable to use a key right now. Try again in a moment.
+== Não foi possível usar uma chave agora. Tente novamente em instantes.
+
+You don't have any dungeon keys left.
+== Você não tem mais chaves de masmorra.
+
+Door unlocked! Press fire to begin the raid.
+== Porta desbloqueada! Aperte fogo para iniciar o raid.
+
+Wrong lock! The key broke.
+== Fechadura errada! A chave quebrou.
+
+Can't raid that dungeon, owner is online.
+== Não é possível atacar essa masmorra, o dono está online.
+
+Reach the chest twice in a row within 3 minutes per run to save automatically. Progress reset.
+== Alcance o baú duas vezes seguidas dentro de 3 minutos por tentativa para salvar automaticamente. Progresso redefinido.
+
+Dungeon regeneration failed.
+== A regeneração da masmorra falhou.
+
+Your dungeon is being regenerated. Please wait...
+== Sua masmorra está sendo regenerada. Aguarde...
+
+Dungeon save layout is being prepared, please wait...
+== O layout de salvamento da masmorra está sendo preparado, aguarde...
+
+Preparing save layout, please wait...
+== Preparando layout de salvamento, aguarde...
+
+Save mode enabled. Press fire to start your attempt and reach the chest twice in a row within 3 minutes per run to confirm.
+== Modo de salvamento ativado. Aperte fogo para iniciar a tentativa e alcance o baú duas vezes seguidas em até 3 minutos por tentativa para confirmar.
+
+You stole {}$ from the dungeon bank ({}% of the maximum raid reward) ({})!
+== Você roubou {}$ do banco da masmorra ({}% da recompensa máxima do raid) ({})!
+
+Dungeon door must stay one tile away from the border.
+== A porta da masmorra deve ficar a um bloco de distância da borda.
+
+Dungeon chest must stay one tile away from the border.
+== O baú da masmorra deve ficar a um bloco de distância da borda.
+
+Your mine is depleted. Move to a new dungeon to resume income.
+== Sua mina foi esgotada. Vá para uma nova masmorra para retomar a renda.
+
+No gold to collect yet. Next gold in {}.
+== Ainda não há ouro para coletar. Próximo ouro em {}.
+
+No gold to collect yet.
+== Ainda não há ouro para coletar.
+
+Collected {}{} from your dungeon (collection limit reached).
+== Coletado {}{} da sua masmorra (limite de coleta atingido).
+
+No keys to collect yet. Next key in {}.
+== Ainda não há chaves para coletar. Próxima chave em {}.
+
+No keys to collect yet.
+== Ainda não há chaves para coletar.
+
+Failed to collect keys. Try again later.
+== Falha ao coletar chaves. Tente novamente mais tarde.
+
+Collected {} dungeon key{} from your dungeon.
+== Coletadas {} chave{} de masmorra da sua masmorra.
+
+Attempt took longer than 3 minutes. Progress reset.
+== A tentativa durou mais de 3 minutos. Progresso redefinido.
+
+Your spent keys have been returned for a perfect raid.
+== Suas chaves gastas foram devolvidas por um raid perfeito.
+
+Reach the chest once more within 3 minutes to trigger automatic saving.
+== Alcance o baú mais uma vez em até 3 minutos para ativar o salvamento automático.
+
+Flag-Hunt over. Nobody won!
+== Caça à Bandeira encerrada. Ninguém venceu!
+
+Flag-Hunt warmup: {~.2}
+== Aquecimento da Caça à Bandeira: {~.2}
+
+A Flag-Hunt began. Find and touch the Flag!
+== A Caça à Bandeira começou. Encontre e toque na bandeira!
+
+Flag-Hunt over: '{}' won!
+== Caça à Bandeira encerrada: '{}' venceu!
+
+Flag hunt already in progress.
+== A Caça à Bandeira já está em andamento.
+
+Flag hunt is not allowed, invalid target player.
+== Caça à Bandeira não permitida, jogador alvo inválido.
+
+Flag-Hunt is on cooldown. Remaining seconds : {}s
+== Caça à Bandeira em recarga. Segundos restantes: {}s
+
+A Flag-Hunt began. You are the Flag. Run away from the players and let nobody touch you! You have endless double jumps and your hook is a jetpack as a flag.
+== A Caça à Bandeira começou. Você é a bandeira. Fuja dos jogadores e não deixe ninguém encostar em você! Você tem pulos duplos infinitos e seu hook é um jetpack em forma de bandeira.
+
+Game '{}' is not enabled or not supported by map.
+== O jogo '{}' não está ativado ou não é suportado pelo mapa.
+
+The {} flag was captured by '{}' in {~.2} sec
+== A bandeira {} foi capturada por '{}' em {~.2} s
+
+Wait next round to make a Bet!
+== Espere a próxima rodada para apostar!
+
+Block this player too fast.
+== Você está bloqueando este jogador rápido demais.
+
+Players count not enough {}/{}
+== Jogadores insuficientes: {}/{}
+
+No points for dummy.
+== Sem pontos para o dummy.
+
+Block zone not triggered.
+== Zona de bloqueio não ativada.
+
+No block points for afk players.
+== Sem pontos de bloqueio para jogadores AFK.
+
+No points for clan member.
+== Sem pontos para membro de clã.
+
+'{}' was too slow and exploded.
+== '{}' estava lento demais e explodiu.
+
+'{}' {} by '{}'
+== '{}' {} por '{}'
+
+Game option vote failed
+== A votação da opção de jogo falhou
+
+Crashed on {~.2}! You lose!
+== Bateu em {~.2}! Você perdeu!
+
+No winner in this event!
+== Ninguém venceu neste evento!
+
+'{-}'s killing spree was ended by '{-}' ({} Kills)
+== A sequência de abates de '{-}' foi interrompida por '{-}' ({} abates)
+
+{} is already started.
+== {} já foi iniciado.
+
+{} is disabled.
+== {} está desativado.
+
+{} can't be stopped as default game.
+== {} não pode ser parado por ser o jogo padrão.
+
+Leaver protection, wait {} seconds until re-join.
+== Proteção contra leavers, espere {} segundos para entrar novamente.
+
+Now you are a hunter, you need to find all the players on the map and catch them.
+== Agora você é o caçador, precisa encontrar todos os jogadores no mapa e capturá-los.
+
+{} {}s (+15s)
+== {} {}s (+15s)
+
+{} [{}] finished in: {} minute(s) {~.2} second(s)
+== {} [{}] terminou em: {} minuto(s) {~.2} segundo(s)
+
+{} lap finished in: {} minute(s) {~.2} second(s)
+== Volta de {} concluída em: {} minuto(s) {~.2} segundo(s)
+
+Sorry, {}, you're dead.
+== Desculpe, {}, você morreu.
+
+You have not enough cash to repeat previous bet of {}$, use '/bet <amount>'
+== Você não tem dinheiro suficiente para repetir a aposta anterior de {}$, use '/bet <valor>'
+
+Bank is empty. Spinning is temporarily disabled.
+== O banco está vazio. Os giros estão temporariamente desativados.
+
+Finish your current bet before spinning the slots!
+== Termine sua aposta atual antes de girar os slots!
+
+The reels are already spinning!
+== Os rolos já estão girando!
+
+Free Spins active but no stored bet. Place a new base bet first.
+== Giros Grátis ativos, mas não há aposta salva. Faça primeiro uma nova aposta base.
+
+Free Spins: bet is locked to {}$ until the feature ends.
+== Giros Grátis: a aposta fica travada em {}$ até o fim do recurso.
+
+Bet must be positive!
+== A aposta deve ser positiva!
+
+Not enough cash for this bet.
+== Dinheiro insuficiente para esta aposta.
+
+(capped by feature/base cap)
+== (limitado pelo teto do recurso/base)
+
+Result: {}{}${}
+== Resultado: {}{}${}
+
+Result: {}{}$ (win {}$, bet {}$){}
+== Resultado: {}{}$ (ganho {}$, aposta {}$){}
+
+Free Spins received: {} spins!
+== Giros Grátis recebidos: {} giros!
+
+Free Spins finished.
+== Giros Grátis encerrados.
+
+Auto-spins finished.
+== Giros automáticos encerrados.
+
+Auto-spins stopped: no saved bet.
+== Giros automáticos parados: nenhuma aposta salva.
+
+Auto-spins stopped.
+== Giros automáticos parados.
+
+Auto-spins count must be positive.
+== A quantidade de giros automáticos deve ser positiva.
+
+Auto-spins count limited to {} spins.
+== A quantidade de giros automáticos foi limitada a {} giros.
+
+Stand near a slot machine to start auto-spins.
+== Fique perto de uma máquina caça-níqueis para iniciar giros automáticos.
+
+Wait for the current spin to finish before starting auto-spins.
+== Aguarde o giro atual terminar antes de iniciar giros automáticos.
+
+Make a bet using /bet <amount> before starting auto-spins.
+== Faça uma aposta usando /bet <valor> antes de iniciar giros automáticos.
+
+Auto-spins started: {} spins queued (bet {}$).
+== Giros automáticos iniciados: {} giros na fila (aposta {}$).
+
+Auto-spins is not active.
+== Giros automáticos não estão ativos.
+
+You have got {}{} unread mails.
+== Você tem {}{} mensagens não lidas.
+
+You can read them in vote menu.
+== Você pode lê-las no menu de voto.
+
+You have got a new mail!
+== Você recebeu uma nova mensagem!
+
+Matches disabled on server.
+== Partidas desativadas no servidor.
+
+Match games or team sizes not specified.
+== Jogos da partida ou tamanhos dos times não foram especificados.
+
+Ranked: search stopped.
+== Ranqueada: busca interrompida.
+
+Too late to accept.
+== Tarde demais para aceitar.
+
+Accepting the match...
+== Aceitando a partida...
+
+You declined the match.
+== Você recusou a partida.
+
+Match found — confirm in vote!
+== Partida encontrada — confirme no voto!
+
+Match failed. {} ({})
+== A partida falhou. {} ({})
+
+Match preparing: answered {}/{}.
+== Preparando partida: responderam {}/{}.
+
+Match assembling: connected {}/{}.
+== Montando partida: conectados {}/{}.
+
+Match is active: connected {}/{}.
+== Partida ativa: conectados {}/{}.
+
+Match ended.
+== Partida encerrada.
+
+You are already on match server
+== Você já está no servidor da partida
+
+You have been unmuted.
+== Seu mute foi removido.
+
+You have been unmuted early by moderator.
+== Seu mute foi removido antecipadamente por um moderador.
+
+'{-}' has been muted for {-} ({-})
+== '{-}' foi mutado por {-} ({-})
+
+You have been muted for {-} ({-})
+== Você foi mutado por {-} ({-})
+
+The name is already protected.
+== Esse nome já está protegido.
+
+Rating duel found. Creating match with '{-}' (Rating: {})
+== Duelo ranqueado encontrado. Criando partida com '{-}' (Rating: {})
+
+Not enough games
+== Partidas insuficientes
+
+Failed to sold, room {} lot canceled.
+== Falha na venda, lote da sala {} cancelado.
+
+You can set one of the following languages by using '/lang <option>':
+== Você pode definir um dos seguintes idiomas usando '/lang <opção>':
+
+en, ru
+== en, ru
+
+Available designs: {}
+== Designs disponíveis: {}
+
+Search duel will not be cancelled once the duel is over.
+== A busca de duelo não será cancelada após o fim do duelo.
+
+Search duel will be cancelled once the duel is over.
+== A busca de duelo será cancelada após o fim do duelo.
+
+You have bought the item for {} {t}.
+== Você comprou o item por {} {t}.
+
+The player level is too low to buy the item. Required level: {}.
+== O nível do jogador é muito baixo para comprar o item. Nível necessário: {}.
+
+You have received the item.
+== Você recebeu o item.
+
+You successfully gave the item.
+== Você entregou o item com sucesso.
+
+You have activated the welcome bonus:
+== Você ativou o bônus de boas-vindas:
+
+You have activated the promocode:
+== Você ativou o código promocional:
+
+- +{} Lv. {}
+== - +{} Nível {}
+
+- {} forever
+== - {} para sempre
+
+- {} for {} {t}
+== - {} por {} {t}
+
+You have got the {} role for {} {t}.
+== Você recebeu o cargo {} por {} {t}.
+
+You have lost the {} role.
+== Você perdeu o cargo {}.
+
+You should specify a number in vote reason.
+== Você deve especificar um número no motivo do voto.
+
+The item isn't for sale.
+== O item não está à venda.
+
+Can't buy 0 items.
+== Não é possível comprar 0 itens.
+
+You already have this item.
+== Você já possui este item.
+
+The item isn't ready to buy.
+== O item não está pronto para compra.
+
+You can't buy that many of this item.
+== Você não pode comprar essa quantidade deste item.
+
+The room isn't available.
+== A sala não está disponível.
+
+The room isn't empty.
+== A sala não está vazia.
+
+The player isn't logged in account.
+== O jogador não está logado na conta.
+
+The player already has this item.
+== O jogador já possui este item.
+
+You don't have this item.
+== Você não tem este item.
+
+This item is disabled.
+== Este item está desativado.
+
+You have already used this item.
+== Você já usou este item.
+
+You can't enable this item in the current game.
+== Você não pode ativar este item na partida atual.
+
+You need to leave a vehicle to turn on an avatar.
+== Você precisa sair do veículo para ativar o avatar.
+
+Save the drinking for warmup. Ranked is for real tees.
+== Deixe a bebida para o aquecimento. Ranqueada é para tees de verdade.
+
+{}. {} {}: {} (statistic for last {} days)
+== {}. {} {}: {} (estatística dos últimos {} dias)
+
+{}. {} {}: {} ({} : {}) (statistic for last {} days)
+== {}. {} {}: {} ({} : {}) (estatística dos últimos {} dias)
+
+------------- Top {} ------------
+== ------------- Top {} ------------
+
+Vote passed
+== Votação aprovada
+
+Vote passed enforced by authorized player
+== Votação aprovada forçadamente por um jogador autorizado
+
+Vote failed enforced by authorized player
+== Votação reprovada forçadamente por um jogador autorizado
+
+Vote aborted
+== Votação abortada
+
+Vote failed because of veto. Find an empty server instead
+== Votação reprovada por veto. Procure um servidor vazio
+
+Vote failed
+== Votação reprovada
+
+Black hole captured
+== Buraco negro capturado
+
+Black hole center around
+== Centro do buraco negro por perto
+
+Black hole closer than ever
+== Buraco negro mais perto do que nunca
+
+Guess where you are
+== Adivinha onde você está
+
+Black hole control room
+== Sala de controle do buraco negro
+
+Black hole control you
+== O buraco negro controla você
+
+Here we are again
+== Aqui estamos de novo
+
+Laser destabilized.
+== Laser desestabilizado.
+
+Laser stabilized.
+== Laser estabilizado.
+
+Your find strange companion.
+== Você encontrou um companheiro estranho.
+
+You can place lasers only outside the map!
+== Você só pode posicionar lasers fora do mapa!
+
+Intersection between positions not allowed.
+== Interseção entre posições não é permitida.
+
+Reached lasers limit!
+== Limite de lasers alcançado!
+
+You got random bonus: {} [{}].
+== Você recebeu um bônus aleatório: {} [{}].
+
+Reverse mode '{}'
+== Modo reverso '{}'
+
+You destroyed {}'s turret!
+== Você destruiu a torre de {}!
+
+'{}' has destroyed your turret!
+== '{}' destruiu sua torre!
