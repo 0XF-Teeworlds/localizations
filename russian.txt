@@ -2719,8 +2719,8 @@ Wrong lock! The key broke.
 Can't raid that dungeon, owner is online.
 == Нельзя совершить рейд на это подземелье, владелец онлайн.
 
-Reach the chest twice in a row within 3 minutes per run to save automatically. Progress reset.
-== Достигните сундука дважды подряд в течение 3 минут за попытку для автосохранения. Прогресс сброшен.
+Reach the chest twice in a row within {} seconds per run to save automatically. Progress reset.
+== Достигните сундука дважды подряд в течение {} секунд за попытку для автосохранения. Прогресс сброшен.
 
 Dungeon regeneration failed.
 == Регенерация подземелья не удалась.
@@ -2734,8 +2734,8 @@ Dungeon save layout is being prepared, please wait...
 Preparing save layout, please wait...
 == Подготовка макета сохранения, пожалуйста, подождите...
 
-Save mode enabled. Press fire to start your attempt and reach the chest twice in a row within 3 minutes per run to confirm.
-== Режим сохранения включён. Нажмите огонь, чтобы начать попытку и дважды подряд достигнуть сундука в течение 3 минут за попытку для подтверждения.
+Save mode enabled. Press fire to start your attempt and reach the chest twice in a row within {} seconds per run to confirm.
+== Режим сохранения включён. Нажмите огонь, чтобы начать попытку и дважды подряд достигнуть сундука в течение {} секунд за попытку для подтверждения.
 
 You stole {}$ from the dungeon bank ({}% of the maximum raid reward) ({})!
 == Вы украли {}$ из банка подземелья ({}% от максимальной награды за рейд) ({})!
@@ -2770,14 +2770,14 @@ Failed to collect keys. Try again later.
 Collected {} dungeon key{} from your dungeon.
 == Собрано {} ключ{} из вашего подземелья.
 
-Attempt took longer than 3 minutes. Progress reset.
-== Попытка заняла больше 3 минут. Прогресс сброшен.
+Attempt took longer than {} seconds. Progress reset.
+== Попытка заняла больше {} секунд. Прогресс сброшен.
 
 Your spent keys have been returned for a perfect raid.
 == Ваши потраченные ключи были возвращены за идеальный рейд.
 
-Reach the chest once more within 3 minutes to trigger automatic saving.
-== Достигните сундука ещё раз в течение 3 минут для запуска автоматического сохранения.
+Reach the chest once more within {} seconds to trigger automatic saving.
+== Достигните сундука ещё раз в течение {} секунд для запуска автоматического сохранения.
 
 Flag-Hunt over. Nobody won!
 == Охота за флагом окончена. Никто не выиграл!

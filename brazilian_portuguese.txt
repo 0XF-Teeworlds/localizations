@@ -2719,8 +2719,8 @@ Wrong lock! The key broke.
 Can't raid that dungeon, owner is online.
 == Não é possível atacar essa masmorra, o dono está online.
 
-Reach the chest twice in a row within 3 minutes per run to save automatically. Progress reset.
-== Alcance o baú duas vezes seguidas dentro de 3 minutos por tentativa para salvar automaticamente. Progresso redefinido.
+Reach the chest twice in a row within {} seconds per run to save automatically. Progress reset.
+== Alcance o baú duas vezes seguidas dentro de {} segundos por tentativa para salvar automaticamente. Progresso redefinido.
 
 Dungeon regeneration failed.
 == A regeneração da masmorra falhou.
@@ -2734,8 +2734,8 @@ Dungeon save layout is being prepared, please wait...
 Preparing save layout, please wait...
 == Preparando layout de salvamento, aguarde...
 
-Save mode enabled. Press fire to start your attempt and reach the chest twice in a row within 3 minutes per run to confirm.
-== Modo de salvamento ativado. Aperte fogo para iniciar a tentativa e alcance o baú duas vezes seguidas em até 3 minutos por tentativa para confirmar.
+Save mode enabled. Press fire to start your attempt and reach the chest twice in a row within {} seconds per run to confirm.
+== Modo de salvamento ativado. Aperte fogo para iniciar a tentativa e alcance o baú duas vezes seguidas em até {} segundos por tentativa para confirmar.
 
 You stole {}$ from the dungeon bank ({}% of the maximum raid reward) ({})!
 == Você roubou {}$ do banco da masmorra ({}% da recompensa máxima do raid) ({})!
@@ -2770,14 +2770,14 @@ Failed to collect keys. Try again later.
 Collected {} dungeon key{} from your dungeon.
 == Coletadas {} chave{} de masmorra da sua masmorra.
 
-Attempt took longer than 3 minutes. Progress reset.
-== A tentativa durou mais de 3 minutos. Progresso redefinido.
+Attempt took longer than {} seconds. Progress reset.
+== A tentativa durou mais de {} segundos. Progresso redefinido.
 
 Your spent keys have been returned for a perfect raid.
 == Suas chaves gastas foram devolvidas por um raid perfeito.
 
-Reach the chest once more within 3 minutes to trigger automatic saving.
-== Alcance o baú mais uma vez em até 3 minutos para ativar o salvamento automático.
+Reach the chest once more within {} seconds to trigger automatic saving.
+== Alcance o baú mais uma vez em até {} segundos para ativar o salvamento automático.
 
 Flag-Hunt over. Nobody won!
 == Caça à Bandeira encerrada. Ninguém venceu!
