@@ -2113,7 +2113,7 @@ Fun Items
 Death Effects
 == Эффекты смерти
 
-Clantag protection
+Clan tag protection
 == Защита клантега
 
 Opening
@@ -2240,7 +2240,7 @@ You are already in edit mode.
 == Вы уже находитесь в режиме редактирования.
 
 Edit mode enabled.
-== Режим редактирования включён.
+== Включён режим редактирования.
 
 Only the owner can reset edit mode.
 == Только владелец может сбросить режим редактирования.
@@ -2520,9 +2520,6 @@ Run complete. Use the vote menu to exit when you're done.
 
 Returning to your dungeon...
 == Возвращаем вас в ваше подземелье...
-
-Loading your dungeon, please wait...
-== Загружаем ваше подземелье, пожалуйста, подождите...
 
 Unable to return automatically. Use the vote menu to exit the raid dungeon.
 == Не удалось вернуть вас автоматически. Используйте меню голосования, чтобы выйти из рейдового подземелья.
@@ -3186,3 +3183,375 @@ You destroyed {}'s turret!
 
 '{}' has destroyed your turret!
 == '{}' уничтожил вашу турель!
+
+Purchase History
+== История покупок
+
+Total Spent
+== Всего потрачено
+
+Shop Categories
+== Категории магазина
+
+Manage Clan
+== Управление кланом
+
+View Last Deposits
+== Показать последние взносы
+
+Clan Deposits
+== Взносы клана
+
+You can deposit your cash to clan using /clan_deposit
+== Вы можете внести деньги в клан командой /clan_deposit
+
+⚠️The action can't be cancelled⚠️
+== ⚠️Действие нельзя отменить⚠️
+
+Last Deposits:
+== Последние взносы:
+
+No any deposits right now.
+== Сейчас нет ни одного взноса.
+
+Rewards
+== Награды
+
+Filter
+== Фильтр
+
+Daily Quest Rewards
+== Награды за ежедневные квесты
+
+Rating Rewards
+== Награды за рейтинг
+
+Daily Join Rewards
+== Награды за ежедневный вход
+
+Days left to claim all rewards
+== Осталось дней, чтобы забрать все награды
+
+Next day reward
+== Награда за следующий день
+
+Your current day
+== Ваш текущий день
+
+There aren't any rules.
+== Правила отсутствуют.
+
+Warp to your dungeon
+== Телепорт в ваше подземелье
+
+Stand near the dungeon door to access the dungeon menu
+== Встаньте рядом с дверью подземелья, чтобы открыть меню подземелья
+
+Attack history
+== История атак
+
+Refresh attack history
+== Обновить историю атак
+
+No recent attackers. Refresh later
+== Недавних атак нет. Обновите позже.
+
+✔ Mark all as read
+== ✔ Отметить всё как прочитанное
+
+⬇ Receive all items
+== ⬇ Получить все предметы
+
+✘ Delete all read mails
+== ✘ Удалить все прочитанные письма
+
+\[Mails]
+== [Письма]
+
+You don't have any mails.
+== У вас нет писем.
+
+Showing the last {}/{} mails.
+== Показаны последние {}/{} писем.
+
+Delete some mails to view more.
+== Удалите часть писем, чтобы увидеть остальные.
+
+Nothing here
+== Здесь ничего нет
+
+⬇ Receive items
+== ⬇ Получить предметы
+
+✘ Delete this mail
+== ✘ Удалить это письмо
+
+Date:
+== Дата:
+
+\[Items]
+== [Предметы]
+
+Search status:
+== Статус поиска:
+
+Active
+== Активен
+
+Stopped
+== Остановлен
+
+Create search
+== Создать поиск
+
+Matches Search
+== Поиск матчей
+
+Any Game
+== Любая игра
+
+Team sizes
+== Размеры команд
+
+Any Size
+== Любой размер
+
+Sync server not connected to that game server
+== Синхронизационный-сервер не подключён к этому игровому серверу
+
+Default
+== По умолчанию
+
+Games motd
+== Игровой MOTD
+
+Cosmetics
+== Косметика
+
+Any cosmetics
+== Любая косметика
+
+Rarity
+== Редкость
+
+No owner
+== Нет владельца
+
+Buy Cooldown
+== Задержка между покупками
+
+Bank: unavailable
+== Банк: недоступен
+
+Lives
+== Жизни
+
+Raid info
+== Информация о рейде
+
+Lock attempt in progress
+== Идёт попытка взлома замка
+
+Break the door
+== Взломать дверь
+
+Skip dungeon
+== Пропустить подземелье
+
+Door unlocked. Press fire to begin.
+== Дверь открыта. Нажмите огонь, чтобы начать.
+
+Exit raid
+== Выйти из рейда
+
+Exit dungeon
+== Выйти из подземелья
+
+Resources
+== Ресурсы
+
+Mine depleted
+== Шахта исчерпана
+
+Collect keys
+== Собрать ключи
+
+Collect gold
+== Собрать золото
+
+Mine
+== Шахта
+
+Raids
+== Рейды
+
+Lifetime
+== Время существования
+
+Age
+== Возраст
+
+days
+== дней
+
+Finishes
+== Финиши
+
+Avg deaths
+== Среднее число смертей
+
+Difficulty
+== Сложность
+
+Move and save to collection
+== Переместить и сохранить в коллекцию
+
+Move to new dungeon
+== Переместить в новое подземелье
+
+Age unknown
+== Возраст неизвестен
+
+Play
+== Игра
+
+Upgrade trap
+== Улучшить ловушку
+
+Edit dungeon
+== Редактировать подземелье
+
+Search dungeon to raid (Reserve 1 Key)
+== Найти подземелье для рейда (зарезервировать 1 ключ)
+
+Open attack history
+== Открыть историю атак
+
+Actions
+== Действия
+
+Back to play mode
+== Назад в режим игры
+
+Start save mode
+== Включить режим сохранения
+
+Edit
+== Редактирование
+
+Reset edit layout
+== Сбросить расположение в редакторе
+
+Save
+== Сохранение
+
+Back to edit
+== Назад к редактированию
+
+No raid in progress.
+== Рейд сейчас не идёт.
+
+Door already unlocked. Return to raid menu.
+== Дверь уже открыта. Вернитесь в меню рейда.
+
+Just one lock is right, others broke your key!
+== Только один замок верный, остальные сломали ваш ключ!
+
+Door locks
+== Замки двери
+
+picking...
+== взлом...
+
+wrong
+== неправильно
+
+Raid mode enabled. Max reward for ideal run: {}{}
+== Включён режим рейда. Максимальная награда за идеальный заход: {}{}
+
+Play mode enabled. Press fire to start your practice run.
+== Включён режим игры. Нажмите огонь, чтобы начать тренировочный заход.
+
+You are not in dungeon.
+== Вы не в подземелье.
+
+Lock menu available only in raid mode.
+== Меню замков доступно только в режиме рейда.
+
+Search next raid available only during raid.
+== Поиск следующего рейда доступен только во время рейда.
+
+Dungeon world not found in cache.
+== Мир подземелья не найден в кэше.
+
+Already in requested mode.
+== Уже в запрошенном режиме.
+
+Only the owner can do that action.
+== Только владелец может выполнить это действие.
+
+Saving editor state...
+== Сохранение состояния редактора...
+
+Dungeon is currently unavailable. Please try again later.
+== Подземелье сейчас недоступно. Пожалуйста, попробуйте позже.
+
+Dungeon {} must fit completely inside the map.
+== Подземелье {} должно полностью помещаться внутри карты.
+
+Dungeon {} must stay one tile away from the border.
+== Подземелье {} должно находиться на расстоянии одной клетки от границы.
+
+Dungeon {} requires a free area without solid tiles.
+== Подземелью {} требуется свободная область без твёрдых тайлов.
+
+Dungeon {} cannot touch traps.
+== Подземелье {} не может соприкасаться с ловушками.
+
+Place items available only in edit mode.
+== Размещение предметов доступно только в режиме редактирования.
+
+Dungeon owner data not found in cache.
+== Данные владельца подземелья не найдены в кэше.
+
+Items cannot be placed on dungeon doors or chests.
+== Предметы нельзя размещать на дверях и сундуках подземелья.
+
+Remove items available only in edit mode.
+== Удаление предметов доступно только в режиме редактирования.
+
+Map create failed.
+== Не удалось создать карту.
+
+Map read failed.
+== Не удалось прочитать карту.
+
+Command available only inside dungeon game.
+== Команда доступна только внутри игры в подземелье.
+
+Join dungeons?
+== Присоединиться к подземельям?
+
+Failed to save editor state.
+== Не удалось сохранить состояние редактора.
+
+Collected {}{} from your mine (collection limit reached) and {}{} from raider defeats.
+== Собрано {}{} с вашей шахты (лимит сбора достигнут) и {}{} за поражения рейдеров.
+
+Collected {}{} from your mine and {}{} from raider defeats.
+== Собрано {}{} с вашей шахты и {}{} за поражения рейдеров.
+
+Collected {}{} from your mine (collection limit reached).
+== Собрано {}{} с вашей шахты (лимит сбора достигнут).
+
+Collected {}{} from your mine.
+== Собрано {}{} с вашей шахты.
+
+Collected {}{} from raider defeats in your dungeon.
+== Собрано {}{} за поражения рейдеров в вашем подземелье.
+
+Keys collect is disabled in configuration.
+== Сбор ключей отключён в конфигурации.
+
+Dungeons upgrade is disabled in configuration.
+== Улучшение подземелий отключено в конфигурации.

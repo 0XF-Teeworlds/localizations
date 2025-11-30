@@ -2113,7 +2113,7 @@ Fun Items
 Death Effects
 == Efeitos de Morte
 
-Clantag protection
+Clan tag protection
 == Proteção de Clantag
 
 Opening
@@ -2520,9 +2520,6 @@ Run complete. Use the vote menu to exit when you're done.
 
 Returning to your dungeon...
 == Retornando à sua masmorra...
-
-Loading your dungeon, please wait...
-== Carregando sua masmorra, aguarde...
 
 Unable to return automatically. Use the vote menu to exit the raid dungeon.
 == Não foi possível retornar automaticamente. Use o menu de votação para sair da masmorra de invasão.
@@ -3189,3 +3186,375 @@ You destroyed {}'s turret!
 
 '{}' has destroyed your turret!
 == '{}' destruiu sua torre!
+
+Purchase History
+== Histórico de compras
+
+Total Spent
+== Total gasto
+
+Shop Categories
+== Categorias da loja
+
+Manage Clan
+== Gerenciar clã
+
+View Last Deposits
+== Ver últimos depósitos
+
+Clan Deposits
+== Depósitos do clã
+
+You can deposit your cash to clan using /clan_deposit
+== Você pode depositar seu dinheiro no clã usando /clan_deposit
+
+⚠️The action can't be cancelled⚠️
+== ⚠️A ação não pode ser desfeita⚠️
+
+Last Deposits:
+== Últimos depósitos:
+
+No any deposits right now.
+== No momento não há depósitos.
+
+Rewards
+== Recompensas
+
+Filter
+== Filtro
+
+Daily Quest Rewards
+== Recompensas de missões diárias
+
+Rating Rewards
+== Recompensas de ranking
+
+Daily Join Rewards
+== Recompensas por login diário
+
+Days left to claim all rewards
+== Dias restantes para coletar todas as recompensas
+
+Next day reward
+== Recompensa do próximo dia
+
+Your current day
+== Seu dia atual
+
+There aren't any rules.
+== Não há regras.
+
+Warp to your dungeon
+== Teleportar para sua masmorra
+
+Stand near the dungeon door to access the dungeon menu
+== Fique perto da porta da masmorra para abrir o menu da masmorra
+
+Attack history
+== Histórico de ataques
+
+Refresh attack history
+== Atualizar histórico de ataques
+
+No recent attackers. Refresh later
+== Não há ataques recentes. Atualize mais tarde.
+
+✔ Mark all as read
+== ✔ Marcar tudo como lido
+
+⬇ Receive all items
+== ⬇ Receber todos os itens
+
+✘ Delete all read mails
+== ✘ Excluir todas as mensagens lidas
+
+[Mails]
+== [Mensagens]
+
+You don't have any mails.
+== Você não tem mensagens.
+
+Showing the last {}/{} mails.
+== Mostrando as últimas {}/{} mensagens.
+
+Delete some mails to view more.
+== Exclua algumas mensagens para ver mais.
+
+Nothing here
+== Nada aqui
+
+⬇ Receive items
+== ⬇ Receber itens
+
+✘ Delete this mail
+== ✘ Excluir esta mensagem
+
+Date:
+== Data:
+
+[Items]
+== [Itens]
+
+Search status:
+== Status da busca:
+
+Active
+== Ativo
+
+Stopped
+== Parado
+
+Create search
+== Criar busca
+
+Matches Search
+== Busca de partidas
+
+Any Game
+== Qualquer jogo
+
+Team sizes
+== Tamanhos de equipe
+
+Any Size
+== Qualquer tamanho
+
+Sync server not connected to that game server
+== Servidor de sincronização não está conectado a esse servidor de jogo
+
+Default
+== Padrão
+
+Games motd
+== MOTD dos jogos
+
+Cosmetics
+== Cosméticos
+
+Any cosmetics
+== Qualquer cosmético
+
+Rarity
+== Raridade
+
+No owner
+== Sem dono
+
+Buy Cooldown
+== Tempo de recarga de compra
+
+Bank: unavailable
+== Banco: indisponível
+
+Lives
+== Vidas
+
+Raid info
+== Informações do raid
+
+Lock attempt in progress
+== Tentativa de arrombamento em andamento
+
+Break the door
+== Arrombar a porta
+
+Skip dungeon
+== Pular masmorra
+
+Door unlocked. Press fire to begin.
+== Porta destrancada. Aperte fogo para começar.
+
+Exit raid
+== Sair do raid
+
+Exit dungeon
+== Sair da masmorra
+
+Resources
+== Recursos
+
+Mine depleted
+== Mina esgotada
+
+Collect keys
+== Coletar chaves
+
+Collect gold
+== Coletar ouro
+
+Mine
+== Mina
+
+Raids
+== Raids
+
+Lifetime
+== Tempo de existência
+
+Age
+== Idade
+
+days
+== dias
+
+Finishes
+== Conclusões
+
+Avg deaths
+== Média de mortes
+
+Difficulty
+== Dificuldade
+
+Move and save to collection
+== Mover e salvar na coleção
+
+Move to new dungeon
+== Mover para nova masmorra
+
+Age unknown
+== Idade desconhecida
+
+Play
+== Jogar
+
+Upgrade trap
+== Melhorar armadilha
+
+Edit dungeon
+== Editar masmorra
+
+Search dungeon to raid (Reserve 1 Key)
+== Procurar masmorra para raid (reservar 1 chave)
+
+Open attack history
+== Abrir histórico de ataques
+
+Actions
+== Ações
+
+Back to play mode
+== Voltar ao modo de jogo
+
+Start save mode
+== Ativar modo de salvamento
+
+Edit
+== Editar
+
+Reset edit layout
+== Redefinir layout de edição
+
+Save
+== Salvar
+
+Back to edit
+== Voltar à edição
+
+No raid in progress.
+== Nenhum raid em andamento.
+
+Door already unlocked. Return to raid menu.
+== Porta já destrancada. Volte ao menu de raid.
+
+Just one lock is right, others broke your key!
+== Apenas uma fechadura está correta, as outras quebraram sua chave!
+
+Door locks
+== Fechaduras da porta
+
+picking...
+== arrombando...
+
+wrong
+== errado
+
+Raid mode enabled. Max reward for ideal run: {}{}
+== Modo raid ativado. Recompensa máxima por corrida perfeita: {}{}
+
+Play mode enabled. Press fire to start your practice run.
+== Modo de jogo ativado. Aperte fogo para iniciar sua corrida de treino.
+
+You are not in dungeon.
+== Você não está na masmorra.
+
+Lock menu available only in raid mode.
+== Menu de fechaduras disponível apenas no modo raid.
+
+Search next raid available only during raid.
+== Busca do próximo raid disponível apenas durante o raid.
+
+Dungeon world not found in cache.
+== Mundo da masmorra não encontrado no cache.
+
+Already in requested mode.
+== Já está no modo solicitado.
+
+Only the owner can do that action.
+== Somente o dono pode fazer essa ação.
+
+Saving editor state...
+== Salvando estado do editor...
+
+Dungeon is currently unavailable. Please try again later.
+== A masmorra está indisponível no momento. Tente novamente mais tarde.
+
+Dungeon {} must fit completely inside the map.
+== A masmorra {} deve caber completamente dentro do mapa.
+
+Dungeon {} must stay one tile away from the border.
+== A masmorra {} deve ficar a um bloco de distância da borda.
+
+Dungeon {} requires a free area without solid tiles.
+== A masmorra {} requer uma área livre sem tiles sólidos.
+
+Dungeon {} cannot touch traps.
+== A masmorra {} não pode encostar em armadilhas.
+
+Place items available only in edit mode.
+== Colocar itens disponível apenas no modo de edição.
+
+Dungeon owner data not found in cache.
+== Dados do dono da masmorra não encontrados no cache.
+
+Items cannot be placed on dungeon doors or chests.
+== Itens não podem ser colocados em portas ou baús da masmorra.
+
+Remove items available only in edit mode.
+== Remover itens disponível apenas no modo de edição.
+
+Map create failed.
+== Falha ao criar o mapa.
+
+Map read failed.
+== Falha ao ler o mapa.
+
+Command available only inside dungeon game.
+== Comando disponível apenas dentro do jogo da masmorra.
+
+Join dungeons?
+== Entrar nas masmorras?
+
+Failed to save editor state.
+== Falha ao salvar estado do editor.
+
+Collected {}{} from your mine (collection limit reached) and {}{} from raider defeats.
+== Coletado(s) {}{} da sua mina (limite de coleta atingido) e {}{} pelas derrotas dos invasores.
+
+Collected {}{} from your mine and {}{} from raider defeats.
+== Coletado(s) {}{} da sua mina e {}{} pelas derrotas dos invasores.
+
+Collected {}{} from your mine (collection limit reached).
+== Coletado(s) {}{} da sua mina (limite de coleta atingido).
+
+Collected {}{} from your mine.
+== Coletado(s) {}{} da sua mina.
+
+Collected {}{} from raider defeats in your dungeon.
+== Coletado(s) {}{} pelas derrotas dos invasores na sua masmorra.
+
+Keys collect is disabled in configuration.
+== Coleta de chaves está desativada na configuração.
+
+Dungeons upgrade is disabled in configuration.
+== Melhoria de masmorras está desativada na configuração.
