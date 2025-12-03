@@ -3580,9 +3580,6 @@ Starting bounty raid for request #{}...
 Selected bounty is no longer available.
 == Выбранная награда больше недоступна.
 
-You claimed {}{} bounty!
-== Вы получили награду {}{}!
-
 Raid mode enabled. Finish first to get bounty!
 == Режим рейда включён. Завершите первым, чтобы получить награду!
 
@@ -3624,3 +3621,6 @@ View active bounties
 
 Create bounty hunt
 == Создать охоту за наградой
+
+Bounty reward must be at least {}{}.
+== Размер награды должен быть не менее {}{}.

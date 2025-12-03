@@ -3583,9 +3583,6 @@ Starting bounty raid for request #{}...
 Selected bounty is no longer available.
 == A recompensa selecionada não está mais disponível.
 
-You claimed {}{} bounty!
-== Você recebeu uma recompensa de {}{}!
-
 Raid mode enabled. Finish first to get bounty!
 == Modo raid ativado. Termine primeiro para ganhar a recompensa!
 
@@ -3627,3 +3624,6 @@ View active bounties
 
 Create bounty hunt
 == Criar caça à recompensa
+
+Bounty reward must be at least {}{}.
+== A recompensa deve ser de pelo menos {}{}.
