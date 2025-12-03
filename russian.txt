@@ -3555,3 +3555,72 @@ Keys collect is disabled in configuration.
 
 Dungeons upgrade is disabled in configuration.
 == Улучшение подземелий отключено в конфигурации.
+
+You claimed {}{} bounty!
+== Вы получили награду {}{}!
+
+Specify a positive reward amount.
+== Укажите положительный размер награды.
+
+Only the dungeon owner can create bounties.
+== Только владелец подземелья может создавать награды.
+
+You need {}{} to post this bounty.
+== Вам нужно {}{}, чтобы разместить эту награду.
+
+Posted bounty for {}{}.
+== Награда на сумму {}{} размещена.
+
+Provide a valid bounty id.
+== Укажите корректный ID награды.
+
+Starting bounty raid for request #{}...
+== Запускается рейд за наградой по заявке #{}...
+
+Selected bounty is no longer available.
+== Выбранная награда больше недоступна.
+
+You claimed {}{} bounty!
+== Вы получили награду {}{}!
+
+Raid mode enabled. Finish first to get bounty!
+== Режим рейда включён. Завершите первым, чтобы получить награду!
+
+Dungeon bounties
+== Награды подземелий
+
+Refresh list
+== Обновить список
+
+No active bounties.
+== Активных наград нет.
+
+Create bounty
+== Создать награду
+
+Create a reward for first clear.
+== Создайте награду за первое прохождение.
+
+Bounties cannot be canceled later.
+== Созданные награды нельзя будет отменить.
+
+Reward in Reason
+== Награда в Reason
+
+min
+== мин
+
+Funds are charged immediately.
+== Средства списываются сразу.
+
+Make bounty hunt
+== Начать охоту за наградой
+
+Bounties
+== Награды
+
+View active bounties
+== Просмотреть активные награды
+
+Create bounty hunt
+== Создать охоту за наградой

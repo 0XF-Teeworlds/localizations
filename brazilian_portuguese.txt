@@ -3558,3 +3558,72 @@ Keys collect is disabled in configuration.
 
 Dungeons upgrade is disabled in configuration.
 == Melhoria de masmorras está desativada na configuração.
+
+You claimed {}{} bounty!
+== Você recebeu uma recompensa de {}{}!
+
+Specify a positive reward amount.
+== Informe um valor de recompensa positivo.
+
+Only the dungeon owner can create bounties.
+== Apenas o dono da masmorra pode criar recompensas.
+
+You need {}{} to post this bounty.
+== Você precisa de {}{} para publicar esta recompensa.
+
+Posted bounty for {}{}.
+== Recompensa de {}{} foi criada.
+
+Provide a valid bounty id.
+== Informe um ID de recompensa válido.
+
+Starting bounty raid for request #{}...
+== Iniciando raid de recompensa para o pedido #{}...
+
+Selected bounty is no longer available.
+== A recompensa selecionada não está mais disponível.
+
+You claimed {}{} bounty!
+== Você recebeu uma recompensa de {}{}!
+
+Raid mode enabled. Finish first to get bounty!
+== Modo raid ativado. Termine primeiro para ganhar a recompensa!
+
+Dungeon bounties
+== Recompensas da masmorra
+
+Refresh list
+== Atualizar lista
+
+No active bounties.
+== Não há recompensas ativas.
+
+Create bounty
+== Criar recompensa
+
+Create a reward for first clear.
+== Crie uma recompensa pela primeira conclusão.
+
+Bounties cannot be canceled later.
+== Recompensas criadas não poderão ser canceladas depois.
+
+Reward in Reason
+== Recompensa em Reason
+
+min
+== mín
+
+Funds are charged immediately.
+== Os fundos são cobrados imediatamente.
+
+Make bounty hunt
+== Iniciar caça à recompensa
+
+Bounties
+== Recompensas
+
+View active bounties
+== Ver recompensas ativas
+
+Create bounty hunt
+== Criar caça à recompensa
