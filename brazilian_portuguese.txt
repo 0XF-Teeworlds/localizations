@@ -2674,9 +2674,6 @@ You cannot regenerate while a raid is in progress.
 Regenerating your dungeon...
 == Regenerando sua masmorra...
 
-Unlock the door with a dungeon key before starting the raid.
-== Desbloqueie a porta com uma chave de masmorra antes de iniciar o raid.
-
 You need a dungeon key to search for raids.
 == Você precisa de uma chave de masmorra para procurar raids.
 
@@ -3627,3 +3624,21 @@ Bounty reward must be at least {}{}.
 
 Prolong dungeon
 == Prolongar masmorra
+
+Run auto lockpick
+== Iniciar destravamento automático
+
+Unlock the door via the vote menu or start auto lockpick to begin the raid.
+== Destranque a porta pelo menu de votação ou inicie o destravamento automático para começar o raid.
+
+Auto lockpick available only in raid mode.
+== Destravamento automático disponível apenas no modo raid.
+
+No locks available for auto lockpick.
+== Não há fechaduras disponíveis para destravamento automático.
+
+Auto lockpick failed. No available keys.
+== O destravamento automático falhou. Não há chaves disponíveis.
+
+Auto lockpick stopped. Not enough keys to unlock the door.
+== Destravamento automático interrompido. Chaves insuficientes para destrancar a porta.
