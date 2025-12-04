@@ -3403,9 +3403,6 @@ Avg deaths
 Difficulty
 == Сложность
 
-Move and save to collection
-== Переехать и сохранить в коллекцию
-
 Move to new dungeon
 == Перемеехать в новое подземелье
 
@@ -3624,3 +3621,6 @@ Create bounty hunt
 
 Bounty reward must be at least {}{}.
 == Размер награды должен быть не менее {}{}.
+
+Prolong dungeon
+== Продлить подземелье

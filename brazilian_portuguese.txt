@@ -3406,9 +3406,6 @@ Avg deaths
 Difficulty
 == Dificuldade
 
-Move and save to collection
-== Mover e salvar na coleção
-
 Move to new dungeon
 == Mover para nova masmorra
 
@@ -3627,3 +3624,6 @@ Create bounty hunt
 
 Bounty reward must be at least {}{}.
 == A recompensa deve ser de pelo menos {}{}.
+
+Prolong dungeon
+== Prolongar masmorra
