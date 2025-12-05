@@ -3645,3 +3645,6 @@ Auto lockpick stopped after {} tries. Not enough keys to unlock the door.
 
 Door unlocked with {} keys! Press fire to begin the raid.
 == Porta destrancada com {} chaves! Aperte o botão de tiro para começar o raid.
+
+Refresh attack history
+== Atualizar histórico de ataques

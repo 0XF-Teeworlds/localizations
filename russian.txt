@@ -3434,7 +3434,7 @@ Edit
 == Редактирование
 
 Reset edit layout
-== Сбросить расположение в редакторе
+== Сбросить состояние редактора
 
 Save
 == Сохранение
@@ -3449,7 +3449,7 @@ Door already unlocked. Return to raid menu.
 == Дверь уже открыта. Вернитесь в меню рейда.
 
 Just one lock is right, others broke your key!
-== Один замок верный, остальные сломают ключ!
+== Один замок верный, другие сломают ключ!
 
 Door locks
 == Замки двери
@@ -3642,3 +3642,6 @@ Auto lockpick stopped after {} tries. Not enough keys to unlock the door.
 
 Door unlocked with {} keys! Press fire to begin the raid.
 == Дверь открыта с помощью {} ключей! Нажмите огонь, чтобы начать рейд.
+
+Refresh attack history
+== Обновить историю атак
