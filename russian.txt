@@ -3645,3 +3645,34 @@ Door unlocked with {} keys! Press fire to begin the raid.
 
 Refresh attack history
 == Обновить историю атак
+
+Advent Calendar
+== Адвент-календарь
+
+Advent calendar is disabled.
+== Адвент-календарь отключён.
+
+Available from Dec 1 to Dec 24 only.
+== Доступен только с 1 по 24 декабря.
+
+Login to open advent gifts.
+== Войдите в игру, чтобы открыть подарки адвент-календаря.
+
+Loading advent calendar data, try again in a moment.
+== Загружаются данные адвент-календаря, попробуйте ещё раз через некоторое время.
+
+Today's gift is already opened.
+== Сегодняшний подарок уже открыт.
+
+You need to be alive to open a gift.
+== Чтобы открыть подарок, вы должны быть живы.
+
+You opened day {} gift and received {}$ and {}!
+== Вы открыли подарок {}-го дня и получили {}$ и {}!
+
+You opened day {} gift and received {}!
+== Вы открыли подарок {}-го дня и получили {}!
+
+You opened day {} gift and received {}$!
+== Вы открыли подарок {}-го дня и получили {}$!
+

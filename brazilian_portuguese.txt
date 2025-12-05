@@ -3648,3 +3648,33 @@ Door unlocked with {} keys! Press fire to begin the raid.
 
 Refresh attack history
 == Atualizar histórico de ataques
+
+Advent Calendar
+== Calendário de Advento
+
+Advent calendar is disabled.
+== O calendário de Advento está desativado.
+
+Available from Dec 1 to Dec 24 only.
+== Disponível apenas de 1 a 24 de dezembro.
+
+Login to open advent gifts.
+== Faça login para abrir os presentes do calendário de Advento.
+
+Loading advent calendar data, try again in a moment.
+== Carregando dados do calendário de Advento, tente novamente em instantes.
+
+Today's gift is already opened.
+== O presente de hoje já foi aberto.
+
+You need to be alive to open a gift.
+== Você precisa estar vivo para abrir um presente.
+
+You opened day {} gift and received {}$ and {}!
+== Você abriu o presente do dia {} e recebeu {}$ e {}!
+
+You opened day {} gift and received {}!
+== Você abriu o presente do dia {} e recebeu {}!
+
+You opened day {} gift and received {}$!
+== Você abriu o presente do dia {} e recebeu {}$!
