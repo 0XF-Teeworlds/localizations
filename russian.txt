@@ -3676,3 +3676,26 @@ You opened day {} gift and received {}!
 You opened day {} gift and received {}$!
 == Вы открыли подарок {}-го дня и получили {}$!
 
+Today
+== Сегодня
+
+December
+== Декабрь
+
+Opens
+== Открытия
+
+Dec 1 - Dec 24
+== 1–24 декабря
+
+Status
+== Статус
+
+already opened
+== уже открыт
+
+ready to open
+== готов к открытию
+
+Open today's gift
+== Открыть сегодняшний подарок

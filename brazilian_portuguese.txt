@@ -3678,3 +3678,27 @@ You opened day {} gift and received {}!
 
 You opened day {} gift and received {}$!
 == Você abriu o presente do dia {} e recebeu {}$!
+
+Today
+== Hoje
+
+December
+== Dezembro
+
+Opens
+== Abre
+
+Dec 1 - Dec 24
+== 1 a 24 de dez.
+
+Status
+== Status
+
+already opened
+== já aberto
+
+ready to open
+== pronto para abrir
+
+Open today's gift
+== Abrir o presente de hoje
