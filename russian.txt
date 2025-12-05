@@ -3637,5 +3637,8 @@ No locks available for auto lockpick.
 Auto lockpick failed. No available keys.
 == Авто-взлом не удался. Нет доступных ключей.
 
-Auto lockpick stopped. Not enough keys to unlock the door.
-== Авто-взлом остановлен. Недостаточно ключей, чтобы открыть дверь.
+Auto lockpick stopped after {} tries. Not enough keys to unlock the door.
+== Авто-взлом остановлен после {} попыток. Недостаточно ключей, чтобы открыть дверь.
+
+Door unlocked with {} keys! Press fire to begin the raid.
+== Дверь открыта с помощью {} ключей! Нажмите огонь, чтобы начать рейд.

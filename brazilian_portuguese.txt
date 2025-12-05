@@ -3640,5 +3640,8 @@ No locks available for auto lockpick.
 Auto lockpick failed. No available keys.
 == O destravamento automático falhou. Não há chaves disponíveis.
 
-Auto lockpick stopped. Not enough keys to unlock the door.
-== Destravamento automático interrompido. Chaves insuficientes para destrancar a porta.
+Auto lockpick stopped after {} tries. Not enough keys to unlock the door.
+== O destravamento automático foi interrompido após {} tentativas. Chaves insuficientes para destrancar a porta.
+
+Door unlocked with {} keys! Press fire to begin the raid.
+== Porta destrancada com {} chaves! Aperte o botão de tiro para começar o raid.
