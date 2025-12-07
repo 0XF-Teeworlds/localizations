@@ -2566,7 +2566,7 @@ You have used x{} {}.
 You have received the bonus item - {}. Disable '/tu {}'
 == Вы получили бонусный предмет - {}. Чтобы отключить, используйте '/tu {}'.
 
-[{}] '{-}' has got {-}!
+\[{}] '{-}' has got {-}!
 == [{}] '{-}' получил {-}!
 
 Cash must be a positive number.
@@ -3242,7 +3242,7 @@ Warp to your dungeon
 == Телепорт в ваше подземелье
 
 Stand near the dungeon door to access the dungeon menu
-== Встаньте рядом с дверью подземелья, чтобы открыть меню подземелья
+== Встаньте рядом с дверью подземелья
 
 Attack history
 == История атак
@@ -3711,3 +3711,9 @@ Dungeon chest cannot overlap dungeon items.
 
 Dungeon
 == Подземелье
+
+No suitable dungeons found for your skill level.
+== Не найдено подходящих подземелий для вашего уровня навыков.
+
+Already in progress.
+== Уже в процессе.

@@ -3265,7 +3265,7 @@ No recent attackers. Refresh later
 ✘ Delete all read mails
 == ✘ Excluir todas as mensagens lidas
 
-[Mails]
+\[Mails]
 == [Mensagens]
 
 You don't have any mails.
@@ -3289,7 +3289,7 @@ Nothing here
 Date:
 == Data:
 
-[Items]
+\[Items]
 == [Itens]
 
 Search status:
@@ -3715,3 +3715,8 @@ Dungeon chest cannot overlap dungeon items.
 Dungeon
 == Masmorra
 
+No suitable dungeons found for your skill level.
+== Não foram encontradas masmorras adequadas para o seu nível de habilidade.
+
+Already in progress.
+== Já em andamento.
