@@ -3702,3 +3702,16 @@ ready to open
 
 Open today's gift
 == Abrir o presente de hoje
+
+Resetting dungeon edit layout...
+== Redefinindo layout de edição da masmorra...
+
+Dungeon door cannot overlap dungeon items.
+== A porta da masmorra não pode se sobrepor a itens da masmorra.
+
+Dungeon chest cannot overlap dungeon items.
+== O baú da masmorra não pode se sobrepor a itens da masmorra.
+
+Dungeon
+== Masmorra
+

@@ -3699,3 +3699,15 @@ ready to open
 
 Open today's gift
 == Открыть сегодняшний подарок
+
+Resetting dungeon edit layout...
+== Сбрасывается макет подземелья...
+
+Dungeon door cannot overlap dungeon items.
+== Дверь подземелья не может перекрываться с объектами подземелья.
+
+Dungeon chest cannot overlap dungeon items.
+== Сундук подземелья не может перекрываться с объектами подземелья.
+
+Dungeon
+== Подземелье
