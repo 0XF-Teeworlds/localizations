@@ -3720,3 +3720,12 @@ No suitable dungeons found for your skill level.
 
 Already in progress.
 == Já em andamento.
+
+Dungeons
+== Masmorras
+
+\[{}] '{-}' claimed bounty #{} from '{-}' for {}{}.
+== [{}] '{-}' recebeu a recompensa #{} de '{-}' por {}{}.
+
+\[{}] '{-}' posted bounty #{} for {}{}!
+== [{}] '{-}' publicou a recompensa #{} de {}{}!

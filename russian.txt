@@ -3717,3 +3717,12 @@ No suitable dungeons found for your skill level.
 
 Already in progress.
 == Уже в процессе.
+
+Dungeons
+== Подземелья
+
+\[{}] '{-}' claimed bounty #{} from '{-}' for {}{}.
+== [{}] '{-}' получил награду #{} у '{-}' за {}{}.
+
+\[{}] '{-}' posted bounty #{} for {}{}!
+== [{}] '{-}' разместил награду #{} на {}{}!
