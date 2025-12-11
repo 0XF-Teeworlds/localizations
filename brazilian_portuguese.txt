@@ -3729,3 +3729,6 @@ Dungeons
 
 \[{}] '{-}' posted bounty #{} for {}{}!
 == [{}] '{-}' publicou a recompensa #{} de {}{}!
+
+You cannot start a bounty raid on your own dungeon.
+== Você não pode iniciar um raid de recompensa na sua própria masmorra.

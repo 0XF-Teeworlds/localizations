@@ -3605,7 +3605,7 @@ Funds are charged immediately.
 == Средства списываются сразу.
 
 Make bounty hunt
-== Начать охоту за наградой
+== Создать охоту за наградой
 
 Bounties
 == Награды
@@ -3726,3 +3726,6 @@ Dungeons
 
 \[{}] '{-}' posted bounty #{} for {}{}!
 == [{}] '{-}' разместил награду #{} на {}{}!
+
+You cannot start a bounty raid on your own dungeon.
+== Вы не можете начать рейд за наградой в собственном подземелье.
