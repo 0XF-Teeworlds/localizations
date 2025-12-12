@@ -3738,3 +3738,18 @@ Save your dungeon at least once before posting bounties.
 
 Save your dungeon at least once before sending raid invites.
 == Salve sua masmorra pelo menos uma vez antes de enviar convites de raid.
+
+Switch view world?
+== Alternar mundo de visualização?
+
+Become a starting zombie?
+== Virar zumbi inicial?
+
+Run auto lockpick?
+== Iniciar destravamento automático?
+
+Join {} dungeon?
+== Entrar na masmorra de {}?
+
+Accept {} raid?
+== Aceitar raid de {}?

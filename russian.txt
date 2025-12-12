@@ -2174,7 +2174,7 @@ Looks like you used cheats while going through the map, your finish will not be 
 == Похоже ты использовал читы во время прохождения карты, твой финиш не будет засчитан
 
 Accept rating duel?
-== Принять рейтинговый дуэль?
+== Принять рейтинговую дуэль?
 
 Accept match?
 == Принять матч?
@@ -3524,7 +3524,7 @@ Command available only inside dungeon game.
 == Команда доступна только внутри игры в подземелье.
 
 Join dungeons?
-== Присоединиться к подземельям?
+== Зайти в подземелье?
 
 Failed to save editor state.
 == Не удалось сохранить состояние редактора.
@@ -3735,3 +3735,18 @@ Save your dungeon at least once before posting bounties.
 
 Save your dungeon at least once before sending raid invites.
 == Сохраните своё подземелье хотя бы один раз перед отправкой приглашений в рейд.
+
+Switch view world?
+== Переключить видимый мир?
+
+Become a starting zombie?
+== Стать первым зомби?
+
+Run auto lockpick?
+== Запустить авто-взлом?
+
+Join {} dungeon?
+== Зайти в подземелье {}?
+
+Accept {} raid?
+== Принять рейд {}?
