@@ -3729,3 +3729,9 @@ Dungeons
 
 You cannot start a bounty raid on your own dungeon.
 == Вы не можете начать рейд за наградой в собственном подземелье.
+
+Save your dungeon at least once before posting bounties.
+== Сохраните своё подземелье хотя бы один раз перед созданием наград.
+
+Save your dungeon at least once before sending raid invites.
+== Сохраните своё подземелье хотя бы один раз перед отправкой приглашений в рейд.

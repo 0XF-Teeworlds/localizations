@@ -3732,3 +3732,9 @@ Dungeons
 
 You cannot start a bounty raid on your own dungeon.
 == Você não pode iniciar um raid de recompensa na sua própria masmorra.
+
+Save your dungeon at least once before posting bounties.
+== Salve sua masmorra pelo menos uma vez antes de criar recompensas.
+
+Save your dungeon at least once before sending raid invites.
+== Salve sua masmorra pelo menos uma vez antes de enviar convites de raid.
