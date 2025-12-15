@@ -3750,3 +3750,27 @@ Join {} dungeon?
 
 Accept {} raid?
 == Принять рейд {}?
+
+You can change design only while playing your dungeon.
+== Вы можете менять дизайн только во время игры в своё подземелье.
+
+Unknown dungeon design.
+== Неизвестный дизайн подземелья.
+
+This design is already applied.
+== Этот дизайн уже применён.
+
+You need {}{} to change the design.
+== Вам нужно {}{}, чтобы изменить дизайн.
+
+Dungeon not ready to update design.
+== Подземелье не готово к обновлению дизайна.
+
+You don't have enough cash to change the design.
+== У вас недостаточно денег, чтобы изменить дизайн.
+
+Failed to change dungeon design.
+== Не удалось изменить дизайн подземелья.
+
+Dungeon design changed to {}.
+== Дизайн подземелья изменён на {}.

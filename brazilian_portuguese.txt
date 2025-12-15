@@ -3753,3 +3753,27 @@ Join {} dungeon?
 
 Accept {} raid?
 == Aceitar raid de {}?
+
+You can change design only while playing your dungeon.
+== Você pode mudar o design apenas enquanto estiver jogando sua masmorra.
+
+Unknown dungeon design.
+== Design de masmorra desconhecido.
+
+This design is already applied.
+== Este design já está aplicado.
+
+You need {}{} to change the design.
+== Você precisa de {}{} para mudar o design.
+
+Dungeon not ready to update design.
+== A masmorra não está pronta para atualizar o design.
+
+You don't have enough cash to change the design.
+== Você não tem dinheiro suficiente para mudar o design.
+
+Failed to change dungeon design.
+== Falha ao alterar o design da masmorra.
+
+Dungeon design changed to {}.
+== O design da masmorra foi alterado para {}.
