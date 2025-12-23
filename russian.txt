@@ -3804,3 +3804,9 @@ Select arenas
 
 No arenas available.
 == Нет доступных арен.
+
+seconds
+== cекунд
+
+Duels
+== Дуэли

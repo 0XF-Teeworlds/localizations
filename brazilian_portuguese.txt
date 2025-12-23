@@ -3807,3 +3807,9 @@ Select arenas
 
 No arenas available.
 == Nenhuma arena disponível.
+
+seconds
+== segundos
+
+Duels
+== Duelos
