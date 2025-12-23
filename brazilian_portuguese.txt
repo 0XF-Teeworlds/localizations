@@ -3777,3 +3777,33 @@ Failed to change dungeon design.
 
 Dungeon design changed to {}.
 == O design da masmorra foi alterado para {}.
+
+Bets
+== Apostas
+
+Jail time
+== Tempo de prisão
+
+Max score
+== Pontuação máxima
+
+Max rounds
+== Máximo de rounds
+
+Allowed weapons
+== Armas permitidas
+
+Arena order
+== Ordem das arenas
+
+Random
+== Aleatória
+
+Sequential
+== Sequencial
+
+Select arenas
+== Selecionar arenas
+
+No arenas available.
+== Nenhuma arena disponível.

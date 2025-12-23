@@ -3774,3 +3774,33 @@ Failed to change dungeon design.
 
 Dungeon design changed to {}.
 == Дизайн подземелья изменён на {}.
+
+Bets
+== Ставки
+
+Jail time
+== Время в тюрьме
+
+Max score
+== Максимальный счёт
+
+Max rounds
+== Максимум раундов
+
+Allowed weapons
+== Разрешённое оружие
+
+Arena order
+== Порядок арен
+
+Random
+== Случайный
+
+Sequential
+== Последовательный
+
+Select arenas
+== Выбрать арены
+
+No arenas available.
+== Нет доступных арен.
