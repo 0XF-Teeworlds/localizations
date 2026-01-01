@@ -3813,3 +3813,6 @@ seconds
 
 Duels
 == Duelos
+
+You need to link your Discord account to activate the promocode.
+== Você precisa vincular sua conta do Discord para ativar o código promocional.
