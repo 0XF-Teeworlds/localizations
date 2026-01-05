@@ -2761,8 +2761,8 @@ No keys to collect yet.
 Failed to collect keys. Try again later.
 == Falha ao coletar chaves. Tente novamente mais tarde.
 
-Collected {} dungeon key{} from your dungeon.
-== Coletadas {} chave{} de masmorra da sua masmorra.
+Collected {} dungeon key(s) from your dungeon.
+== Coletadas {} chave(s) de masmorra da sua masmorra.
 
 Attempt took longer than {} seconds. Progress reset.
 == A tentativa durou mais de {} segundos. Progresso redefinido.

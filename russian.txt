@@ -2761,8 +2761,8 @@ No keys to collect yet.
 Failed to collect keys. Try again later.
 == Не удалось собрать ключи. Попробуйте позже.
 
-Collected {} dungeon key{} from your dungeon.
-== Собрано {} ключ{} из вашего подземелья.
+Collected {} dungeon key(s) from your dungeon.
+== Собрано {} ключ(ей) из вашего подземелья.
 
 Attempt took longer than {} seconds. Progress reset.
 == Попытка заняла больше {} секунд. Прогресс сброшен.
