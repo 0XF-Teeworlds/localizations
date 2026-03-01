@@ -3151,12 +3151,6 @@ Black hole control you
 Here we are again
 == Вот мы снова здесь
 
-Laser destabilized.
-== Лазер дестабилизирован.
-
-Laser stabilized.
-== Лазер стабилизирован.
-
 Your find strange companion.
 == Вы нашли странного компаньона.
 
