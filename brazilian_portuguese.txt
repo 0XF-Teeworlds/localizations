@@ -610,6 +610,18 @@ Duel request is expired.
 \[{}] Team {} won with score {} [{}] - {} [{}]!
 == [{}] Equipe {} venceu com placar {} [{}] - {} [{}]!
 
+\[{}] Team '{-}' won with score {} - {}!
+== [{}] Equipe '{-}' venceu com placar {} - {}!
+
+\[{}] Team '{-}' won with score {} [{}] - {} [{}]!
+== [{}] Equipe '{-}' venceu com placar {} [{}] - {} [{}]!
+
+\[{}] Clan '{-}' won with score {} - {}!
+== [{}] Clã '{-}' venceu com placar {} - {}!
+
+\[{}] Clan '{-}' won with score {} [{}] - {} [{}]!
+== [{}] Clã '{-}' venceu com placar {} [{}] - {} [{}]!
+
 Score set to {} for '{-}' (by '{-}')
 == Pontuação ajustada para {} para '{-}' (por '{-}')
 
