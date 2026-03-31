@@ -1885,6 +1885,9 @@ Duel request was cancelled. You've received {}{} back.
 Rating duel request was canceled.
 == Запрос на рейтинговую дуэль был отменен.
 
+Team size must be at least 2. For 1v1 use a regular duel.
+== Размер команды должен быть минимум 2. Для 1 на 1 используйте обычную дуэль.
+
 You can't search for rating duel when the server is going to restart soon.
 == Вы не можете искать рейтинговую дуэль, когда сервер скоро перезапустится.
 

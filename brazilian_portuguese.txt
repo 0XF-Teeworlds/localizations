@@ -1885,6 +1885,9 @@ Duel request was cancelled. You've received {}{} back.
 Rating duel request was canceled.
 == A solicitação de duelo de classificação foi cancelada.
 
+Team size must be at least 2. For 1v1 use a regular duel.
+== O tamanho da equipe deve ser pelo menos 2. Para 1v1 use um duelo normal.
+
 You can't search for rating duel when the server is going to restart soon.
 == Não é possível pesquisar um duelo de classificação quando o servidor será reiniciado em breve.
 
