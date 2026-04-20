@@ -1849,6 +1849,9 @@ You already have name protection.
 This name is already protected by another player.
 == Это имя уже защищено другим игроком.
 
+This name is tied to another player's records.
+== Это имя уже связано с рекордами другого игрока.
+
 Protected nicknames
 == Защищённые ники
 

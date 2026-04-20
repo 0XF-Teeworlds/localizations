@@ -1849,6 +1849,9 @@ You already have name protection.
 This name is already protected by another player.
 == Este nome já está protegido por outro jogador.
 
+This name is tied to another player's records.
+== Este nome está vinculado aos registros de outro jogador.
+
 Protected nicknames
 == Apelidos protegidos
 
