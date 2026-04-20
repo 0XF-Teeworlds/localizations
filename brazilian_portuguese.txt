@@ -454,8 +454,8 @@ unknown
 Use 'Call vote' menu to access shop!
 == Use o menu 'Votação' para acessar a loja!
 
-Your protected nickname now is '{-}'. If you want to change it please contact the administration.
-== Seu apelido protegido agora é '{-}'. Se quiser alterá-lo, entre em contato com a administração.
+Your protected nickname is now '{-}'. Contact administration to change it.
+== Seu apelido protegido agora é '{-}'. Entre em contato com a administração para alterá-lo.
 
 You in the bank, write '/bank' for info.
 == Você está no banco, escreva '/bank' para mais informações.
@@ -1837,11 +1837,17 @@ Name protection check passed ({}).
 Name protection check failed ({}).
 == Falha na verificação da proteção do nome ({}).
 
-Name check still in progress or name already taken by other player!
+Name check still in progress or name already taken by another player!
 == A verificação do nome ainda está em andamento ou o nome já foi usado por outro jogador!
 
-Protected name should be longer then {} symbols!
-== O nome protegido deve ser maior do que os símbolos {}!
+Protected name must be at least {} characters long.
+== O nome protegido deve ter pelo menos {} caracteres.
+
+You already have name protection.
+== Você já possui proteção de nome.
+
+This name is already protected by another player.
+== Este nome já está protegido por outro jogador.
 
 Protected nicknames
 == Apelidos protegidos
@@ -3022,7 +3028,7 @@ You have been unmuted early by moderator.
 You have been muted for {-} ({-})
 == Você foi mutado por {-} ({-})
 
-The name is already protected.
+This name is already protected.
 == Esse nome já está protegido.
 
 Rating duel found. Creating match with '{-}' (Rating: {})

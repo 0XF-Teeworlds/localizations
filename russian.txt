@@ -454,8 +454,8 @@ unknown
 Use 'Call vote' menu to access shop!
 == Используйте меню 'Голосования' для доступа к магазину!
 
-Your protected nickname now is '{-}'. If you want to change it please contact the administration.
-== Ваш защищенный ник теперь '{-}'. Если вы хотите изменить его, пожалуйста, свяжитесь с администрацией.
+Your protected nickname is now '{-}'. Contact administration to change it.
+== Ваш защищённый ник теперь '{-}'. Для изменения свяжитесь с администрацией.
 
 You in the bank, write '/bank' for info.
 == Вы в банке, напишите '/bank' для информации.
@@ -1837,11 +1837,17 @@ Name protection check passed ({}).
 Name protection check failed ({}).
 == Проверка защиты ника не пройдена ({}).
 
-Name check still in progress or name already taken by other player!
+Name check still in progress or name already taken by another player!
 == Проверка ника ещё в процессе или имя уже занято другим игроком!
 
-Protected name should be longer then {} symbols!
-== Имя для защиты должно быть длиннее чем {} символа!
+Protected name must be at least {} characters long.
+== Защищаемое имя должно содержать не менее {} символов.
+
+You already have name protection.
+== У вас уже есть защита имени.
+
+This name is already protected by another player.
+== Это имя уже защищено другим игроком.
 
 Protected nicknames
 == Защищённые ники
@@ -3022,8 +3028,8 @@ You have been unmuted early by moderator.
 You have been muted for {-} ({-})
 == Вы были замучены на {-} ({-})
 
-The name is already protected.
-== Имя уже защищено.
+This name is already protected.
+== Это имя уже защищено.
 
 Rating duel found. Creating match with '{-}' (Rating: {})
 == Рейтинговая дуэль найдена. Создание матча с '{-}' (Рейтинг: {})
