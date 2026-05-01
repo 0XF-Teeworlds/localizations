@@ -3840,3 +3840,15 @@ Duels
 
 You need to link your Discord account to activate the promocode.
 == Вам необходимо привязать Discord-аккаунт для активации промокода.
+
+Shop preview zone.
+== Зона превью магазина.
+
+All cosmetic items from the shop are now available to try on.
+== Все косметические предметы из магазина теперь доступны для примерки.
+
+Activate them through your inventory: skins, hats, trails, effects.
+== Активируйте их через инвентарь: скины, шапки, шлейфы, эффекты.
+
+After leaving the preview zone, your real loadout returns.
+== После выхода из превью зоны вернётся ваше реальное снаряжение.

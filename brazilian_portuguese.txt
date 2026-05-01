@@ -3843,3 +3843,15 @@ Duels
 
 You need to link your Discord account to activate the promocode.
 == Você precisa vincular sua conta do Discord para ativar o código promocional.
+
+Shop preview zone.
+== Zona de prévia da loja.
+
+All cosmetic items from the shop are now available to try on.
+== Todos os itens cosméticos da loja estão agora disponíveis para experimentar.
+
+Activate them through your inventory: skins, hats, trails, effects.
+== Ative-os pelo seu inventário: skins, chapéus, rastros, efeitos.
+
+After leaving the preview zone, your real loadout returns.
+== Ao sair da zona de prévia, seu equipamento real retorna.
