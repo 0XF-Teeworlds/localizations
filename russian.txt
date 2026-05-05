@@ -3852,3 +3852,51 @@ Activate them through your inventory: skins, hats, trails, effects.
 
 After leaving the preview zone, your real loadout returns.
 == После выхода из превью зоны вернётся ваше реальное снаряжение.
+
+Worlds Warp Lobby
+== Меню миров
+
+── Worlds Warp Lobby ──
+== ── Меню миров ──
+
+Page
+== Страница
+
+Map
+== Карта
+
+Stars
+== Звёзды
+
+Difficulty
+== Сложность
+
+Players
+== Игроков
+
+Hit to warp
+== Выстрел — варп
+
+Vote to create
+== Голос — новая карта
+
+Vote to create new world
+== Голосуй чтобы создать новый мир
+
+Jump to next page
+== Прыжок — следующая страница
+
+Aim at a bot and fire to warp into that world.
+== Прицелься в бота и выстрели чтобы варпнуться в его мир.
+
+Press jump to switch pages, F4 to vote for a new map.
+== Нажми прыжок чтобы переключать страницы, F4 чтобы голосовать за новую карту.
+
+Use /lobby from any world to return here.
+== Используй /lobby в любом мире чтобы вернуться сюда.
+
+World no longer loaded
+== Мир больше не загружен
+
+You are already in lobby
+== Ты уже в лобби

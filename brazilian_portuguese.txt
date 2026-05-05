@@ -3855,3 +3855,51 @@ Activate them through your inventory: skins, hats, trails, effects.
 
 After leaving the preview zone, your real loadout returns.
 == Ao sair da zona de prévia, seu equipamento real retorna.
+
+Worlds Warp Lobby
+== Lobby de Mundos
+
+── Worlds Warp Lobby ──
+== ── Lobby de Mundos ──
+
+Page
+== Página
+
+Map
+== Mapa
+
+Stars
+== Estrelas
+
+Difficulty
+== Dificuldade
+
+Players
+== Jogadores
+
+Hit to warp
+== Atire para teleportar
+
+Vote to create
+== Vote para criar
+
+Vote to create new world
+== Vote para criar novo mundo
+
+Jump to next page
+== Pule para próxima página
+
+Aim at a bot and fire to warp into that world.
+== Mire em um bot e atire para teleportar para esse mundo.
+
+Press jump to switch pages, F4 to vote for a new map.
+== Pressione pular para trocar páginas, F4 para votar por um novo mapa.
+
+Use /lobby from any world to return here.
+== Use /lobby em qualquer mundo para voltar aqui.
+
+World no longer loaded
+== Mundo não está mais carregado
+
+You are already in lobby
+== Você já está no lobby
