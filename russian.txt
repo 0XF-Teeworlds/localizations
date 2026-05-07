@@ -3900,3 +3900,51 @@ World no longer loaded
 
 You are already in lobby
 == Ты уже в лобби
+
+You must be alive to hug.
+== Чтобы обняться, нужно быть живым.
+
+You can't hug in solo mode.
+== В соло-режиме нельзя обниматься.
+
+Hug is not available after race start.
+== Объятия недоступны после старта гонки.
+
+Aim at a player to hug.
+== Прицелься в игрока чтобы обняться.
+
+You need to be closer to the player to hug.
+== Нужно быть ближе к игроку чтобы обняться.
+
+You can't hug yourself.
+== Себя обнять нельзя.
+
+You need to be in the same world.
+== Нужно быть в одном мире.
+
+You need to be in the same game.
+== Нужно быть в одной игре.
+
+You need to be in the same team.
+== Нужно быть в одной команде.
+
+That player has already started the race.
+== Этот игрок уже стартовал гонку.
+
+Hug with '{-}' ended.
+== Объятие с '{-}' окончено.
+
+You already have the maximum number of hugs.
+== У тебя уже максимум объятий.
+
+'{-}' already has the maximum number of hugs.
+== У '{-}' уже максимум объятий.
+
+You hugged '{-}'.
+== Ты обнял '{-}'.
+
+Hug request sent to '{-}'.
+== Запрос на объятие отправлен '{-}'.
+
+'{-}' wants to hug you. Use /hug {-}.
+== '{-}' хочет обняться с тобой. Используй /hug {-}.

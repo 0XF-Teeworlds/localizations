@@ -3903,3 +3903,51 @@ World no longer loaded
 
 You are already in lobby
 == Você já está no lobby
+
+You must be alive to hug.
+== Você precisa estar vivo para abraçar.
+
+You can't hug in solo mode.
+== Você não pode abraçar no modo solo.
+
+Hug is not available after race start.
+== Abraço não está disponível após o início da corrida.
+
+Aim at a player to hug.
+== Mire em um jogador para abraçar.
+
+You need to be closer to the player to hug.
+== Você precisa estar mais perto do jogador para abraçar.
+
+You can't hug yourself.
+== Você não pode se abraçar.
+
+You need to be in the same world.
+== Vocês precisam estar no mesmo mundo.
+
+You need to be in the same game.
+== Vocês precisam estar no mesmo jogo.
+
+You need to be in the same team.
+== Vocês precisam estar na mesma equipe.
+
+That player has already started the race.
+== Esse jogador já começou a corrida.
+
+Hug with '{-}' ended.
+== Abraço com '{-}' terminou.
+
+You already have the maximum number of hugs.
+== Você já tem o número máximo de abraços.
+
+'{-}' already has the maximum number of hugs.
+== '{-}' já tem o número máximo de abraços.
+
+You hugged '{-}'.
+== Você abraçou '{-}'.
+
+Hug request sent to '{-}'.
+== Pedido de abraço enviado para '{-}'.
+
+'{-}' wants to hug you. Use /hug {-}.
+== '{-}' quer te abraçar. Use /hug {-}.
