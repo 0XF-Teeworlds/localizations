@@ -1315,6 +1315,21 @@ Opponent duel skin
 DND
 == Não Perturbe
 
+Network mode
+== Modo de rede
+
+Server preference: Responsive
+== Preferência do servidor: Responsivo
+
+Server preference: Balanced
+== Preferência do servidor: Equilibrado
+
+Balanced
+== Equilibrado
+
+Responsive
+== Responsivo
+
 Exited rating duel
 == Saiu do duelo ranqueado
 

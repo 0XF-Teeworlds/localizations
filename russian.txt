@@ -1315,6 +1315,21 @@ Opponent duel skin
 DND
 == Не беспокоить
 
+Network mode
+== Сетевой режим
+
+Server preference: Responsive
+== Политика сервера: Отзывчивый
+
+Server preference: Balanced
+== Политика сервера: Сбалансированный
+
+Balanced
+== Сбалансированный
+
+Responsive
+== Отзывчивый
+
 Exited rating duel
 == Выход из рейтинговой дуэли
 
