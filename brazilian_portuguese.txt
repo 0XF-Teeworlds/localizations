@@ -1786,14 +1786,32 @@ Effects
 The server is going to shutdown in {} {t} ({-})
 == O servidor será desligado em {} {t} ({-})
 
+The server is going to shutdown in {} {t} ({})
+== O servidor será desligado em {} {t} ({})
+
+The server is going to shutdown in {} {t}
+== O servidor será desligado em {} {t}
+
 The map is going to reload in {} {t} ({-})
 == O mapa será recarregado em {} {t} ({-})
+
+The map is going to reload in {} {t} ({})
+== O mapa será recarregado em {} {t} ({})
+
+The map is going to reload in {} {t}
+== O mapa será recarregado em {} {t}
 
 The server shutdown was cancelled.
 == O desligamento do servidor foi cancelado.
 
 The map reload was cancelled.
 == O recarregamento do mapa foi cancelado.
+
+The server is shutting down now!
+== O servidor está sendo desligado agora!
+
+The map is reloading now!
+== O mapa está sendo recarregado agora!
 
 Language
 == Idioma
