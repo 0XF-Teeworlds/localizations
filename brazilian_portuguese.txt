@@ -82,11 +82,71 @@ Bomb
 Spike
 == Espinho
 
+Clan Cash
+== Dinheiro do clã
+
+Clan Level
+== Nível do clã
+
+Roulette
+== Roleta
+
+Crash
+== Crash
+
+GiftHunt
+== Caça ao presente
+
+Duel Fng
+== FNG Duelo
+
 Quest
 == Missão
 
 Reward
 == Recompensa
+
+Saves
+== Salves
+
+Refresh
+== Atualizar
+
+Load Save
+== Carregar Salve
+
+Save-function is disabled on this server
+== A função de salvar está desativada neste servidor
+
+No saves found.
+== Nenhum salve encontrado.
+
+Vote players
+== Votar em jogadores
+
+Mails
+== Mensagens
+
+FNG kill steal protection
+== Proteção contra roubo de kill no FNG
+
+FNG hook block protection
+== Proteção contra hook block no FNG
+
+Extra weapon auto-switch
+== Troca automática de arma extra
+
+│ ✔ Mark all as read
+== │ ✔ Marcar todas como lidas
+
+│ ⬇ Receive all items
+== │ ⬇ Coletar todos os itens
+
+│ ✘ Delete all read mails
+== │ ✘ Excluir todas as mensagens lidas
+
+Name prefix
+== Prefixo de nome
 
 Authorize to get access to account benefits:
 == Autorize para acessar os benefícios da conta:
@@ -1782,6 +1842,9 @@ You are sending reports too fast.
 
 Effects
 == Efeitos
+
+Skins
+== Skins
 
 The server is going to shutdown in {} {t} ({-})
 == O servidor será desligado em {} {t} ({-})

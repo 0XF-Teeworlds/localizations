@@ -82,11 +82,71 @@ Bomb
 Spike
 == Шип
 
+Clan Cash
+== Деньги клана
+
+Clan Level
+== Уровень клана
+
+Roulette
+== Рулетка
+
+Crash
+== Краш
+
+GiftHunt
+== Охота за подарками
+
+Duel Fng
+== FNG Дуэль
+
 Quest
 == Квест
 
 Reward
 == Награда
+
+Saves
+== Сохранения
+
+Refresh
+== Обновить
+
+Load Save
+== Загрузить сохранение
+
+Save-function is disabled on this server
+== Функция сохранения отключена на этом сервере
+
+No saves found.
+== Сохранения не найдены.
+
+Vote players
+== Выбор игроков
+
+Mails
+== Почта
+
+FNG kill steal protection
+== FNG защита от стила киллов
+
+FNG hook block protection
+== FNG защита от блока хуком
+
+Extra weapon auto-switch
+== Автосмена доп. оружия
+
+│ ✔ Mark all as read
+== │ ✔ Отметить все прочитанными
+
+│ ⬇ Receive all items
+== │ ⬇ Забрать все предметы
+
+│ ✘ Delete all read mails
+== │ ✘ Удалить все прочитанные
+
+Name prefix
+== Префикс имени
 
 Authorize to get access to account benefits:
 == Авторизуйся для доступа:
@@ -1782,6 +1842,9 @@ You are sending reports too fast.
 
 Effects
 == Эффекты
+
+Skins
+== Скины
 
 The server is going to shutdown in {} {t} ({-})
 == Сервер будет выключен через {} {t} ({-})
