@@ -4044,3 +4044,96 @@ Hug request sent to '{-}'.
 
 '{-}' wants to hug you. Use /hug {-}.
 == '{-}' хочет обняться с тобой. Используй /hug {-}.
+
+Create lot
+== Создать лот
+
+My lots
+== Мои лоты
+
+In game items
+== Игровые предметы
+
+Upgrades
+== Улучшения
+
+Laser ammo
+== Патроны для лазера
+
+Offers
+== Предложения
+
+Sold per unit, collected on the map.
+== Продаётся поштучно, собирается на карте.
+
+No offers.
+== Нет предложений.
+
+No offers (or loading - Refresh).
+== Нет предложений (обновите).
+
+left
+== осталось
+
+Seller
+== Продавец
+
+Available
+== Доступно
+
+Price
+== Цена
+
+Buy
+== Купить
+
+Buy all
+== Купить всё
+
+Buy N
+== Купить N
+
+Type amount in reason
+== Введите количество в поле причины
+
+Lot no longer available.
+== Лот больше недоступен.
+
+Lot no longer available - Refresh.
+== Лот больше недоступен — Обновить.
+
+Your lots
+== Ваши лоты
+
+Set price
+== Изменить цену
+
+Cancel
+== Отменить
+
+You have no active lots.
+== У вас нет активных лотов.
+
+Pick an item to list
+== Выберите предмет для продажи
+
+Nothing to sell.
+== Нечего продавать.
+
+You own
+== У вас есть
+
+Quantity
+== Количество
+
+(reason, blank = all)
+== (в причине; пусто — всё)
+
+(reason)
+== (в причине)
+
+Currency
+== Валюта
+
+Set a price above 0 to create the lot.
+== Укажите цену больше 0.
