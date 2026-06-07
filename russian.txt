@@ -4296,3 +4296,6 @@ Permanent items can't be sold.
 
 Invalid day count (1..{}).
 == Недопустимое кол-во дней (1..{}).
+
+Stand on the market tile to use the market.
+== Встаньте на тайл рынка, чтобы пользоваться рынком.
