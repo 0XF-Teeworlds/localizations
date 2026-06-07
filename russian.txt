@@ -898,9 +898,6 @@ Lot already exists.
 Only seller could cancel lot.
 == Только продавец может отменить лот.
 
-Lot placed. Use '/room_lots' to check lots. Use '/room_lot_cancel' to cancel lot.
-== Лот размещён. Используйте '/room_lots' чтобы проверить лоты. Используйте '/room_lot_cancel' чтобы отменить лот.
-
 Transaction failed.
 == Транзакция не выполнена.
 
@@ -4137,3 +4134,141 @@ Currency
 
 Set a price above 0 to create the lot.
 == Укажите цену больше 0.
+
+Market
+== Рынок
+
+Enter the amount in the reason field.
+== Введите количество в поле причины.
+
+Enter a price in the reason field.
+== Введите цену в поле причины.
+
+Invalid price.
+== Недопустимая цена.
+
+Invalid currency.
+== Недопустимая валюта.
+
+Invalid price (1..{}).
+== Недопустимая цена (1..{}).
+
+Unknown item.
+== Неизвестный предмет.
+
+This item can't be sold.
+== Этот предмет нельзя продать.
+
+You don't own this item.
+== У вас нет этого предмета.
+
+You don't have any of this item.
+== У вас нет этого предмета.
+
+Invalid quantity (1..{}).
+== Недопустимое количество (1..{}).
+
+You only have {}.
+== У вас только {}.
+
+Price is too large.
+== Цена слишком большая.
+
+Not enough time left on this item to sell.
+== Слишком мало времени для продажи.
+
+You are not the owner of this room.
+== Вы не владелец этой комнаты.
+
+Your character must be alive.
+== Персонаж должен быть жив.
+
+You have no laser ammo.
+== У вас нет патронов лазера.
+
+You already have a laser-ammo lot in this currency.
+== Лот в этой валюте уже есть.
+
+You have too many active lots.
+== Слишком много активных лотов.
+
+Laser-ammo lot created.
+== Лот на патроны создан.
+
+Your character must be alive to receive ammo.
+== Нужен живой персонаж для патронов.
+
+You can't buy your own lot.
+== Нельзя купить собственный лот.
+
+Price changed - refresh.
+== Цена изменилась — обновите.
+
+Seller is not available - lot canceled.
+== Продавец недоступен — лот отменён.
+
+Lot no longer has ammo.
+== В лоте больше нет патронов.
+
+Invalid amount.
+== Недопустимое количество.
+
+Only {} available - refresh.
+== Доступно только {} — обновите.
+
+Total is too large.
+== Итоговая сумма слишком большая.
+
+Not enough {-}.
+== Недостаточно {-}.
+
+Bought {} laser ammo (-{} {-}).
+== Куплено {} патронов лазера (-{} {-}).
+
+Sold {} laser ammo (+{} {-}).
+== Продано {} патронов лазера (+{} {-}).
+
+Lot not found - refresh.
+== Лот не найден — обновите.
+
+Price or quantity changed - refresh and try again.
+== Цена/кол-во изменились — обновите.
+
+Seller no longer has this item - refresh.
+== У продавца нет товара — обновите.
+
+You can't receive this item (owner limit reached).
+== Нельзя получить предмет (лимит).
+
+Bought {-} (-{} {-}).
+== Куплено {-} (-{} {-}).
+
+Purchase failed - try again.
+== Покупка не удалась — ещё раз.
+
+Sold {-} (+{} {-}).
+== Продано {-} (+{} {-}).
+
+Lot created.
+== Лот создан.
+
+Could not create the lot.
+== Не удалось создать лот.
+
+Done.
+== Готово.
+
+You already have a lot for this item/currency. Edit or cancel it.
+== Лот для этого предмета/валюты есть.
+
+You no longer own this room.
+== Вы больше не владелец этой комнаты.
+
+You don't have enough of this item.
+== Недостаточно этого предмета.
+
+Not enough time left to sell.
+== Слишком мало времени для продажи.
+
+Price updated.
+== Цена обновлена.

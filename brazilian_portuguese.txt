@@ -898,9 +898,6 @@ Lot already exists.
 Only seller could cancel lot.
 == Apenas o vendedor pode cancelar o lote.
 
-Lot placed. Use '/room_lots' to check lots. Use '/room_lot_cancel' to cancel lot.
-== Lote colocado. Use '/room_lots' para verificar os lotes. Use '/room_lot_cancel' para cancelar o lote.
-
 Transaction failed.
 == Transação falhou.
 
