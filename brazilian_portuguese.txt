@@ -4305,3 +4305,6 @@ Stand on the market tile to use the market.
 
 Self-destruct arms {} seconds after spawn
 == A autodestruição é armada {} segundos após o surgimento
+
+FPV vehicles are disabled on this server.
+== Veículos FPV estão desativados neste servidor.
