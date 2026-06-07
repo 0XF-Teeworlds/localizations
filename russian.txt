@@ -4272,3 +4272,6 @@ Not enough time left to sell.
 
 Price updated.
 == Цена обновлена.
+
+(price is per unit)
+== (цена за единицу товара)
