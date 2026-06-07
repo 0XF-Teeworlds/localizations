@@ -4299,3 +4299,6 @@ Invalid day count (1..{}).
 
 Stand on the market tile to use the market.
 == Встаньте на тайл рынка, чтобы пользоваться рынком.
+
+Self-destruct arms {} seconds after spawn
+== Самоуничтожение активируется через {} сек. после появления

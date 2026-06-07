@@ -4044,3 +4044,264 @@ Hug request sent to '{-}'.
 
 '{-}' wants to hug you. Use /hug {-}.
 == '{-}' quer te abraçar. Use /hug {-}.
+
+Create lot
+== Criar lote
+
+My lots
+== Meus lotes
+
+In game items
+== Itens do jogo
+
+Upgrades
+== Melhorias
+
+Laser ammo
+== Munição de laser
+
+Offers
+== Ofertas
+
+Sold per unit, collected on the map.
+== Vendido por unidade, coletado no mapa.
+
+No offers.
+== Sem ofertas.
+
+No offers (or loading - Refresh).
+== Sem ofertas (ou carregando — Atualize).
+
+left
+== restante
+
+Seller
+== Vendedor
+
+Available
+== Disponível
+
+Price
+== Preço
+
+Buy
+== Comprar
+
+Buy all
+== Comprar tudo
+
+Buy N
+== Comprar N
+
+Type amount in reason
+== Digite a quantidade no motivo
+
+Lot no longer available.
+== Lote não está mais disponível.
+
+Lot no longer available - Refresh.
+== Lote não está mais disponível — Atualize.
+
+Your lots
+== Seus lotes
+
+Set price
+== Definir preço
+
+Cancel
+== Cancelar
+
+You have no active lots.
+== Você não tem lotes ativos.
+
+Pick an item to list
+== Escolha um item para anunciar
+
+Nothing to sell.
+== Nada para vender.
+
+You own
+== Você tem
+
+Quantity
+== Quantidade
+
+(reason, blank = all)
+== (no motivo; vazio = tudo)
+
+(reason)
+== (no motivo)
+
+Currency
+== Moeda
+
+Set a price above 0 to create the lot.
+== Defina um preço acima de 0 para criar o lote.
+
+Market
+== Mercado
+
+Enter the amount in the reason field.
+== Digite a quantidade no campo motivo.
+
+Enter a price in the reason field.
+== Digite um preço no campo motivo.
+
+Invalid price.
+== Preço inválido.
+
+Invalid currency.
+== Moeda inválida.
+
+Invalid price (1..{}).
+== Preço inválido (1..{}).
+
+Unknown item.
+== Item desconhecido.
+
+This item can't be sold.
+== Este item não pode ser vendido.
+
+You don't own this item.
+== Você não possui este item.
+
+You don't have any of this item.
+== Você não tem nenhum deste item.
+
+Invalid quantity (1..{}).
+== Quantidade inválida (1..{}).
+
+You only have {}.
+== Você só tem {}.
+
+Price is too large.
+== Preço muito alto.
+
+Not enough time left on this item to sell.
+== Tempo insuficiente neste item para vender.
+
+You are not the owner of this room.
+== Você não é o dono desta sala.
+
+Your character must be alive.
+== Seu personagem precisa estar vivo.
+
+You have no laser ammo.
+== Você não tem munição de laser.
+
+You already have a laser-ammo lot in this currency.
+== Você já tem um lote de munição de laser nesta moeda.
+
+You have too many active lots.
+== Você tem lotes ativos demais.
+
+Laser-ammo lot created.
+== Lote de munição de laser criado.
+
+Your character must be alive to receive ammo.
+== Seu personagem precisa estar vivo para receber munição.
+
+You can't buy your own lot.
+== Você não pode comprar seu próprio lote.
+
+Price changed - refresh.
+== Preço alterado — atualize.
+
+Seller is not available - lot canceled.
+== Vendedor indisponível — lote cancelado.
+
+Lot no longer has ammo.
+== O lote não tem mais munição.
+
+Invalid amount.
+== Quantidade inválida.
+
+Only {} available - refresh.
+== Apenas {} disponível — atualize.
+
+Total is too large.
+== O total é muito alto.
+
+Not enough {-}.
+== Não há {-} suficiente.
+
+Bought {} laser ammo (-{} {-}).
+== Compradas {} munições de laser (-{} {-}).
+
+Sold {} laser ammo (+{} {-}).
+== Vendidas {} munições de laser (+{} {-}).
+
+Lot not found - refresh.
+== Lote não encontrado — atualize.
+
+Price or quantity changed - refresh and try again.
+== Preço/quantidade alterados — atualize e tente novamente.
+
+Seller no longer has this item - refresh.
+== O vendedor não tem mais este item — atualize.
+
+You can't receive this item (owner limit reached).
+== Você não pode receber este item (limite atingido).
+
+Bought {-} (-{} {-}).
+== Comprado {-} (-{} {-}).
+
+Purchase failed - try again.
+== Compra falhou — tente novamente.
+
+Sold {-} (+{} {-}).
+== Vendido {-} (+{} {-}).
+
+Lot created.
+== Lote criado.
+
+Could not create the lot.
+== Não foi possível criar o lote.
+
+Done.
+== Pronto.
+
+You already have a lot for this item/currency. Edit or cancel it.
+== Você já tem um lote para este item/moeda. Edite ou cancele.
+
+You no longer own this room.
+== Você não é mais o dono desta sala.
+
+You don't have enough of this item.
+== Você não tem o suficiente deste item.
+
+Not enough time left to sell.
+== Tempo insuficiente para vender.
+
+Price updated.
+== Preço atualizado.
+
+(price is per unit)
+== (preço por unidade)
+
+(price is per day)
+== (preço por dia)
+
+Days
+== Dias
+
+Buy N days
+== Comprar N dias
+
+Bought {} days of {-} (-{} {-}).
+== Comprados {} dias de {-} (-{} {-}).
+
+Sold {} days of {-} (+{} {-}).
+== Vendidos {} dias de {-} (+{} {-}).
+
+Permanent items can't be sold.
+== Itens permanentes não podem ser vendidos.
+
+Invalid day count (1..{}).
+== Número de dias inválido (1..{}).
+
+Stand on the market tile to use the market.
+== Fique sobre o tile do mercado para usá-lo.
+
+Self-destruct arms {} seconds after spawn
+== A autodestruição é armada {} segundos após o surgimento
