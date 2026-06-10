@@ -4081,6 +4081,12 @@ Available
 Price
 == Цена
 
+Required level
+== Необходимый уровень
+
+your level
+== ваш уровень
+
 Buy
 == Купить
 

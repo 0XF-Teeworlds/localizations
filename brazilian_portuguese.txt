@@ -4084,6 +4084,12 @@ Available
 Price
 == Preço
 
+Required level
+== Nível necessário
+
+your level
+== seu nível
+
 Buy
 == Comprar
 
