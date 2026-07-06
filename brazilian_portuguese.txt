@@ -4314,3 +4314,6 @@ Self-destruct arms {} seconds after spawn
 
 FPV vehicles are disabled on this server.
 == Veículos FPV estão desativados neste servidor.
+
+Dungeon cleared!
+== Masmorra concluída!

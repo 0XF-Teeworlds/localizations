@@ -4311,3 +4311,6 @@ Self-destruct arms {} seconds after spawn
 
 FPV vehicles are disabled on this server.
 == FPV-транспорт отключён на этом сервере.
+
+Dungeon cleared!
+== Подземелье пройдено!
