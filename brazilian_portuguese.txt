@@ -4317,3 +4317,18 @@ FPV vehicles are disabled on this server.
 
 Dungeon cleared!
 == Masmorra concluída!
+
+Paused on {}, press action button to resume
+== Pausado por {}, pressione o botão de ação para continuar
+
+Paused on {}, use /pause to join again
+== Pausado por {}, use /pause para voltar ao jogo
+
+connection lost
+== conexão perdida
+
+rescue assist
+== resgate
+
+team rescue assist
+== resgate em equipe

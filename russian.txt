@@ -4314,3 +4314,18 @@ FPV vehicles are disabled on this server.
 
 Dungeon cleared!
 == Подземелье пройдено!
+
+Paused on {}, press action button to resume
+== Пауза: {}. Нажмите кнопку действия, чтобы продолжить
+
+Paused on {}, use /pause to join again
+== Пауза: {}. Используйте /pause, чтобы вернуться в игру
+
+connection lost
+== потеря соединения
+
+rescue assist
+== спасение
+
+team rescue assist
+== командное спасение
