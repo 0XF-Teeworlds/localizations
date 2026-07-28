@@ -4361,7 +4361,7 @@ Now playing: {-} - {-} (requested by {-})
 == Tocando agora: {-} - {-} (pedido por {-})
 
 Now playing: {-} - {-} [{-} / {-}]
-== Tocando agora: {-} - {-} [{}:{} / {}:{}]
+== Tocando agora: {-} - {-} [{-} / {-}]
 
 Please wait {} seconds before searching again
 == Espere {} segundos antes de pesquisar de novo
@@ -4376,7 +4376,7 @@ Skip voting is disabled
 == A votação para pular está desativada
 
 Song search failed: {-}
-== A busca falhou: {}
+== A busca falhou: {-}
 
 That is not your track
 == Essa faixa não é sua
