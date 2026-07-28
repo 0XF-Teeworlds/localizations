@@ -4396,6 +4396,9 @@ The song queue was cleared
 Type the search query in the reason field
 == Введи поисковый запрос в поле причины
 
+Usage: song_search <query>
+== Использование: song_search <запрос>
+
 You already have the maximum number of queued tracks
 == У тебя уже максимум треков в очереди
 

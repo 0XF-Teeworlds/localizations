@@ -4399,6 +4399,9 @@ The song queue was cleared
 Type the search query in the reason field
 == Digite a busca no campo de motivo
 
+Usage: song_search <query>
+== Uso: song_search <consulta>
+
 You already have the maximum number of queued tracks
 == Você já atingiu o limite de faixas na fila
 
