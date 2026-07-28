@@ -4360,7 +4360,7 @@ Nothing is playing right now
 Now playing: {-} - {-} (requested by {-})
 == Tocando agora: {-} - {-} (pedido por {-})
 
-Now playing: {-} - {-} [{}:{} / {}:{}]
+Now playing: {-} - {-} [{-} / {-}]
 == Tocando agora: {-} - {-} [{}:{} / {}:{}]
 
 Please wait {} seconds before searching again
@@ -4375,7 +4375,7 @@ Searching for '{-}'...
 Skip voting is disabled
 == A votação para pular está desativada
 
-Song search failed: {}
+Song search failed: {-}
 == A busca falhou: {}
 
 That is not your track

@@ -4357,7 +4357,7 @@ Nothing is playing right now
 Now playing: {-} - {-} (requested by {-})
 == Сейчас играет: {-} - {-} (заказал {-})
 
-Now playing: {-} - {-} [{}:{} / {}:{}]
+Now playing: {-} - {-} [{-} / {-}]
 == Сейчас играет: {-} - {-} [{}:{} / {}:{}]
 
 Please wait {} seconds before searching again
@@ -4372,7 +4372,7 @@ Searching for '{-}'...
 Skip voting is disabled
 == Голосование за пропуск отключено
 
-Song search failed: {}
+Song search failed: {-}
 == Поиск не удался: {}
 
 That is not your track
