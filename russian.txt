@@ -4426,17 +4426,11 @@ You must be logged in to search for tracks
 Your previous search is still running
 == Твой предыдущий поиск ещё выполняется
 
-{-} queued '{-} - {-}' for {}
+{-} queued '{-} - {-}' for {}$
 == {-} заказал '{-} - {-}' за {}
 
 Music
 == Музыка
-
-Search song in reason field
-== Поиск трека в поле причины
-
-max 15 chars, /song_search for longer
-== макс. 15 символов, для длинных запросов — /song_search
 
 Queue
 == Очередь
@@ -4491,3 +4485,22 @@ the track could not be prepared
 
 the track could not be downloaded
 == не удалось скачать трек
+
+Paid {}$ for this track, your balance is now {}$
+== Списано {}$ за трек, на счету осталось {}$
+
+No lyrics available for this track
+== Для этого трека нет текста
+
+Queue is empty, returning to the base map
+== Очередь пуста, возвращаемся на базовую карту
+
+Search in reason field
+== Поиск: в поле причины
+
+Max 15 characters
+== Максимум 15 символов
+
+Longer: use /song_search
+== Длиннее — через /song_search
+

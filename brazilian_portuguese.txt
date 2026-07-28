@@ -4429,17 +4429,11 @@ You must be logged in to search for tracks
 Your previous search is still running
 == Sua busca anterior ainda está em andamento
 
-{-} queued '{-} - {-}' for {}
+{-} queued '{-} - {-}' for {}$
 == {-} pediu '{-} - {-}' por {}
 
 Music
 == Música
-
-Search song in reason field
-== Buscar faixa no campo de motivo
-
-max 15 chars, /song_search for longer
-== máx. 15 caracteres, use /song_search para buscas maiores
 
 Queue
 == Fila
@@ -4494,3 +4488,22 @@ the track could not be prepared
 
 the track could not be downloaded
 == não foi possível baixar a faixa
+
+Paid {}$ for this track, your balance is now {}$
+== Pago {}$ por esta faixa, seu saldo agora é {}$
+
+No lyrics available for this track
+== Nenhuma letra disponível para esta faixa
+
+Queue is empty, returning to the base map
+== A fila está vazia, voltando ao mapa base
+
+Search in reason field
+== Buscar no campo de motivo
+
+Max 15 characters
+== Máximo 15 caracteres
+
+Longer: use /song_search
+== Mais longo: /song_search
+
