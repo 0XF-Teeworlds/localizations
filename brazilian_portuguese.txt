@@ -4332,3 +4332,162 @@ rescue assist
 
 team rescue assist
 == resgate em equipe
+
+Could not start the vote
+== Não foi possível iniciar a votação
+
+Found {} tracks, use song_add <n>
+== {} faixas encontradas, use song_add <n>
+
+Lyrics disabled
+== Letras desativadas
+
+Lyrics enabled
+== Letras ativadas
+
+No such queue position
+== Não existe essa posição na fila
+
+No such search result, use song_search first
+== Resultado inexistente, use song_search primeiro
+
+Nothing found
+== Nada encontrado
+
+Nothing is playing right now
+== Nada está tocando agora
+
+Now playing: {-} - {-} (requested by {-})
+== Tocando agora: {-} - {-} (pedido por {-})
+
+Now playing: {-} - {-} [{}:{} / {}:{}]
+== Tocando agora: {-} - {-} [{}:{} / {}:{}]
+
+Please wait {} seconds before searching again
+== Espere {} segundos antes de pesquisar de novo
+
+Refunded {} for '{-} - {-}': {}
+== Reembolsado {} por '{-} - {-}': {}
+
+Searching for '{-}'...
+== Procurando '{-}'...
+
+Skip voting is disabled
+== A votação para pular está desativada
+
+Song search failed: {}
+== A busca falhou: {}
+
+That is not your track
+== Essa faixa não é sua
+
+That track is already playing, use song_skip
+== Essa faixa já está tocando, use song_skip
+
+That track is too long
+== Essa faixa é longa demais
+
+The music player is disabled
+== O reprodutor de música está desativado
+
+The queue is empty
+== A fila está vazia
+
+The song queue was cleared
+== A fila de músicas foi limpa
+
+Type the search query in the reason field
+== Digite a busca no campo de motivo
+
+You already have the maximum number of queued tracks
+== Você já atingiu o limite de faixas na fila
+
+You are not in game
+== Você não está no jogo
+
+You are not in the music world
+== Você não está no mundo da música
+
+You cannot afford that track
+== Você não tem dinheiro para essa faixa
+
+You must be logged in
+== Você precisa estar logado
+
+You must be logged in to queue a track
+== Você precisa estar logado para pedir uma faixa
+
+Your level is too low to queue a track
+== Seu nível é baixo demais para pedir faixas
+
+You must be logged in to search for tracks
+== Você precisa estar logado para buscar faixas
+
+Your previous search is still running
+== Sua busca anterior ainda está em andamento
+
+{-} queued '{-} - {-}' for {}
+== {-} pediu '{-} - {-}' por {}
+
+Music
+== Música
+
+Search song in reason field
+== Buscar faixa no campo de motivo
+
+max 15 chars, /song_search for longer
+== máx. 15 caracteres, use /song_search para buscas maiores
+
+Queue
+== Fila
+
+Vote to skip
+== Votar para pular
+
+Price per second
+== Preço por segundo
+
+Search cooldown
+== Espera da busca
+
+No results yet
+== Ainda sem resultados
+
+Nothing is playing
+== Nada tocando
+
+Remove (refund)
+== Remover (com reembolso)
+
+That track cannot be played
+== Essa faixa não pode ser reproduzida
+
+That result is no longer available
+== Esse resultado não está mais disponível
+
+A vote to skip this track is already running
+== Já existe uma votação para pular essa faixa
+
+The current track was skipped
+== A faixa atual foi pulada
+
+you removed the track
+== você removeu a faixa
+
+track skipped before it started
+== faixa pulada antes de começar
+
+queue cleared
+== fila limpa
+
+the world could not be reloaded
+== não foi possível recarregar o mundo
+
+the track id was rejected
+== o id da faixa foi rejeitado
+
+the track could not be prepared
+== não foi possível preparar a faixa
+
+the track could not be downloaded
+== não foi possível baixar a faixa

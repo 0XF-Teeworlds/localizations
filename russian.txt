@@ -4329,3 +4329,162 @@ rescue assist
 
 team rescue assist
 == командное спасение
+
+Could not start the vote
+== Не удалось начать голосование
+
+Found {} tracks, use song_add <n>
+== Найдено треков: {}, используй song_add <n>
+
+Lyrics disabled
+== Текст песни выключен
+
+Lyrics enabled
+== Текст песни включён
+
+No such queue position
+== Нет такой позиции в очереди
+
+No such search result, use song_search first
+== Нет такого результата, сначала выполни song_search
+
+Nothing found
+== Ничего не найдено
+
+Nothing is playing right now
+== Сейчас ничего не играет
+
+Now playing: {-} - {-} (requested by {-})
+== Сейчас играет: {-} - {-} (заказал {-})
+
+Now playing: {-} - {-} [{}:{} / {}:{}]
+== Сейчас играет: {-} - {-} [{}:{} / {}:{}]
+
+Please wait {} seconds before searching again
+== Подожди {} секунд перед следующим поиском
+
+Refunded {} for '{-} - {-}': {}
+== Возвращено {} за '{-} - {-}': {}
+
+Searching for '{-}'...
+== Ищу '{-}'...
+
+Skip voting is disabled
+== Голосование за пропуск отключено
+
+Song search failed: {}
+== Поиск не удался: {}
+
+That is not your track
+== Это не твой трек
+
+That track is already playing, use song_skip
+== Этот трек уже играет, используй song_skip
+
+That track is too long
+== Этот трек слишком длинный
+
+The music player is disabled
+== Музыкальный плеер отключён
+
+The queue is empty
+== Очередь пуста
+
+The song queue was cleared
+== Очередь треков очищена
+
+Type the search query in the reason field
+== Введи поисковый запрос в поле причины
+
+You already have the maximum number of queued tracks
+== У тебя уже максимум треков в очереди
+
+You are not in game
+== Ты не в игре
+
+You are not in the music world
+== Ты не в музыкальном мире
+
+You cannot afford that track
+== Тебе не хватает денег на этот трек
+
+You must be logged in
+== Нужно войти в аккаунт
+
+You must be logged in to queue a track
+== Нужно войти в аккаунт, чтобы заказать трек
+
+Your level is too low to queue a track
+== Твой уровень слишком мал, чтобы заказывать треки
+
+You must be logged in to search for tracks
+== Нужно войти в аккаунт, чтобы искать треки
+
+Your previous search is still running
+== Твой предыдущий поиск ещё выполняется
+
+{-} queued '{-} - {-}' for {}
+== {-} заказал '{-} - {-}' за {}
+
+Music
+== Музыка
+
+Search song in reason field
+== Поиск трека в поле причины
+
+max 15 chars, /song_search for longer
+== макс. 15 символов, для длинных запросов — /song_search
+
+Queue
+== Очередь
+
+Vote to skip
+== Голосовать за пропуск
+
+Price per second
+== Цена за секунду
+
+Search cooldown
+== Кулдаун поиска
+
+No results yet
+== Результатов пока нет
+
+Nothing is playing
+== Ничего не играет
+
+Remove (refund)
+== Убрать (с возвратом)
+
+That track cannot be played
+== Этот трек нельзя воспроизвести
+
+That result is no longer available
+== Этот результат больше недоступен
+
+A vote to skip this track is already running
+== Голосование за пропуск этого трека уже идёт
+
+The current track was skipped
+== Текущий трек был пропущен
+
+you removed the track
+== ты убрал трек
+
+track skipped before it started
+== трек пропущен до начала воспроизведения
+
+queue cleared
+== очередь очищена
+
+the world could not be reloaded
+== не удалось перезагрузить мир
+
+the track id was rejected
+== идентификатор трека отклонён
+
+the track could not be prepared
+== не удалось подготовить трек
+
+the track could not be downloaded
+== не удалось скачать трек
