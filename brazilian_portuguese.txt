@@ -4519,3 +4519,6 @@ Music Box
 Please wait {} seconds before starting another skip vote
 == Aguarde {} segundos antes de iniciar outra votação de pular
 
+That track is already in the queue
+== Essa faixa já está na fila
+
