@@ -4516,3 +4516,6 @@ Music Box
 <index>
 == <índice>
 
+Please wait {} seconds before starting another skip vote
+== Aguarde {} segundos antes de iniciar outra votação de pular
+

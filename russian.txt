@@ -4513,3 +4513,6 @@ Music Box
 <index>
 == <номер>
 
+Please wait {} seconds before starting another skip vote
+== Подожди {} секунд перед следующим голосованием за пропуск
+
