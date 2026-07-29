@@ -4504,3 +4504,12 @@ Max 15 characters
 Longer: use /song_search
 == Длиннее — через /song_search
 
+Music Box
+== Музыкальный ящик
+
+<Name>
+== <Название>
+
+<index>
+== <номер>
+
