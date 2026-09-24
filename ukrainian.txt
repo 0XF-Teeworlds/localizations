@@ -1,0 +1,4520 @@
+info
+== Інформація
+
+Back
+== Назад
+
+Username
+== Імʼя користувача
+
+verified
+== підтверджено
+
+not verified
+== не підтверджено
+
+Contact
+== Контакт
+
+Pin
+== ПІН-код 
+
+Level
+== Рівень
+
+Experience
+== Досвід
+
+Bank
+== Банк
+
+Wallet
+== Гаманець
+
+Laser-Ammo
+== Патрони для лазера
+
+Dash
+== Деші
+
+Shop
+== Магазин
+
+Statistic
+== Статистика
+
+Cash
+== Гроші
+
+Online
+== Онлайн
+
+Block
+== Блок
+
+Duel
+== Дуель
+
+Duel Block
+== Блок Дуель
+
+Arena
+== Арена
+
+Laser Room
+== Лазерна кімната
+
+Battle
+== Батл
+
+Catch
+== Наздоганялки
+
+Hide and Seek
+== Хованки
+
+Karting
+== Картинг
+
+Bomb
+== Бомба
+
+Spike
+== Шип
+
+Clan Cash
+== Гроші клана
+
+Clan Level
+== Рівень клана
+
+Roulette
+== Рулетка
+
+Crash
+== Краш
+
+GiftHunt
+== Полювання за подарунками
+
+Duel Fng
+== FNG Дуель
+
+Quest
+== Квест
+
+Reward
+== Нагорода
+
+Saves
+== Збереження
+
+Refresh
+== Оновити
+
+Load Save
+== Завантажити збереження
+
+Save-function is disabled on this server
+== Функція збереження вимкнена на цьому сервері
+
+No saves found.
+== Збереження не знайдені.
+
+Vote players
+== Вибір гравців
+
+Mails
+== Пошта
+
+FNG kill steal protection
+== FNG захист від стилу кілів
+
+FNG hook block protection
+== FNG захист від блоку гаком
+
+Extra weapon auto-switch
+== Автозміна доп. зброї
+
+│ ✔ Mark all as read
+== │ ✔ Помітити все прочитанним
+
+│ ⬇ Receive all items
+== │ ⬇ Забрати всі предмети
+
+│ ✘ Delete all read mails
+== │ ✘ Видалити всі прочитанні
+
+Name prefix
+== Префікс імені
+
+Authorize to get access to account benefits:
+== Авторизуйся для доступу:
+
+1. Register: '/register <username> <password>'
+== 1. Регістрація: '/register <username> <password>'
+
+2. Login: '/login <username> <password>'
+== 2. Авторизація: '/login <username> <password>'
+
+3. Protection: '/pin <pin>'
+== 3. ПІН: '/pin <pin>'
+
+Votes
+== Голосування
+
+Game Votes
+== Ігрові голосування
+
+Empty
+== Порожньо
+
+Deposit
+== Покласти на рахунок
+
+Withdraw
+== Вивести з рахунку
+
+Please specify correct amount in vote reason.
+== Вкажіть коректну суму в причині голосування.
+
+Use value in vote reason
+== Вкажіть суму в причині
+
+Leave reason blank to put all in (deposit only)
+== Порожня щоб покласти все
+
+Click tab to hide
+== Натисніть таб щоб сховати
+
+Arena.
+== Арена.
+
+Here you need to be the last one left alive in the arena.
+== Тут вам необхідно останнім залишитися живим на арені.
+
+The last player left in the arena gets a nice reward.
+== Останній гравець який залишився на арені отримує добру нагороду.
+
+In this team game, you need to get a team score high enough to win.
+== В цій командній грі вам необхідно набрати командний рахунок достатній для перемоги.
+
+Capture the opposing team's base and hold the flag.
+== Завойовуйте базу протилежної команди й утримуйте прапор.
+
+Bomb.
+== Бомба.
+
+If you have a flag, you have a bomb attached to you.
+== Якщо у вас є прапор, то на вас закріплена бомба.
+
+It will explode if you do not pass it to another player in the allotted time.
+== Вона вибухне якщо не передати її іншому гравцеві за відведений час.
+
+If you don't have a flag, you have to run away from the player with the flag.
+== Якщо у вас немає прапора, вам потрібно тікати від гравця з прапором.
+
+The laser should help you cross the obstacles faster.
+== Лазер має допомогти вам скоріше перетинати перешкоди.
+
+In this casino you have the opportunity to test your intuition and increase your money or, on the contrary, lose all your funds.
+== В цьому казино у вас є можливість перевірити свою інтуїцію й збільшити свої гроші або, навпаки, втратити усі свої кошти.
+
+To place a bet, write the command /bet <amount>, then select the desired bet type and left click with hammer on the bet type button.
+== Щоб зробити ставку, скористайтеся командою /bet <сума>, потім оберіть бажаний тип ставки і клацніть лівою кнопкою миші на кнопку типу ставки.
+
+Betting 1-12, 13-24, 24-36 gives x3 if you win (returns your bet and two more on top), at 0 gives x36, odd/red/black/even gives x2.
+== Ставка 1-12, 13-24, 24-36 даёт x3 при виграші (повертає вашу ставку і ще дві зверху), на 0 дає x36, непарне/червоне/чорне/парне дають  x2.
+
+Catching up.
+== Квач.
+
+If you have a flag, you must catch up and hit the hammer and freeze all players.
+== Якщо у вас є прапор, то ви повинні наздогнати й вдарити молотом і заморозити всіх гравців.
+
+If you don't have a flag, you must run away from the player with the flag.
+== Якщо у вас немає прапора, вам потрібно тікати від гравця з прапором.
+
+If your mate is frozen, hit him with the hammer 10 times to save him.
+== Якщо ваш товариш заморожений, вдарте його молотком 10 разів для спасіння.
+
+The laser should help you cross obstacles faster.
+== Лазер має допомогти вам скоріше перетинати перешкоди.
+
+Climbing.
+== Скалолазіння.
+
+In this mode you can slide on walls. Press the button to move towards the wall.
+== В цьому режимі у вас є можливість ковзати по стінам. Натисніть кнопку руху до стіни для цього.
+
+Once you get to the top you will be able to enter a special room.
+== Діставшись самого верху ви зможете пройти у спеціальну кімнату.
+
+Hide and seek.
+== Хованки.
+
+If you have a flag, you must catch up and hit all players with the hammer. The gun will help you to know the direction.
+== Якщо у вас є прапор, то ви маєте наздогнати й вдарити молотком всіх гравців. Пістолет допоможе вам дізнатись напрямок.
+
+If you don't have a flag, you have to hide from the player with the flag. You are not visible in grey areas until you are approached closely.
+== Якщо у вас немає прапора, вам треба ховатися від гравця з прапором. Вас не видно в сірих зонах до тих пір, поки до вас не підійдуть впритул.
+
+The hammer will help you activate your invisibility ability. Keep an eye on the progress bar, grey zones replenish your invisibility.
+== Молоток допоможе вам активувати вашу здатність невидимості. Слідкуйте за прогрес баром, сірі зони заповнюють ваш запас невидимості.
+
+Karting.
+== Картинг.
+
+Here you need to be the first to come to the finish line after driving the required number of laps.
+== Тут вам необхідно першим прийти до фінішу проїхавши необхідну кількість кіл.
+
+Collect money, they will come to you on account if you manage to complete the race.
+== Збирайте гроші, вони надійдуть вам на рахунок якщо ви встигнете завершити гонку.
+
+Pick up bonuses, they will help you get ahead of your rivals.
+== Підбирайте бонуси, вони допоможуть вам випереджати суперників.
+
+Undertale in Teeworlds.
+== Undertale на мінімалках.
+
+You need to stay in this room until the timer expires.
+== Вам необхіжно протриматися в цій кімнаті до закінчення таймера.
+
+Lasers will hinder you, you need to dodge and avoid them if you want to survive.
+== Лазери будуть заважати вам, тому необхідно ухилятися й уникати їх якщо ви хочете вижити.
+
+Hurry to enter the room with the reward, it opens 5 seconds before the timer expires.
+== Встигніть зайти в кімнату з нагородою, вона відкривається за 5 секунд до закінчення таймера.
+
+Use the command '/showothers' to see the other participants.
+== Скористайтеся командою '/showothers', щоб бачити решту учасників.
+
+Tournament.
+== Турнір. 
+
+Here you need to defeat all other participants.
+== Тут вам необхідно перемогти решту учасників.
+
+You need to win twice to advance to the next stage.
+== Вам необхідно два рази одержати перемогу для проходження до наступного етапу.
+
+The last player left in the tournament gets a nice reward.
+== Останній гравець що залишився в турнірі отримує добру нагороду.
+
+Roulette
+== Рулетка
+
+Members
+== Учасники
+
+All bets
+== Всі ставки
+
+Start in
+== Початок через
+
+Roulette result: Number: {}!
+== Результат рулетки: Номер: {}!
+
+You created bet ({}$ to {}), wait {} seconds until start.
+== Ви зробили ставку ({}$ на {}), зачекайте {} секунд до початку.
+
+zero
+== нуль
+
+odd
+== непарне
+
+red
+== червоне
+
+black
+== чорне
+
+even
+== парне
+
+Wait next round to choose bet type!
+== Чекайте наступного раунду щоб обрати тип ставки!
+
+Wait next round!
+== Зачекайте наступного раунду!
+
+Wait next round to make a bet!
+== Чекайте наступного раунду щоб зробити ставку!
+
+There is no game around you!
+== Поруч з вами немає гри!
+
+You need make a bet first, example '/bet 1'.
+== Вам потрібно спочатку зробити ставку, наприклад '/bet 1'.
+
+You make a bet {}$, now press one of the buttons with hammer to choose a type.
+== Ви зробили ставку {}$, тепер натисніть молотком на кнопки знизу для вибору типу ставки.
+
+You make a bet {}$, auto cash out on x{~.2}, wait {} seconds until start.
+== Ви зробили ставку {}$, авто вивід на x{~.2}, зачекайте {} секунд до початку.
+
+You make a bet {}$, auto cash out not specified, wait {} seconds until start.
+== Ви зробили ставку {}$, авто вивід не не заданий, зачекайте {} секунд до початку.
+
+You have not enough cash!
+== Недостатньо коштів в гаманці!
+
+Amount should be more than zero!
+== Значення має бути більше нуля!
+
+Bets available only in casino!
+== Ставки можна робити тільки в казино!
+
+Check your command, example: '/pay 100 Tee'.
+== Перевірте вашу команду, приклад: '/pay 100 Tee'.
+
+You don't have this cash amount.
+== У вас немає такої кількості грошей.
+
+The minimum amount for the transfer of money is {}.
+== Мінімальна кількість для передачі коштів це {}.
+
+Can't find player with given name.
+== Не вийшло знайти гравця з таким імʼям.
+
+Can't transfer cash to yourself.
+== Не можна передавати гроші самому собі.
+
+Bank disabled.
+== Банк вимкнен.
+
+You need to be logged in your account.
+== Вам необхідно авторизуватися в свій акаунт.
+
+Your character should be alive!
+== Ваш персонаж має бути живим!
+
+Target character should be alive!
+== Персонаж одержувача має бути живим!
+
+There is no bank near you!
+== Поруч з вами немає банка!
+
+You have no money on your account!
+== На вашому акаунті немає грошей!
+
+You have only {}$ on your account. This amount will be withdrawn to your wallet.
+== У вас є лише {}$ на акаунті. Ця сума буде видана вам в гаманець.
+
+Your wallet is empty!
+== Ваш гаманець порожній!
+
+You have only {}$ in your wallet. This amount will be deposited into your account.
+== У вас є лише {}$ в гаманці. Ця сума буде покладена на рахунок вашого акаунта.
+
+This player is not logged in.
+== Цей гравець не авторизован.
+
+Withdraw succeed, bank balance: {} (-{})
+== Виведення успішне, залишок в банку: {} (-{})
+
+Cash transferred, bank balance: {} (-{})
+== Гроші переведені, залишок в банку: {} (-{})
+
+Cash received, bank balance: {} (+{})
+== Гроші отримані, залишок в банку: {} (+{})
+
+Not verified. Use '/pin <pin>' to verify yourself.
+== Не підтверджений. Використовуйте '/pin <пин>' щоб підтвердити себе.
+
+You have been banned from the account system for {} seconds ({})
+== Ви заблоковані в системі аккаунтів на {} секунд ({})
+
+Too many pin fails
+== Занадто багато спроб введення ПІН-кода
+
+Already logged in, if you want change account write '/logout' first.
+== Вже авторизован. Якщо ви хочете змінити акаунт напишіть спочатку '/logout'.
+
+Account already in use.
+== Акаунт вже використовується.
+
+Not authorized!
+== Не авторизован!
+
+Successfully logout.
+== Ви успішно вийшли з акаунту.
+
+Wrong login length, allowed {}-{} symbols.
+== Неправильна довжина логіна, дозволено {}-{} символів.
+
+Wrong password length, allowed {}-{} symbols.
+== Неправильна довжина паролю, дозволено {}-{} символів.
+
+>>> SECURITY PIN <<<
+== >>> ПІН-КОД БЕЗПЕКИ <<<
+
+You should set a security pin to avoid account stealing. The pin itself has to be a 4-digit long number code.
+== Щоб уникнути крадіжки акаунта, необхідно встановити захисний пін-код. Сам пін-код має складатися із чотирьох цифр.
+
+This pin will be required to change your contact information or your password.
+== Цей пін буде необхідний для змінення контактної інформації або пароля.
+
+If your account is not secured yet, you can set a pin with '/pin <new-pin>'.
+== Якщо ваш акаунт ще не захищений, ви можете встановити пін-код за допомогою команди '/pin <новий-пін>'.
+
+If you want to change your pin, you first need to verify using '/pin <account-pin>'.
+== Якщо ви хочете змінити свій пін-код, спочатку необхідно пройти верифікацію за допомогою команди '/pin <поточний-пін>'.
+
+After verifying, you can set a new pin with '/pin <new-pin>'.
+== Після верифікації ви можете встановити новий пін за допомогою команди '/pin <новий-пін>'.
+
+Pin verification succeed!
+== Пін код верифікація пройдена!
+
+Pin verification failed!
+== Невірний пін код!
+
+New pin has to be a 4-digit long number code. Example: 1234.
+== Новий пін-код повинен складати із 4 цифр. Приклад: 1234.
+
+You need to enter a way to contact you, for example: Discord, E-Mail, Skype, etc.
+== Вам необхідно вказати спосіб зв'язку з вами, наприклад: Discord, E-Mail, Skype і т.д.
+
+To see your current contact information, use '/acc' command or 'Call vote' menu.
+== Щоб переглянути поточну контактну інформацію, скористайтеся командою '/acc' або меню 'Голосування'.
+
+You successfully authorized in your account.
+== Ви успішно авторизувалися у свій акаунт.
+
+WARNING! You did not set a contact, it can be used to recover your password or to get back the account after it got stolen.
+== УВАГА! Ви не встановили контакт, який може бути використаний для відновлення пароля чи возврата повернення акаунта після його крадіжки.
+
+Set a contact with '/contact <option>' to hide this message.
+== Встановіть контакт за допомогою '/contact <контакт>', щоб сховати це повідомлення.
+
+WARNING! You did not set security pin yet. Check command '/pin' for more information.
+== УВАГА! Ви ще не встановили пін безпеки. Перевірте команду '/pin' для отримання додаткової інформації.
+
+WARNING! You didn't link discord, it can be used to recover your account.
+== УВАГА! Ви не прив'язали діскорд, який може бути використаний для відновлення акаунта.
+
+Link discord using '/link_discord' to hide this message.
+== Встановіть контакт за допомогою '/link_discord', щоб сховати це повідомлення.
+
+Balance updated: {} ({-}{})
+== Баланс оновлено: {} ({-}{})
+
+Wrong item identifier!
+== Невірний ідентифікатор предмета!
+
+times
+== раз
+
+unknown
+== Невідомий
+
+Use 'Call vote' menu to access shop!
+== Використовуйте меню 'Голосування' для доступа до магазину!
+
+Your protected nickname is now '{-}'. Contact administration to change it.
+== Ваш захищений нікнейм тепер '{-}'. Для змінення зв'яжіться з адміністрацією.
+
+You in the bank, write '/bank' for info.
+== Ви у банку, напишіть '/bank' для інформації.
+
+Or use 'Bank' in 'Call vote' menu.
+== Або використовуйте 'Банк' в меню голосування.
+
+'{-}'s blocking spree was ended by '{-}' ({} Kills)
+== Серія блок убивств '{-}' була завершена '{-}' ({} убивств)
+
+'{-}' is on a blocking spree with {} kills!
+== '{-}' провів серію із {} блок убивств!
+
+Entered ghost mode:
+== Вхід в режим привида:
+
+No collision, No hook, No hit
+== Нема колізії, нема гака, нема ударів 
+
+Respawn will return you to game mode
+== Респаун поверне вас в режим гри
+
+Leaved ghost mode.
+== Вихід з режиму привида.
+
+No ammo.
+== Нема патронів.
+
+Too long distance to make portal.
+== Дуже велика дистанція для створення портала.
+
+Too long distance to make wall.
+== Дуже велика дистанція для створення стіни.
+
+Laser ammo updated.
+== Патрони для лазеру оновленні.
+
+Time increased.
+== Час збільшено.
+
+Invisible charged.
+== Невидимість заповнена.
+
+Rescue!
+== Відновлення!
+
+Health and armor charged.
+== Здоров'я і броня відновленні.
+
+Teams should be balanced, can't join at this moment!
+== Команди повинні бути збалансовані, приєднання в даний момент неможливе!
+
+Now you're a hunter, catch someone or die.
+== Тепер ти мисливець, спіймай кого-небудь або помри.
+
+Invisible on cooldown!
+== Невидимість на перезарядці!
+
+You have been released from jail.
+== Вас випустили із тюрми.
+
+You have been released from jail early by the moderator.
+== Вас випустили із тюрми достроково.
+
+There is no top player yet.
+== Поки що немає першого гравця в топі.
+
+Only the first top player on the list can get it.
+== Отримати це може тільки перший гравець у списку топ гравців.
+
+You got your crown.
+== Ви отримали свою корону.
+
+This map does not contain duel arena.
+== Ця мапа не містить дуельної арени.
+
+You are already in duel.
+== Ви вже в дуелі.
+
+You can't create duel while frozen.
+== Ви не можете почати дуель, поки замороженні.
+
+Your client is not verified or verification in progress.
+== Ваш клієнт не перевірений або верифікація ще в процесі.
+
+You don't have any pending requests.
+== У вас нема очікуваних заявок.
+
+Don't move {} seconds.
+== Не рухайтесь {} секунд.
+
+Duel reward updated: Cash: {}$, Jail: {} seconds.
+== Оновлена нагорода дуелі: Гроші:{}$, Тюрма:{} секунд.
+
+WARNING! Duel reward: Cash: {}$, Jail: {} seconds!
+== УВАГА! Нагорода дуелі: Гроші:{}$, Тюрма:{} секунд.
+
+Not enough cash ({}$ required), use '/duel_cash <amount>' to change duel reward.
+== Недостатньо грошей в гаманці (потрібно {}$), використовуйте '/duel_cash <кількість>' щоб змінити нагороду дуелі.
+
+Not enough cash to accept duel ({}$ required).
+== Недостатньо грошей в гаманці, щоб прийняти дуель (потрібно {}$).
+
+You have already pending request to this player.
+== У вас вже є очікуваний запрос цьому гравцю.
+
+Player is already in duel.
+== Гравець вже бере участь в дуелі.
+
+Request sent.
+== Запрос відправлений.
+
+New request from {-} for duel! Type '/duel <name>' to accept.
+== Новий запрос від {-} на дуель! Уведіть '/duel <імʼя>', щоб прийняти його.
+
+Can't find empty team for you! Try later.
+== Не можу знайти для вас вільну команду! Спробуйте пізніше.
+
+Duel accepted.
+== Дуель прийнята.
+
+Duel request with '{-}' is expired.
+== Запрошення на дуель з '{-}' закінчилося.
+
+Duel request is expired.
+== Запрошення на дуель закінчилося.
+
+\[{}] No winner in this game, good luck next time guys!
+== [{}] Немає переможців у цій грі, вдачі у наступний раз!
+
+\[{}] You won! You got {}$.
+== [{}] Перемога! Ваш приз {}$.
+
+\[{}] '{-}' won!
+== [{}] '{-}' переміг!
+
+\[{}] '{-}' vs '{-}' ended with tie!
+== [{}] '{-} проти '{-}' закінчилася внічию!
+
+\[{}] '{-}' vs '{-}' ended by timeout!
+== [{}] '{-} проти '{-}' закінчилася після закінчення часу!
+
+\[{}] '{-}' won '{-}' with score {} - {}!{}
+== [{}] '{-}' переміг '{-}' з рахунком {} - {}!{}
+
+\[{}] '{-}' won '{-}' round with score {} [{}] - {} [{}]!
+== [{}] '{-}' переміг раунд у '{-}' з рахунком {} [{}] - {} [{}]!
+
+\[{}] Team {} won with score {} - {}!
+== [{}] Команда {} перемогла з рахунком {} - {}!
+
+\[{}] Team {} won with score {} [{}] - {} [{}]!
+== [{}] Команда {} перемогла з рахунком {} [{}] - {} [{}]!
+
+\[{}] Team '{-}' won with score {} - {}!
+== [{}] Команда '{-}' перемогла з рахунком {} - {}!
+
+\[{}] Team '{-}' won with score {} [{}] - {} [{}]!
+== [{}] Команда '{-}' перемогла з рахунком {} [{}] - {} [{}]!
+
+\[{}] Clan '{-}' won with score {} - {}!
+== [{}] Клан '{-}' переміг з рахунком {} - {}!
+
+\[{}] Clan '{-}' won with score {} [{}] - {} [{}]!
+== [{}] Клан '{-}' переміг з рахунком {} [{}] - {} [{}]!
+
+Score set to {} for '{-}' (by '{-}')
+== Рахунок встановлений на {} для '{-}' (від '{-}')
+
+Team score ({}) set to {} (by '{-}')
+== Командний встановлений в {} ('{-}')
+
+{} stopped (by '{-}')
+== {} зупинена (від '{-}')
+
+{} {} (by '{-}')
+== {} {} (від '{-}')
+
+paused
+== поставлено на паузу
+
+resumed
+== продовжено
+
+\[{}] Sorry, {-}, you lose.
+== [{}] Вибачте, {-}, ви програли.
+
+You can deposit and withdraw money from your account, use the commands '/deposit <amount>' and '/withdraw <amount>'.
+== Ви можете поповнювати і знімати кошти зі свого рахунка, використовуючи команди '/deposit <сума>' і '/withdraw <сума>'.
+
+You can also transfer money to another player, use '/pay <amount> <name>'.
+== Ви також можете перевести гроші іншому гравцю, використовуючи команду '/pay <сума> <імʼя>'.
+
+Wrong room number. We changed room numbers, check shop to get actual.
+== Неправильний номер кімнати. Ми змінили номера кімнат, перевірте в магазині актуальні номера.
+
+You loaded from saved state.
+== Ви завантажилися зі збереженого стану.
+
+Can't start game.
+== Неможливо почати гру.
+
+You can't exit from this game.
+== Ви не можете вийти з цього типу гри.
+
+Game id '{}' is not mapped with game.
+== Ідентифікатор гри '{}' не зіставлений з грою.
+
+{} stopped.
+== {} зупинено.
+
+You can't join while you're carrying the flag.
+== Ви не можете приєднатися, поки несете прапор.
+
+You can't do that while you're in the jail.
+== Ви не можете це зробити поки знаходитеся в тюрмі.
+
+Wrong game ID.
+== Неправильний тип гри.
+
+{} is not started.
+== {} не запущений.
+
+Can't join with dummy!
+== Неможливо приєднатися з даммі!
+
+Kill Protection enabled. Use /exit to leave game.
+== Увімкнений захист від респауна. Скористайтеся /exit, щоб покинути гру.
+
+King of Hill already started, wait until the end.
+== Гра King of Hill вже почалася, дочекайтеся закінчення.
+
+'{-}' is the King and received {}$!
+== '{-}' - Король в цій зоні і отримав {}$!
+
+Room is available in shop.
+== Кімната доступна в магазині.
+
+You are not room member.
+== Ви не є учасником кімнати.
+
+You are not room editor.
+== Ви не є редактором кімнати.
+
+Spawn disabled.
+== Спаун вимкнений.
+
+Spawn enabled.
+== Спаун увімкнений.
+
+You can't invite yourself.
+== Ви не можете запросити себе.
+
+Player already is room member.
+== Гравець вже є учасником кімнати.
+
+Only owners can do that.
+== Тільки власники можуть це зробити.
+
+Not allowed to do that with room owner.
+== Власники кімнати не можуть бути обмежені в правах.
+
+Player is not a room member.
+== Гравець не є учасником кімнати.
+
+Member added to room {}.
+== Учасник доданий у кімнату {}.
+
+You were added to room {}.
+== Ви були додані в кімнату {}.
+
+You removed member from room {}.
+== Ви видалили учасника із кімнати {}.
+
+You were removed from members of room {}.
+== Ви були видалені з учасників кімнати {}.
+
+Room {}, members: {}, owner: '{-}', until {}
+== Кімната {}, учасники: {}, власник: '{-}', до {}
+
+You need to set your player's clan first.
+== Cпочатку вам необхідно вказати клан у вашого гравця.
+
+New tag could not be empty.
+== Новий тег не може бути порожнім.
+
+Clan invitation for '{-}' is expired.
+== Запрошення в клан для '{-}' минуло.
+
+Clan '{-}' invitation is expired.
+== Запрошення в клан '{-}' минуло.
+
+Invitation to clan '{-}' from '{-}'.
+== Запрошення в клан '{-}' від '{-}'.
+
+Type '/clan_accept <tag>' to accept.
+== Напишіть '/clan_accept <тег>' щоб прийняти.
+
+Login in or create account to get full game experience.
+== Авторизуйтеся або створіть акаунт для збереження ігрового прогресу.
+
+Lv
+== Ур
+
+Exp
+== Досвід
+
+You have been moved to jail for {} seconds. ({})
+== Ви посаджені в тюрму на {} секунд. ({})
+
+Already in quest!
+== Уже в квесті!
+
+There is no quest for your level.
+== Для вашого рівня немає квестів.
+
+You can't do it in this game.
+== Ви не можете це зробити в цій грі.
+
+You are not in the team 0.
+== Ви не в нульовій команді.
+
+Target is not in the team 0.
+== Отримувач не в нульовій команді. 
+
+You can't enter level quest while you're carrying the flag.
+== Ви не можете перейти в квест поки несете прапор.
+
+Quest passed!
+== Квест пройдено!
+
+Quest failed!
+== Квест провалено!
+
+You need to be in drawer mode.
+== Вам необхідно бути в режимі малювання.
+
+Saving your drawing...
+== Зберігаю ваш малюнок...
+
+Loading your drawing...
+== Завантажую ваш малюнок...
+
+Can't load drawing!
+== Не вдалося завантажити малюнок!
+
+Your drawing loaded!
+== Ваш малюнок завантажений!
+
+King of Hill circle radius decreased!
+== King of Hill радіус круга зменшений!
+
+King of Hill closed. Nobody won.
+== Гра King of Hill закінчена. Переможців немає.
+
+King of Hill ({} contestants) {}1
+== King of Hill ({} учасників) {}1
+
+King of Hill ({}/{} points [{}%])
+== King of Hill ({}/{} очок [{}%])
+
+You removed member edit permission from room {}.
+== Ви забрали права на редагування в учасника кімнати {}.
+
+You were removed from editors of room {}.
+== Ви були видалені з редакторів кімнати {}.
+
+{}. Room: {}, until: {}, price: {}$, seller: {-}
+== {}. Кімната: {}, до: {}, ціна: {}$, продавець: {-}
+
+Lot not found.
+== Лот не знайдено.
+
+Lot canceled.
+== Лот скасовано.
+
+Lot already exists.
+== Лот вже існує.
+
+Only seller could cancel lot.
+== Тільки продавець може відмінити лот.
+
+Transaction failed.
+== Транзакція не виконана.
+
+Lot purchased, bank balance: {} (-{})
+== Лот куплений, залишок в банку: {} (-{})
+
+There is no active lots.
+== Нема активних лотів.
+
+Use '/room_spawn {}' to toggle spawn in room.
+== Використовуйте '/room_spawn {}' для перемикання респауна в кімнаті.
+
+Use '/room_edit {}' to toggle room item edit mode.
+== Використовуйте '/room_edit {}' для перемикання редагування предметів в кімнаті.
+
+Use '/room_invite {} <name>' to invite member.
+== Використовуйте '/room_invite {} <імʼя>' для запрошення учасників.
+
+You can't buy self lot.
+== Ви не можете купити свій же лот.
+
+Lot sold, bank balance: {} (+{})
+== Лот продано, залишок в банку: {} (+{})
+
+Another player purchase processing, try later.
+== Обробка транзакції іншого гравця, спробуйте пізніше.
+
+You give member editor permission for room {}.
+== Ви дали учаснику дозвіл на редагування в кімнаті {}.
+
+You got editor permission for room {}.
+== Ви отримали дозвіл на редагування в кімнаті {}.
+
+Scroll: choose item
+== Скролл: зміна предмета
+
+LMB: place item
+== ЛКМ: поставити предмет
+
+RMB: remove item
+== ПКМ: видалити предмет
+
+F3: prev option
+== F3: попередня опція
+
+F4: next option
+== F4: наступна опція
+
+S: switch mode
+== S: зміна режиму
+
+Rotation
+== Обертання
+
+Color
+== Колір
+
+Thickness
+== Товщина
+
+Centered
+== Центрівка
+
+Rotation angle
+== Кут обертання
+
+Heart
+== Серце
+
+Shield
+== Броня
+
+Key
+== Ключ
+
+Door
+== Двері
+
+Speedup
+== Прискорювач
+
+Brush
+== Пензель
+
+items
+== предметів
+
+Can't find account.
+== Акаунт не знайдено.
+
+Not enough cash on account.
+== Недостатньо коштів на рахунку.
+
+Login already exists.
+== Такий логін вже існує.
+
+You can't register more accounts, limit reached.
+== Ви не можете реєструвати більше акаунтів, перевищено ліміт.
+
+You successfully registered. Login now with '/login <login> <pw>'.
+== Ви зареєстровані. Авторизуйтесь командою '/login <логін> <пароль>'
+
+Wrong login and/or password. Please check it and try again.
+== Неправильний логін і/або пароль. Будь ласка перевірте їх и спробуйте знову.
+
+Account blocked.
+== Акаунт заблоковано.
+
+Password successfully changed.
+== Пароль успішно змінено.
+
+Pin code successfully changed.
+== ПІН-код успішно змінено.
+
+Old pin code is wrong.
+== Старий ПІН-код введений невірно.
+
+Contact successfully changed.
+== Контакт успішно змінено.
+
+Wrong old password.
+== Старий пароль введений невірно.
+
+Role successfully changed.
+== Роль успішно змінена.
+
+Too many members in room.
+== Занадто багато учасників в кімнаті.
+
+'{-}' scored for red team!
+== '{-}' збільшив рахунок червоної команди!
+
+'{-}' scored for blue team!
+== '{-}' збільшив рахунок синьої команди!
+
+Football
+== Футбол
+
+In this game you need to get the ball into the opposing team's goal.
+== В цій грі вам потрібно щоб м'яч залетів у ворота протилежної команди.
+
+Not enough players to start event.
+== Недостатньо гравців для початку заходу.
+
+You are not allowed to participate in event.
+== Вам не дозволено брати участь в заході.
+
+Duels not allowed in this zone.
+== Дуелі не дозволені в цій зоні.
+
+Hook weapon
+== Хук зброї
+
+Duels allowed in this zone.
+== Дуелі дозволені в цій зоні.
+
+Duels forbidden in this zone.
+== Дуелі заборонені в цій зоні
+
+In this game, you need to withdraw your money before the 'Crash' happens.
+== В цій грі вам необхідно вивести гроші раніше ніж станеться 'Crash'.
+
+To start the game you need to bet '/bet <amount> <coefficient>' during betting.
+== Для початку гри вам необхідно зробити ставку '/bet <amount> <coefficient>' під час внесення ставок.
+
+You don't have to enter a coefficient, but if you do, the money will be withdrawn when the specified coefficient is reached. Be careful with this coefficient!
+== Коефіцієнт необов'язково вводити, але якщо ви його вкажете то гроші будуть виведені при досягненні зазаначеного коефіцієнта. Будьте обережні з виставленням цього коефіцієнта!
+
+Coefficient should be not less then {~.2}!
+== Коефіцієнт повинен бути не менш ніж {~.2}!
+
+Wait until your current bet will be finished!
+== Зачекайте поки ваша поточна ставка буде завершена!
+
+Wait until event finished!
+== Зачекайте закінчення івенту!
+
+Clan '{-}' reached new level {}!
+== Клан '{-}' досяг рівня {}!
+
+Donor
+== Донор
+
+Hats
+== Капелюхи
+
+Trails
+== Сліди
+
+Guns
+== Пістолети
+
+Avatars
+== Аватари
+
+Rooms
+== Кімнати
+
+Map design
+== Дизайн карти
+
+Design not found, use '/design' to check available.
+== Дизайн не знайдено, скористайся '/design' щоб вивести список.
+
+Spawn point set.
+== Точка відродження встановлена.
+
+Auto login into account on join
+== Автологін в акаунт при вході
+
+Options
+== Опції
+
+Passive mode activated for {} seconds.
+== Пасивний режим активований на {} секунд.
+
+Passive mode reset.
+== Пасивний режим скинутий.
+
+Your clan is not registered.
+== Ваш клан не зареєстрований.
+
+Register Clan
+== Зареєструйте клан
+
+Print Members
+== Показати учасників
+
+Invite Members
+== Запросити учасників
+
+Kick Members
+== Вигнати учасників
+
+Set role
+== Встановити роль
+
+Delete Clan
+== Видалити клан
+
+Leave Clan
+== Вийти з клану
+
+Rename Clan
+== Перейменувати клан
+
+You are not a clan member.
+== Ви не перебуваєте в цьому клані
+
+Role
+== Роль
+
+Owner
+== Власник
+
+Moderator
+== Модератор
+
+Member
+== Учасник
+
+Clan Tag
+== Клан-Тег
+
+Use reason to set command <parameter>
+== В причині <параметр>
+
+Transfer Ownership
+== Передати право володіння
+
+Wrong role name, available: [member|moder|owner].
+== Неправильна назва ролі, існують: [member|moder|owner].
+
+Wallet disabled.
+== Гаманець відключено.
+
+You need to reach {} level to create clan.
+== Вам потрібно досягнути {} рівня щоб створити клан.
+
+You need to reach {} level to pass.
+== Вам потрібно досягнути {} рівня щоб пройти.
+
+Vip indicator
+== Віп індикатор
+
+Designs disabled.
+== Дизайни вимкнені.
+
+Hunters
+== Мисливці
+
+Cooldown
+== Кулдаун
+
+Invisible
+== Невидимість
+
+Time left
+== Залишилось часу
+
+Hunter time left
+== Час мисливця
+
+Bombs
+== Бомб
+
+Coefficient
+== Коефіцієнт
+
+Crash
+== Краш
+
+Waiting players to continue..
+== Чекаємо гравців щоб продовжити..
+
+is starting
+== Починається
+
+Not allowed to logout in duel.
+== Вихід з акаунту в дуелі не дозволено.
+
+'{}' arena id updated: {} ({})
+== Айді арени '{}' оновлений: {} ({})
+
+Duel arena id: {} ({})
+== Айді арени для дуелі: {} ({})
+
+Available arenas: {}
+== Доступні арени: {}
+
+Move please to remove afk state.
+== Зсуньтеся з місця, щоб вийти з AFK.
+
+Score for '{-}'!
+== Рахунок збільшено '{-}'!
+
+Draw.
+== Нічия.
+
+Duel request with '{-}' was canceled.
+== Запит на дуель з '{-}' був скасований.
+
+Duel request was canceled.
+== Запит на дуель був скасований.
+
+'{-}' canceled duel request.
+== '{-}' скасував запит дуелі.
+
+There is no pending duel request.
+== Немає запитів дуелі.
+
+All duel requests ignore: {}.
+== Ігнорування всіх запитів дуелей: {}.
+
+Enabled
+== Увімкнено
+
+Disabled
+== Вимкнено
+
+Rating duel search stopped.
+== Пошук рейтингової дуелі зупинено.
+
+Rating duel search started.
+== Розпочато пошук рейтингової дуелі.
+
+Always rating duel search
+== Постійний пошук рейтингової дуелі
+
+Rating duel found. Creating match.
+== Рейтингова дуель знайдена. Створюємо матч.
+
+Rating: {} ({}{})
+== Рейтинг: {} ({}{})
+
+Rating
+== Рейтинг
+
+Calibrating
+== Калібрування
+
+Rating calibrating ({}/{}) games played.
+== Калібрування рейтинга ({}/{}) ігор зіграно.
+
+Games
+== Ігор
+
+Search available only in zero team.
+== Пошук доступний лише в нульовій команді.
+
+Search available only if not participate in duel and no outgoing duel requests sent.
+== Пошук доступний лише поза дуелі і немає відправленних вихідних запитів дуелі.
+
+Search rating duel will not be cancelled once the duel is over.
+== Пошук рейтингової дуелі не буде скасовано після завершення дуелі.
+
+Search rating duel will be cancelled once the duel is over.
+== Пошук рейтингової дуелі буде скасовано після завершення дуелі.
+
+Search available only from main player.
+== Пошук доступний тільки з основного гравця.
+
+{} starts in {} seconds.
+== {} почнеться через {} секунд.
+
+Searching rating duel
+== Пошук рейтингової дуелі
+
+Search Time
+== Час пошуку
+
+Rating Duel
+== Рейтингова дуель
+
+In search
+== В пошуку
+
+Bronze
+== Бронза
+
+Silver
+== Срібло
+
+Gold
+== Золото
+
+Platinum
+== Платина
+
+Legend
+== Легенда
+
+Mythical
+== Міфічний
+
+Divine
+== Божество
+
+You have the opportunity to play a ranked duel with a suitable opponent as he has been on the lookout for too long.
+== У Вас є можливість зіграти рейтингову дуель з відповідним супротивником, так як він занадто довго знаходиться в пошуку.
+
+Type '/accept rating' to play.
+== Пропишіть '/accept rating' щоб прийняти.
+
+Since you've been on the lookout for too long, a request to compete with a suitable player has been sent.
+== Так як ви занадто довго знаходитесь в пошуку, був відправлений запит на суперництво відповідному гравцю.
+
+Arena {} removed from blacklist.
+== Арена {} видалена з чорного списку.
+
+Arena {} added to blacklist.
+== Арена {} додана в чорний список.
+
+Too many arenas in blacklist already, remove any to add new one. Blacklist: {}
+== Занадто багато арен в чорному списку, видаліть любу щоб додати нову. Чорний список: {}
+
+Disable Search
+== Вимкнути пошук
+
+Enable Search
+== Увімкнути пошук
+
+Add arena to blacklist:
+== Додати арену в чорний список:
+
+Use dashes
+== Використовувати деші
+
+Opponent duel skin
+== Скін супротивника в дуелях
+
+DND
+== Не турбувати
+
+Network mode
+== Мережевий режим
+
+Server preference: Responsive
+== Політика сервера: Чуйний
+
+Server preference: Balanced
+== Політика сервера: Збалансований
+
+Balanced
+== Збалансований
+
+Responsive
+== Чуйний
+
+Exited rating duel
+== Вихід з рейтингової дуелі
+
+Rating duel request is expired.
+== Запит на рейтингову дуель минув.
+
+Ranks information:
+== Інформація про ранки:
+
+Not allowed.
+== Hе дозволено.
+
+Choose donor name prefix:
+== Оберіть донор префікс:
+
+Choose vip name prefix:
+== Оберіть віп префікс:
+
+You are not a VIP.
+== Ви не VIP.
+
+You are not the Donor.
+== Ви не донор.
+
+Contact admin for more information.
+== Зв'яжіться з адміном для інформації.
+
+Weekend Boost
+== Буст вихідних
+
+Vip Boost
+== Віп буст
+
+Discount
+== Знижка
+
+\[{}] The {} won with score {} - {}!
+== [{}] {} перемогла з рахунком {} - {}!
+
+Cosmetic
+== Косметика
+
+VIP items:
+== VIP предмети:
+
+Donor items:
+== Донор предмети:
+
+Freeze players from the opposing team and throw them into the scoring area.
+== Заморожуйте гравців із протилежної команди та закидайте в зону отримання очок.
+
+Can't report youself.
+== Не можна подати репорт на самого себе.
+
+Reports are disabled on the server.
+== Репорти вимкнені на сервері.
+
+Report to '{-}' sent. Message: {-}
+== Репорт на '{-}' був відправлений. Повідомлення: {-}
+
+Your report to '{-}' has been {}.
+== Ваш репорт на '{-}' був {}.
+
+accepted
+== прийнятий
+
+rejected
+== відхилений
+
+You are banned from reports system for the next {} seconds.
+== Ви заблоковані в системі репортів протягом наступних {} секунд.
+
+You have been unbanned from report system.
+== Ви були розблоковані в системі репортів.
+
+You have been unbanned from report system early by moderator.
+== Ви були розблоковані в системі репортів достроково.
+
+You have been banned in report system for {} seconds. ({})
+== Ви заблоковані в системі репортів на {} секунд. ({})
+
+Please try later.
+== Будь ласка спробуйте пізніше.
+
+Only loggined tournament participant allowed on server
+== Лише залогінені учасники турніру можуть знаходитися на сервері
+
+Login in account or ban ({} s) in {} seconds
+== Увійдіть в акаунт або бан ({} с) через {} секунд
+
+Your account approved for tournament.
+== Ваш акаунт підтверждено для участі в турнірі.
+
+Day: {}
+== День: {}
+
+Daily reward already received!
+== Щоденна нагорода вже отримана!
+
+Rating reward already received!
+== Рейтингова нагорода вже отримана!
+
+You have completed the daily quests (Day {}) and are receiving your reward!
+== Ви завершили щоденні завдання (День {}) і отримуєте нагороду!
+
+Reward tasks:
+== Завдання:
+
+King of Hill opened!
+== King of Hill відкритий!
+
+Until next level:
+== До наступного рівня
+
+There is no tasks for next level
+== Немає задач для вашого рівня
+
+Level: {}
+== Рівень: {}
+
+Get rating reward:
+== Отримати рейтингову нагороду:
+
+Rating reward in
+== Рейтингова нагорода через
+
+Level frags
+== Фраги рівня
+
+Rating is disabled on server.
+== Рейтинг вимкнений на сервері.
+
+Reward for participation: {}$, {} frags
+== Нагорода за участь: {}$, {} frags
+
+You have been unmuted after your mute duration ended. Don't break the rules again!
+== Ви були розмучені після закінчення терміну. Не порушуйте правила знову!
+
+You have been unmuted early by the moderator. Enjoy your chat, and please avoid any more violations.
+== Ви були розмучені достроково. Насолоджуйтесь спілкуванням!
+
+Cycle between level and rating
+== Перемикати між рівнем та рейтингом
+
+Show as score in scoreboard:
+== Показувати у якості рахунка в табі:
+
+You can't do that.
+== Ви не можете зробити цього.
+
+The duel jail reward has been reset. You can't jail your dummy.
+== Нагорода у вигляді тюрми була скинута. Ви не можете посадити в тюрму свого даммі.
+
+The rating calibrating has ended. You got the {} Rank.
+== Рейтингове калібрування було закінчено. Ви отримали ранг {}.
+
+Congratulations! '{-}' has achieved the {} Rank.
+== Вітаємо! '{-}' досяг ранга {}.
+
+'{-}' ended his calibration and got the {} Rank.
+== '{-}' закінчив калібрування і отримав ранг {}.
+
+Rating: {}
+== Рейтинг: {}
+
+Winrate: {}/{} ({~.2}%)
+== Відсоток перемог: {}/{} ({~.2}%)
+
+Your discord link code is {-}. It lasts for {} {t}.
+== Ваш код прив'язки дискорду - {-}. Він триває {} {t}.
+
+Natural physic prediction
+== Природнє передбачення фізики
+
+Kill Protection enabled. Press the kill button {} {} if you are sure.
+== Увімкнений захист від респауна. Натисніть на кнопку кіла ще раз {} {},якщо ви впевнені.
+
+more time
+== раз
+
+more times
+== раза
+
+linked
+== прив'язаний
+
+press to link
+== натисніть для прив'язки
+
+You have already linked your discord account. Contact admins if you want to change.
+== Ви вже прив'язали свій дискорд акаунт. Зв'яжіться з адміністрацією, якщо хочете змінити його.
+
+Get an account with '/register <name> <pw>'.
+== Створіть акаунт: '/register <імʼя> <пароль>'.
+
+Staff
+== Стаф
+
+Choose staff name prefix:
+== Обрати префікс стафа:
+
+Staff items:
+== Стаф предмети:
+
+Media
+== Медіа
+
+Choose media name prefix:
+== Обрати префікс медіа:
+
+Media items:
+== Медіа предмети:
+
+'{-}' was transferred to '{}'
+== '{-}' відправився на '{}'
+
+'{-}' has left the game ({-})
+== '{-}' залишив гру ({-})
+
+'{-}' has left the game
+== '{-}' залишив гру
+
+Level Up! Current level: {}
+== Підвищення рівня! Поточний рівень: {}
+
+'{-}' entered and joined the {}
+== '{-}' зайшов і приєднався до {}
+
+game
+== гри
+
+spectators
+== спостерігачам
+
+'{-}' has been muted for {-} seconds ({-})
+== '{-}' був замучений на {-} секунд ({-})
+
+'{-}' has been muted for {-} seconds
+== '{-}' був замучений на {-} секунд
+
+Not enough amount for drop {}/{}.
+== Недостатня кількість для викиду {}/{}.
+
+Minimal drop amount is {}.
+== Мінімальна кількість для викиду {}.
+
+Duel found. Creating match.
+== Дуель знайдено. Створюємо матч.
+
+Duels are disabled on server.
+== Дуелі вимкнені на сервері.
+
+You can't search for duel while rating search is active.
+== Ви не можете шукати дуель, поки активний пошук рейтингової дуелі.
+
+Duel search started.
+== Пошук дуелі розпочато.
+
+Duel search stopped.
+== Пошук дуелі зупинено.
+
+Searching duel
+== Пошук дуелі
+
+You can't search for rating duel while duel search is active.
+== Ви не можете шукати рейтингову дуель, поки пршук дуелі активний.
+
+'{-}' is on a fury with {} kills! A bounty is now on his head!
+== '{-}' в шаленій люті з {} убивствами підряд! Тепер на його голові нагорода!
+
+'{-}' is causing chaos with {} kills! Take his head for a bounty!
+== '{-}' творить хаос, на його рахунку {} убивств підряд! Тепер за його голову призначена нагорода!
+
+Attention! '{-}' is on bursting killing spree of {} kills, and now there is a bounty on his head!
+== УВАГА! '{-}' на вибуховий бурі з {} убивств підряд! Тепер на його голові лежить нагорода у вигляді грошей!
+
+'{-}' took down '{-}' and claimed a reward of {}$! Bounty Hunt is over!
+== '{-}' вбив '{-}' і забрав нагороду в {}$! Полювання за головами завершено!
+
+'{-}' eliminated '{-}' and earned {}$! Bounty Hunt is over!
+== '{-}' ліквідував '{-}' і заробив {}$! Полювання за головами завершено!
+
+'{-}' slayed the target '{-}' and got away with {}$! Bounty Hunt is over!
+== '{-}' вбив ціль '{-}' і забрав {}$! Полювання за головами закінчено!
+
+Nobody could manage to kill '{-}' in time! Bounty Hunt is over!
+== Ніхто не зміг убити '{-}' за відведений час! Полювання за головами закінчено!
+
+Rules
+== Правила
+
+'{-}' has ran away! Bounty Hunt is over!
+== '{-}' втік! Полювання за головами завершено!
+
+'{-}' was frightened by '{-}' and dropped {}$! The Bounty Hunt is over!
+== '{-}' був наляканий '{-}' і упустив {}$! Полювання за головами закінчено!
+
+'{-}' was frozen to the bones by '{-}' and dropped {}$! The Bounty Hunt is over!
+== '{-}' був заморожений до кісток '{-}' і упустив {}$! Полювання за головами закінчено!
+
+Block Spree
+== Блок серія
+
+Can't transfer cash while jailed.
+== Не можна передавати гроші, поки ви знаходитесь у джайлі.
+
+Can't transfer cash to jailed player.
+== Не можна передавати гроші ув'язненим.
+
+You need to reach {} level to start rating search.
+== Вам необхідно досягнуть {} ріаня, щоб почати пошук рейтингової дуелі.
+
+There is an incoming report from {-} to {-}. Check the discord.
+== З'явився новий репорт від {-} на {-}. Перевірте дискорд.
+
+Always duel search
+== Постійний пошук дуелі
+
+Portals forbidden in this zone.
+== Портали заборонені в цій зоні.
+
+Portals allowed in this zone.
+== Портали дозволені в цій зоні.
+
+You have added {-} to duel ignore list.
+== Ви додали {-} в список ігнорування дуелей.
+
+You have removed {-} from duel ignore list.
+== Ви вилучили {-} зі списку ігнорування дуелей.
+
+You can't add yourself to duel ignore list.
+== Ви не можете додати себе у список ігнорування дуелей.
+
+You can't use chat right now. Please wait.
+== Ви не можете використовувати чат зараз. Зачекайте.
+
+You client is being verified or seems bad. Get official client from ddnet.org/downloads
+== Ваш кієнт проходить верифікацію або є підозрюваним. Завантажте офіційний клієнт з ddnet.org/downloads
+
+players
+== гравців
+
+Progress
+== Прогрес
+
+Completed
+== Завершено
+
+Not enough level ({}/{}) to access '{}'.
+== Недостатній рівень ({}/{}) для доступу до '{}'.
+
+'{}' access from {} level
+== '{}' доступно з {} рівня
+
+Your game doesn't have spree.
+== У вашій грі немає серій.
+
+Killing Spree
+== Серія убивств
+
+Your current {} is {}.
+== Ваша поточна {} - {}.
+
+Admin has restarted the FNG round.
+== Администраторг перезапустив раунд FNG.
+
+The FNG round ended with a tie!
+== Раунд FNG закінчився вничию.
+
+Most Kills
+== Більше всьго убивств 
+
+Best Spree
+== Найкраща серія 
+
+Best Multi
+== Найкраще мульти-вбивство
+
+Best K/D
+== Найкраще K/D
+
+Most Freezes
+== Більше всьго заморозків 
+
+Most Wallshots
+== Більше всьго рикошетів
+
+Best Accuracy
+== Найкраща точність 
+
+You aren't in a game.
+== Ви не знаходитесь в який-небудь грі.
+
+You don't have statistics for game's round.
+== У вас немає статистики для раунду цієї гри.
+
+Your statistics:
+== Ваша статистика:
+
+Kills
+== Убивств 
+
+Freezes
+== Заморозків
+
+Wallshots
+== Попадань рикошетом
+
+Accuracy
+== Точність
+
+Teams were balanced.
+== Команди були збалансовані.
+
+Teams were shuffled.
+== Команди були переміщені.
+
+You can't join a team which is close to win.
+== Не можна приєднатися до лідируючій команді.
+
+block spree
+== блок серія
+
+killing spree
+== серія убивств 
+
+Max Multi
+== Максимальне мульти-убивство
+
+Max Spree
+== Максимальна серія убивств 
+
+'{-}' multi x{}!
+== '{-}' мульти-убивство x{}!
+
+'{-}' multi x{} finished!
+== '{-}' мульти-убивство x{} завершено!
+
+'{-}' is on a killing spree with {} kills!
+== '{-}' провів серію із {} убивств!
+
+'{-}' tried to steal '{-}' kill!
+== '{-}' Намагався вкрасти убивство '{-}'!
+
+Can't change teams while frozen!
+== Не можна змінити команду під час заморозки!
+
+You are sending reports too fast.
+== Ви відправляєте репорти занадто швидко.
+
+Effects
+== Ефекти
+
+Skins
+== Скіни
+
+The server is going to shutdown in {} {t} ({-})
+== Сервер буде вимкнений через {} {t} ({-})
+
+The server is going to shutdown in {} {t} ({})
+== Сервер буде вимкнений через {} {t} ({})
+
+The server is going to shutdown in {} {t}
+== Сервер буде вимкнений через {} {t}
+
+The map is going to reload in {} {t} ({-})
+== Мапа буде перезавантажена через {} {t} ({-})
+
+The map is going to reload in {} {t} ({})
+== Мапа буде перезавантажена через {} {t} ({})
+
+The map is going to reload in {} {t}
+== Мапа буде перезавантажена через {} {t}
+
+The server shutdown was cancelled.
+== Вимкнення сервера було скасовано.
+
+The map reload was cancelled.
+== Перезавантаження карти скасовано.
+
+The server is shutting down now!
+== Сервер зараз буде вимкнений!
+
+The map is reloading now!
+== Мапа зараз буде перезавантажена!
+
+Language
+== Мова
+
+Settings
+== Налаштування
+
+Clan
+== Клан
+
+Time
+== Час
+
+Score
+== Очки
+
+Red team
+== Червона команда
+
+Blue team
+== Синя команда
+
+You blocked '{}', this is forbidden on server.
+== Ви заблоковані '{}', це заборонено на сервері.
+
+Laser ammo will be respawned in {} seconds.
+== Респаун патронів для лазеру через {} секунд.
+
+{}. '{-}' - {} kills!
+== {}. '{-}' - {} убивств!
+
+{}. No last player alive.
+== {}. Немає останнього вижившого.
+
+\[{}] The event is over!
+== [{}] Захід завершено!
+
+You aren't logged in an account to receive a reward.
+== Ви не увійшли в акаунт для отримання нагороди.
+
+Weapons
+== Зброя
+
+Do not disturb mode enabled, to disable write /dnd.
+== Увімкнений режим 'Не турбувати', для відключення  напишіть /dnd.
+
+Kick player
+== Вигнати гравця
+
+'{}' jailed for {} seconds for block.
+== '{}' посаджений в тюрму за блок на {} секунд.
+
+Name protection check passed ({}).
+== Перевірка захисту нікнейму пройдена ({}).
+
+Name protection check failed ({}).
+== Перевірка захисту нікнейму не пройдена ({}).
+
+Name check still in progress or name already taken by another player!
+== Перевірка нікнейму ще в процесі або імʼя вже зайнято іншим гравцем!
+
+Protected name must be at least {} characters long.
+== Захищене імʼя повинне мати не менше {} символів. 
+
+You already have name protection.
+== У вас уже є захист імені.
+
+This name is already protected by another player.
+== Це імʼя вже захищено іншим гравцем.
+
+This name is tied to another player's records.
+== Це імʼя вже повʼязано з рекордами іншого гравця.
+
+Protected nicknames
+== Захищені нікнейми
+
+Name protection [{}] for '{}'
+== Захист нікнейму [{}] для '{}'
+
+'{}' {}, {} canceled.
+== '{}' {}, {} скасовано.
+
+left game
+== вийшов з гри
+
+joined spectators
+== зайшов в спостерігачі
+
+logout from account
+== вийшов з акаунту
+
+respawned
+== зареспавнився
+
+moved
+== зрушив
+
+frozen
+== був заморожений
+
+changed team
+== змінив команду
+
+disabled duels
+== вимкнув дуелі
+
+Casino is disabled!
+== Казино відключено
+
+Duel request was cancelled. You've received {}{} back.
+== Запит на дуель був скасований. Ви отримали {}{} назад.
+
+Rating duel request was canceled.
+== Запит на рейтингову дуель був скасований.
+
+Team size must be at least 2. For 1v1 use a regular duel.
+== Розмір команди має бути мінімум 2. Для 1 на 1 використовуйте звичайну дуель.
+
+Team duel
+== Командна дуель
+
+Team duel (drafted)
+== Командн дуель (драфт)
+
+Clan war
+== Кланова війна
+
+You can't search for rating duel when the server is going to restart soon.
+== Ви не можете шукати рейтингову дуель, коли сервер скоро перезавантажеться.
+
+You are banned from rating system for {} seconds ({}).
+== Ви забанені в системі рейтингу на {} секунд ({}).
+
+Censor system didn't permit your message
+== Система цензури не пропустила ваше повідомлення
+
+You can't sent more then {} same messages in chat.
+== Ви не можете відправляти більше {} однакових повідомлень у чаті.
+
+Rating search is disabled on the server.
+== Рейтинговий пошук вимкнений на цьому сервері.
+
+In this game, you play blackjack against the dealer.
+== В цій грі ви граєте в блекджек проти дилера.
+
+Place a bet using /bet <amount> and then choose an action using the buttons.
+== Зробіть ставку, використовуючи /bet <amount>, після чого оберіть дію за допомогою кнопок.
+
+Actions available:
+== Доступні дії:
+
+CALL - Take an extra card to improve your hand.
+== CALL - Взяти додаткову карту для покращення вашої руки.
+
+STAND - End your turn and let the dealer play.
+== STAND - Завершити хід і дозволити дилеру зіграти.
+
+DOUBLE - Double your bet and receive one additional card.
+== DOUBLE - Подвоїти вашу ставку и отримати одну додаткову карту.
+
+SURRENDER - Forfeit half your bet and end your turn.
+== SURRENDER - Здатися, втративши половину ставки, і завершити хід.
+
+SPLIT - Divide your pair into two separate hands (if your first two cards are identical).
+== SPLIT - Розділити пару на дві окремі руки (якщо перші дві карти ідентичні).
+
+Blackjack started! [Bet-{}]: Your cards: {} ({}). Dealer shows: {} ({}). Choose an action.
+== Блекджек почався! [Ставка-{}]: Ваші карти: {} ({}). У дилера: {} ({}). Оберіть дію.
+
+\[Bet-{}]: You call and received {} ({}). Your total is {} ({}).
+== [Ставка-{}]: Ви взяли карту і отримали {} ({}). Ваш підсумок: {} ({}).
+
+\[Bet-{}]: Bust! You lose your bet of {}$.
+== [Ставка-{}]: Перебір! Ви програли ставку {}$.
+
+\[Bet-{}]: You stand with {} ({}).
+== [Ставка-{}]: Ви зупинились з {} ({}).
+
+\[Bet-{}]: Not enough cash to double.
+== [Ставка-{}]: Недостатньо коштів для подвоєння.
+
+\[Bet-{}]: You double and received {} ({}). Your total is {} ({}).
+== [Ставка-{}]: Вы подвоїли і отримали {} ({}). Ваш підсумок: {} ({}).
+
+\[Bet-{}]: Bust after doubling! You lose your bet of {}$.
+== [Ставка-{}]: Перебір після подвоєння! Ви програли ставку {}$.
+
+\[Bet-{}]: You surrendered. You get back {}$.
+== [Ставка-{}]: Ви здалися. Ви отримали назад {}$.
+
+\[Bet-{}]: Cannot split this hand, the cards are not suitable for splitting.
+== [Ставка-{}]: Цю руку не можна розділити, карти не підходять для спліту.
+
+\[Bet-{}]: Cannot split this hand, only {} split allowed.
+== [Ставка-{}]: Цю руку не можна розділити, тільки {} спліт дозволений.
+
+\[Bet-{}]: Dealer's hand: {} ({}). You win! Your payout is {}$.
+== [Ставка-{}]: Рука дилера: {} ({}). Ви перемогли! Виплата: {}$.
+
+\[Bet-{}]: Dealer's hand: {} ({}). Push. Your bet is returned.
+== [Ставка-{}]: Рука дилера: {} ({}). Нічия. Ваша ставка повернута.
+
+\[Bet-{}]: Dealer's hand: {} ({}). You lose your bet of {}$.
+== [Ставка-{}]: Рука дилера: {} ({}). Ви програли ставку {}$.
+
+\[Bet-{}]: Blackjack!. Your payout is {}$.
+== [Ставка-{}]: Блекджек! Виплата: {}$.
+
+Choose an action for [Bet-{}]. Your cards: {} ({}).
+== Оберіть дію для [Ставка-{}]. Ваші карти: {} ({}).
+
+You are not participating in game. Use /bet <amount> to start.
+== Ви не берете участь в грі. Скористайтеся /bet <сума>, щоб почати.
+
+Hand split into [Bet-{}] and [Bet-{}].
+== Рука разделена на [Ставка-{}] и [Ставка-{}].
+
+Wrong command usage, use '/help {}' for command info.
+== Неправильне використовування команди. Скористайтеся '/help {}' для отримання інформації про команду.
+
+Too many requests.
+== Занадто багато запитів.
+
+Smoke Grenade
+== Димова граната
+
+Currencies
+== Валюти
+
+Inventory
+== Інвентар
+
+Filters
+== Фільтри
+
+User Items
+== Користувальницькі предмети
+
+Bonus Items
+== Бонусні предмети
+
+Role Items
+== Предмети від ролі
+
+You don't have any items with filters selected.
+== У вас немає предметів з обраними фільтрами.
+
+Kits
+== Набори
+
+Unknown
+== Невідомо
+
+Weapon Upgrades
+== Покращення зброї
+
+Other
+== Інше
+
+{}. Buy for {} {t} [{}]
+== {}. Купити на {} {t} [{}]
+
+{}. Buy forever [{}]
+== {}. Купити назавжди [{}]
+
+{}. Buy {} items [{}]
+== {}. Купити {} предметів [{}]
+
+- Use vote reason to buy specific item count.
+== - Використовуйте причину голосування, щоб купити певну кількість предметів.
+
+\[LIMITED] {} left
+== [ОБМЕЖЕНО] залишилось {}
+
+\[LIMITED] expired {} ago
+== [ОБМЕЖЕНО] закінчилось {} назад
+
+Item Info
+== Інформація про предмет
+
+Room Info
+== Інформація про кімнату
+
+Max Owners
+== Максимум власників
+
+Max level reached.
+== Максимальний рівень досягнутий.
+
+Upgrading {} → {}
+== Покращення {} → {}
+
+Required Level
+== Необхідний рівень 
+
+Upgrade Time
+== Час покращення
+
+\[Gift for {-}]
+== [Подарунок для {-}]
+
+✧ Want to make a gift?
+== ✧ Хочеш зробити подарунок?
+
+No available data.
+== Немає доступних даних.
+
+Select a player to gift an item to:
+== Оберіть гравця, якому подарувати предмет:
+
+No any players.
+== Немає гравців.
+
+Usage
+== Використовування
+
+Not enough currency to buy:
+== Недостатньо валютм для покупки:
+
+Your level is too low to buy the item. Required level: {}.
+== Ваш рівень занадто низький, щоб купити цей предмет. Необхідний рівень: {}.
+
+You have bought {} items.
+== Ви купили {} предметів.
+
+You have started upgrading the item {} → {}.
+== Ви почали покращувати предмет {} → {}.
+
+You have bought the item forever.
+== Ви купили предмет назавжди.
+
+You have bought the item for {} {}.
+== Ви купили предмет на {} {}.
+
+You have gifted the item.
+== Ви подаруваои предмет.
+
+You have received a gift from '{}'.
+== Ви отримали подарунок від '{}'.
+
+You have received a gift.
+== Ви отримали подарунок.
+
+You have got {} items.
+== Ви отримали {} предметів.
+
+You have got the item forever.
+== Ви отрималипредмет назавжди.
+
+You have got the item for {} {t}.
+== Ви отримали предмет на {} {t}.
+
+Roles
+== Ролі
+
+\[{} items] {}
+== [{} предметів] {}
+
+\[{} items] {} [★]
+== [{} предметів] {} [★]
+
+Fun Items
+== Розважальні предмети
+
+Death Effects
+== Ефекти смерті 
+
+Clan tag protection
+== Захист клантегу
+
+Opening
+== Відкриття
+
+You are already opening a case.
+== Ви уже відкриваєте кейс.
+
+You've successfully opened {}:
+== Ви успішно відкрили {}:
+
+You don't have that many items.
+== У вас немає стільки предметів.
+
+Failed to open case:
+== Не вдалося відкрити кейс:
+
+Sold for {}
+== Продано за {}
+
+The item has been sold for {}.
+== Предмет був проданий за {}.
+
+nothing
+== нічого
+
+\[The item cannot be purchased]
+== [Неможливо купити цей предмет]
+
+The item is on cooldown: {}
+== Предмет буде доступний через: {}
+
+Press F3 to keep the item
+== Натисніть F3, щоб залишити предмет
+
+Press F4 to sell the item for {}
+== Натисніть F4, щоб продати предмет за {}
+
+You received {}$ and {} experience for participation.
+== Ви отримали {}$ і {} досвіду за участь.
+
+You received {}$ and {} experience for your winner place.
+== Ви отримали {}$ і {} досвіду за призове місце.
+
+Total Participants: {}
+== Всього учасників: {}
+
+To main menu
+== В головне меню
+
+Cases
+== Кейси
+
+Spawn Effects
+== Ефекти появи
+
+Looks like you used cheats while going through the map, your finish will not be counted
+== Здається ти використовував чити під час проходження мапи, твій фініш не буде зараховано
+
+Accept rating duel?
+== Прийняти рейтингову дуель?
+
+Accept match?
+== Прийняти матч?
+
+Hunter hook players
+== Мисливець хукає гравців
+
+Weapon hat rotation
+== Поворот капелюха зброї
+
+Keys
+== Ключі
+
+Dungeon reload failed. Try again shortly.
+== Не вдалося перезавантажити підземелля. Спробуйте ще раз трохи пізніше.
+
+World warp failed.
+== Не вдалося втповнити перехід у світ.
+
+Dungeon updated. Warping to new layout...
+== Підземелля оновлено. Перенесення в нову розкладку...
+
+Dungeon warp failed.
+== Не вдалося переміститися в підземелля.
+
+World create failed.
+== Не вдалося створити світ.
+
+Dungeon game not found.
+== Гра підземелля не знайдено.
+
+Warping to '{}' dungeon..
+== Перенесення в підземелля '{}'..
+
+Warping to main world..
+== Перенесення в загальний світ..
+
+You must be logged in.
+== Ви повинні увійти в акаунт.
+
+Not available from dummy.
+== Недоступно для клона.
+
+Not alive.
+== Ви мертві.
+
+Warp available only near the dungeon door.
+== Перехід доступний тільки поруч з дверима підземелля.
+
+Unable to start dungeon warp right now.
+== Зараз не можна почати перехід в підземелля.
+
+Loading your dungeon, please wait.
+== Завантажуємо ваше підземелля, будь ласка, зачекайте.
+
+Dungeon edit mode available only in dungeons.
+== Режим редагування підземелля доступно тільки в підземеллях.
+
+Your dungeon is still loading, please wait...
+== Ваше підземелля все ще завантажується, будь ласка, зачекайте...
+
+You are already in edit mode.
+== Ви вжее знаходитесь в режимі редагування.
+
+Edit mode enabled.
+== Увімкнений режим редагування.
+
+Only the owner can reset edit mode.
+== Лише власник може скинути режим редагування.
+
+Edit reset available only inside your dungeon.
+== Скидання редагування доступне тільки всередині вашого підземелля.
+
+Edit reset available only in edit mode.
+== Скидання редагування доступне тільки в режимі редагування.
+
+Edit layout reset to the saved dungeon.
+== Макет редагування скинуто до збереженого варіанту підземелля.
+
+Only the owner can start save mode.
+== Лише власник може запустити режим збереження.
+
+Save mode available only inside your dungeon.
+== Режим збереження доступний тільки всередині вашого підземелля.
+
+Save mode already active.
+== Режим збереження вже активний.
+
+Enter edit mode before starting save mode.
+== Перед запуском режиму збереження увійдіть в режим редагування.
+
+Your dungeon must contain at least one door.
+== Ваше підземелля повинно мати хоча б одні двері.
+
+Your dungeon must contain at least one chest.
+== Ваше підземелля повинно мати хоча б одну скриню.
+
+Save mode enabled. Press fire to start your attempt and reach the chest twice in a row to confirm.
+== Режим збереження увімкнений. Натисніть «вогонь», щоб почати спробу, й двічі підряд дістаньтеся до скрині для підтвердження.
+
+Only the owner can control their dungeon.
+== Лише власник може керувати своїм підземелля.
+
+Control mode available only inside your dungeon.
+== Режим керування доступний тільки всередині вашого підземелля.
+
+Control mode enabled. Press fire to start your practice run.
+== Режим керування увімкнений. Натисніть «вогонь», щоб почати тренувальний забіг.
+
+Control mode unavailable right now.
+== Режим керування зараз недоступний.
+
+You are already controlling your dungeon.
+== Ви вже керуєте своїм підземеллям.
+
+Specify player name.
+== Вкажіть імʼя гравця.
+
+Available only inside your dungeon.
+== Доступно тільки всередині вашого підземелля.
+
+Player is already inside a dungeon.
+== Гравець вже знаходиться в підземеллі.
+
+{} is not near the dungeon door.
+== {} не поруч з дверми підземелля.
+
+Stand near the dungeon door to receive dungeon invites.
+== Встаньте поруч з дверима підземелля, щоб отримувати запрошення в підземелля.
+
+{} didn't accept your dungeon invite.
+== {} не прийняв(ла) ваше запрошення в підземелля.
+
+Dungeon invite failed: player is no longer available.
+== Запрошення в підземелля не вдалося: гравець більше недоступний.
+
+Stand near the dungeon door to accept the invite.
+== Встаньте поруч з дверима підземелля, щоб прийняти запрошення.
+
+{} left the dungeon door.
+== {} відійшов(ла) від дверей підземелля.
+
+Failed to warp to dungeon.
+== Не вдалося виконати переід в підземелля.
+
+Failed to warp to dungeon. Try again later.
+== Не вдалося виконати перехід в підземелля. Спробуйте пізніше.
+
+Dungeon invite failed: dungeon is no longer available.
+== Запрошення в підземелля не вдалося: підземелля  більше недоступне.
+
+Dungeon invite failed: couldn't warp player.
+== Запрошення в підземелля не вдалось: не вдалося перенести гравця.
+
+{} accepted your dungeon invite.
+== {} прийняв(ла) ваше запрошення в підземелля.
+
+An invite for this player is already pending.
+== Запрошення для цього гравця вже очікує відповіді.
+
+Unable to start invite vote right now.
+== Зараз не можна запустити голосування за запрошення.
+
+Invited {} to your dungeon. Waiting for acceptance...
+== Ви запросили {} в своє підземелля. Очікування відповіді...
+
+You are not inside a dungeon.
+== Ви не знаходитесь в підземелля.
+
+You must be in control mode to search for raids.
+== Щоб шукати рейди, ви повинні бути в режимі керування.
+
+Dungeon layout is being rebuilt. You'll return shortly.
+== Макет підземелля перебудовується. Ви скоро повернетеся.
+
+You must be logged in to search for raids.
+== Щоб шукати рейди, ви повинні увійти в акаунт.
+
+No dungeons to raid right now.
+== Зараз немає підземелля для рейду.
+
+Raids is disabled in configuration.
+== Рейди вимкнені в конфігурації сервера.
+
+You need to wait {} before starting another raid.
+== Вам потрібно зачекати {} перед початком наступного рейда.
+
+You need to wait before starting another raid.
+== Вам треба зачекати перед початком наступного рейда.
+
+Searching for a dungeon to raid...
+== Пошук підземелля для рейду...
+
+You must be inside a dungeon to start the raid.
+== Щоб почати рейд, ви повинні знаходитися всередині підземелля.
+
+There is no raid to accept right now.
+== Зараз немає рейду, який можна прийняти.
+
+Raid already in progress.
+== Рейд вже йде.
+
+Raid ready. Press fire to break in.
+== Рейд готовий. Натисніть «вогонь», щоб увірватися.
+
+You are not raiding a dungeon.
+== Ви зараз не робите рейд на підземелля.
+
+You can only switch targets before the raid starts.
+== Ви можете змінити ціль тільки до початку рейду.
+
+You need {}{} to search for another dungeon.
+== Вам потрібно {}{}, щоб шукати інше підземелля.
+
+Searching for another dungeon to raid...
+== Пошук іншого підземелля для рейду...
+
+Your dungeon is being raided by {}
+== Ваше підземелля зараз атакує {}.
+
+Dungeon is locked by another raid. Try again in {}.
+== Підземелля заблоковано іншим рейдом. Спробуйте знову через {}.
+
+Dungeon is locked by another raid. Try again soon.
+== Підземелля заблоковано іншим рейдом. Спробуйте ще раз пізніше.
+
+You must stand near the dungeon door to start a raid.
+== Щоб почати рейд, ви повинні стояти поруч з дверима підземелля.
+
+You already avenged this attack.
+== Ви вже помстилися за цю атаку.
+
+That attacker is no longer available for revenge. Refresh the list first.
+== Цей нападник більше недоступний для помсти. Спочатку оновіть список.
+
+Invalid revenge target.
+== Невірна ціль для помсти.
+
+Reach the chest twice in a row to save automatically. Progress reset.
+== Дістаньтеся до скрині два рази підряд, щоб зберегти автоматично. Прогрес скинуто.
+
+Dungeon save confirmed!
+== Збереження підземелля підтверждено!
+
+Dungeon saved
+== Підземелля збережено
+
+Width and height must be > 10.
+== Ширина і висота мають бути > 10.
+
+Generated dungeon template ID: {}
+== Згенерований шаблон підземелля з ID: {}
+
+No recent attackers to take revenge on.
+== Немає нещодавніх нападників, на яких можна помститися.
+
+Recent attackers loaded. Use the vote menu to pick a revenge target.
+== Нещодавні нападники завантажені. Використовуйте меню голосування, щоб обрати ціль для помсти.
+
+You stole {}$ from the dungeon bank!
+== Ви вкрали {}$ з банку підземелля!
+
+Raid recorded, but the owner's bank balance couldn't be read. No payout this time.
+== Рейд записаний, але баланс банку власника не вдалося прочитати. В цей раз без нагороди.
+
+The owner's bank was empty. You stole nothing.
+== Банк власника був порожнім. Ви нічого не вкрали.
+
+{} raided your dungeon and stole {}$ (1% of your bank).
+== {} Вчинив(ла) рейд на ваше підземелля и вкрав(ла) {}$ (1% вашого банку).
+
+{} raided your dungeon, but the reward could not be processed.
+== {} Вчинив(ла) рейд на ваше підземелля, але нагороду не вдалося обробити.
+
+{} raided your dungeon, but your bank had no funds to steal.
+== {} Вчинив(ла) рейд на ваше підземелля, але у вашому банку не було коштів для крадіжки.
+
+Dungeon door must fit completely inside the map.
+== Двері підземелля повинна повністю вміщатися усередині мапи.
+
+Dungeon door requires a 3x3 free area without solid tiles.
+== Для дверей підземелля потрібна ільна область 3×3 без тведих сутностей.
+
+Only one dungeon chest allowed. Remove the existing chest first.
+== Дозволений лише одна скриня підземелля. Спочатку видаліть існуючу скриню.
+
+Dungeon chest must fit completely inside the map.
+== Скриня підземелля повинна повністю вміщатися всередину мапи.
+
+Dungeon chest requires a 3x2 free area without solid tiles.
+== Для скрині підземелля потрібна вільна область 3×2 без твердих сутностей.
+
+Too many items ({}/{}).
+== Занадто багато об'єктів ({}/{}).
+
+Gold already collected. Next collection in {}.
+== Золото вже зібрано. Наступний збір через {}.
+
+Gold collect is disabled in configuration.
+== Збір золота вимкнений в конфігурації.
+
+Collected {}{} from your dungeon.
+== Ви зібрали {}{} зі свого підземелля.
+
+You must be inside your dungeon to upgrade traps.
+== Щоб покращити пастки, ви повинні знаходитися усередині свого підземелля.
+
+Only the owner can upgrade traps.
+== Лшие власник може покращувати пастки.
+
+Dungeon data not loaded yet.
+== Дані підземелля ще не завантажені.
+
+You need to be alive to upgrade traps.
+== Щоб покращувати пастки, ви маєте бути живі.
+
+Aim closer to a trap to upgrade it (within 3 tiles).
+== Приціліться ближще до пастки, щоб покращити її (в межах 3 сутностей).
+
+This trap is already at maximum level.
+== Ця пастка вже максимального рівня.
+
+Trap upgrade is disabled in configuration.
+== Покращення пасток відключено в конфігурації.
+
+Not enough cash. Need {}{}.
+== Недостатньо коштів. Потрібно {}{}.
+
+Trap upgraded to level {} ({}{} spent).
+== Пастка покращена до рівня {} (витрачено {}{}).
+
+Attempt failed. Consecutive progress reset.
+== Спроба не вдалася. Прогрес серії скинуто.
+
+Raid already completed. Use the vote menu to exit when ready.
+== Рейд вже закінчено. Скористайтеся меню голосування, щоб вийти, як будете готові.
+
+Raid complete! You can keep practicing or exit through the vote menu.
+== Рейд закінчився! Ви можете продовжити тренуватися або вийти через меню голосування.
+
+Run complete. Use the vote menu to exit when you're done.
+== Забіг закінчено. Скористайтеся меню голосування, щоб вийти, як закінчете.
+
+Returning to your dungeon...
+== Повертаємо вас у ваше підземелля...
+
+Unable to return automatically. Use the vote menu to exit the raid dungeon.
+== Не вдалося повернути вас автоматично. Скористайтеся меню голосування, щоб вийти з рейдового підземелля.
+
+Practice run complete. Returning to start.
+== Тренувальний забіг закінчено. Повертаємо на початок.
+
+Start save mode from edit to record your run.
+== Запустіть режим збереження з режиму редагування, щоб записати ваш забіг.
+
+Chest reached! Progress: {}/2 successful runs.
+== Скриня досягнута! Прогрес: {}/2 успішних забігів.
+
+Saving dungeon automatically...
+== Автоматичне збереження підземелля...
+
+Reach the chest once more to trigger automatic saving.
+== Дістаньтеся скрині ще раз, щоб запустити автоматичне збереження.
+
+------- Top cash -------
+== ------- Топ по грошам -------
+
+------- Top level -------
+== ------- Топ по рівню -------
+
+------- Top rating -------
+== ------- Топ по рейтингу -------
+
+------- Clan members -------
+== ------- Учасники клана -------
+
+------- Top clans cash -------
+== ------- Топ кланів по грошам -------
+
+------- Top clans level -------
+== ------- Топ кланів по рівню -------
+
+------- Room members -------
+== -------
+
+You have used x{} {}.
+== Ви використали x{} {}.
+
+You have received the bonus item - {}. Disable '/tu {}'
+== Ви отримали бонусний предмет - {}. Щоб вимкнути, використовуйте '/tu {}'.
+
+\[{}] '{-}' has got {-}!
+== [{}] '{-}' отримав {-}!
+
+Cash must be a positive number.
+== Сума має бути додатнім числом.
+
+You have to deposit at least {}{}.
+== Ви повинні внести мінімум {}{}.
+
+You aren't a member of any clan.
+== Ви не перебуваєте ні в одному клані.
+
+You have successfully deposited {}{} to your clan bank.
+== Ви успішно внесли {}{} в банк клану.
+
+You didn't receive a daily join reward:
+== Ви не отримали щоденну нагороду за вхід:
+
+You have received a daily join reward for {} day:
+== Ви отримали щоденну нагороду за {}-й день:
+
+Your account has been linked to discord '{}'.
+== Ваш акаунт був прив'язаний до Discord'у '{}'.
+
+You lost drawer.
+== Ви втратили малювалку.
+
+You got drawer.
+== Ви отримали малювалку.
+
+You're not logged in.
+== Ви не авторизовані.
+
+You don't have sufficient rights to use this command.
+== У вас недостатньо прав для користування цієї команди.
+
+Client name '{}' not found.
+== Гравця з іменем '{}' не знайдено.
+
+Duel with '{}' not found.
+== Дуель з '{}' не знайдено.
+
+Score updated for '{}'.
+== Рахунок оновлений для '{}'.
+
+Team score updated for '{}'.
+== Командний рахунок оновлений для '{}'.
+
+\[BlockZomb] Starting zombies can't send duel requests during an active round.
+== [BlockZomb] Початкові зомбі не можуть надсилати запити на дуель під час активного раунду.
+
+You can't send a duel while searching for a duel.
+== Ви не можете надіслати запит на дуель під час пошуку дуелі.
+
+Only %d parallel duels allowed.
+== Дозволено лише %d паралельних дуелей.
+
+\[BlockZomb] {} can't join duels while they're a starting zombie.
+== [BlockZomb] {} не може брати участь в дуелях, поки являється початковим зомбі.
+
+This player has disabled duel requests.
+== Цей гравець вимкнув запити на дуель.
+
+Player is searching for a duel.
+== Гравець шукає дуель.
+
+Can't create duel, one of participants not valid.
+== Не вдалося створити дуель, один із учасників недійсний.
+
+Can't find valid arena for you.
+== Не вдалося знайти підходящу арену для вас.
+
+\[{}] Ended by timeout!
+== [{}] Завершено за таймаутом!
+
+\[{}] Ended with tie!
+== [{}] Завершено внічию!
+
+Failed to prepare save layout. Please try again.
+== Не вдалося підготувати макет збереження. Спробуйте ще раз.
+
+Raid bank holds up to {}{} on entry.
+== Банк рейду вміщує до {}{} при вході.
+
+You were returned to the main world for being AFK.
+== Ви були повернені в загальний світ через AFK.
+
+Only the owner can regenerate their dungeon.
+== Лише власник може регенерувати своє підземелля.
+
+Your mine is still active. Regenerate once it runs dry.
+== Ваша шахта все ще активна. Перегенеруйте, коли вона вичерпається.
+
+Dungeon regeneration is already in progress.
+== Регенерація підземелля вже виконується.
+
+Your dungeon is busy. Try again shortly.
+== Ваше підземелля зайнято. Спробуйте трохи пізніше.
+
+Regeneration is available only inside your dungeon.
+== Регенерація доступна тільки всередині вашого підземелля.
+
+You cannot regenerate while a raid is in progress.
+== Ви не можете регенерувати під час активного рейду.
+
+Regenerating your dungeon...
+== Регенерація вашого підземелля...
+
+You need a dungeon key to search for raids.
+== Вам потрібен ключ від підземелля для пошуку рейдів.
+
+Unable to reserve a dungeon key right now. Try again in a moment.
+== Не вдалося зарезервувати ключ від підземелля. Спробуйте за мить.
+
+Unable to return your reserved dungeon key right now. Please try again later.
+== Не вдалося повернути зарезервований ключ від підземелля. Спробуйте пізніше.
+
+You are not raiding right now.
+== Ви зараз не берете участь в рейді.
+
+The door is already unlocked.
+== Двері вже відчинені.
+
+Wait for the current lock attempt to finish.
+== Дочекайтеся завершення поточної спробі відімкнення замку.
+
+This lock is already broken.
+== Цей замок вже зламаний.
+
+You need a dungeon key to try a lock.
+== Вам потрібен ключ від підземелля для спроби відімкнути замок.
+
+Unable to use a key right now. Try again in a moment.
+== Не вдалося використати ключ зараз. Спробуйте за мить.
+
+You don't have any dungeon keys left.
+== У вас не залишилося ключів від підземелля.
+
+Door unlocked! Press fire to begin the raid.
+== Двері відчинені! Натисніть «вогонь», щоб почати рейд.
+
+Wrong lock! The key broke.
+== Неправильний замок! Ключ зламався.
+
+Can't raid that dungeon, owner is online.
+== Не можна здійснити рейд на це підземелля, власник онлайн.
+
+Reach the chest twice in a row within {} seconds per run to save automatically. Progress reset.
+== Досягніть скрині двічі підряд протягом {} секунд за спробу для автозбереження. Прогрес скинуто.
+
+Dungeon regeneration failed.
+== Регенерація підземелля не вдалася.
+
+Your dungeon is being regenerated. Please wait...
+== Ваше підземелля регенерується. Будь ласка, зачекайте...
+
+Dungeon save layout is being prepared, please wait...
+== Макет збереження підземелля готується, будь ласка, зачекайте...
+
+Preparing save layout, please wait...
+== Підготовка макета збереження, будь ласка, зачекайте...
+
+Save mode enabled. Press fire to start your attempt and reach the chest twice in a row within {} seconds per run to confirm.
+== Режим збереження увімкнений. Натисніть «вогонь», щоб почати спробу і двічі підряд досягнути скрині протягом {} секунд за спробу для підтвердження.
+
+You stole {}$ from the dungeon bank ({}% of the maximum raid reward) ({})!
+== Ви вкрали {}$ з банку підземелля ({}% від максимальної нагороди за рейд) ({})!
+
+Dungeon door must stay one tile away from the border.
+== Двері підземелля мають бути на відстані однієї клітинки від межі.
+
+Dungeon chest must stay one tile away from the border.
+== Скриня підземелля має бути на відстані однієї клітинки від межі.
+
+Your mine is depleted. Move to a new dungeon to resume income.
+== Ваша шахта истощена. Вашу шахту виснажено. Перемістіться в нове підземелля, щоб відновити дохід.
+
+No gold to collect yet. Next gold in {}.
+== Золота для збіру поки немає. Наступне золото через {}.
+
+No gold to collect yet.
+== Золота для збіру поки немає.
+
+Collected {}{} from your dungeon (collection limit reached).
+== Зібрано {}{} з вашого підземелля (досягнутий ліміт збору).
+
+No keys to collect yet. Next key in {}.
+== Ключів для збору поки немає. Наступний ключ через {}.
+
+No keys to collect yet.
+== Ключів для збору поки немає.
+
+Failed to collect keys. Try again later.
+== Не вдалося зібрати ключі. Спробуйте пізніше.
+
+Collected {} dungeon key(s) from your dungeon.
+== Зібрано {} ключ(ів) з вашого підземелля.
+
+Attempt took longer than {} seconds. Progress reset.
+== Спроба тривала понад {} секунд. Прогрес скинуто.
+
+Your spent keys have been returned for a perfect raid.
+== Ваші витрачені ключі були повернуті за ідеальний рейд.
+
+Reach the chest once more within {} seconds to trigger automatic saving.
+== Досягніть скрині ще раз протягом {} секунд для запуску автоматичного збереження.
+
+Flag-Hunt over. Nobody won!
+== Полювання за прапором завершено. Ніхто не переміг!
+
+Flag-Hunt warmup: {~.2}
+== Розминка полювання на прапор: {~.2}
+
+A Flag-Hunt began. Find and touch the Flag!
+== Почалося полювання на прапор. Знайдіть і торкніться прапора!
+
+Flag-Hunt over: '{}' won!
+== Полювання на прапор завершено: '{}' переміг!
+
+Flag hunt already in progress.
+==  Полювання на прапор вже йде.
+
+Flag hunt is not allowed, invalid target player.
+==  Полювання на прапор не дозволена, недійсний цільовий гравець.
+
+Flag-Hunt is on cooldown. Remaining seconds : {}s
+==  Полювання на прапор на перезарядці. Залишилось секунд: {}с
+
+A Flag-Hunt began. You are the Flag. Run away from the players and let nobody touch you! You have endless double jumps and your hook is a jetpack as a flag.
+== Почалося полювання на прапор. Ви — прапор. Тікайте від гравців і не дозволяйте нікому торкнутися вас! У вас нескінченні подвійні стрибки, а ваш гак — це реактивний ранець у вигляді прапора.
+
+Game '{}' is not enabled or not supported by map.
+== Гра '{}' не увімкнена або не підтримується мапою.
+
+The {} flag was captured by '{}' in {~.2} sec
+== Прапор {} був захоплений '{}' за {~.2} сек.
+
+Wait next round to make a Bet!
+== Зачекайте наступного раунду, щоб зробити ставку!
+
+Block this player too fast.
+== Ви занадто швидко блокуєте цього гравця.
+
+Players count not enough {}/{}
+== Недостатньо гравців: {}/{}
+
+No points for dummy.
+== Немає очок для даммі.
+
+Block zone not triggered.
+Зона блока не активовано.
+
+No block points for afk players.
+== Немає очок за блок для AFK-гравців.
+
+No points for clan member.
+== Немає очок за члена клану.
+
+'{}' was too slow and exploded.
+== '{}' був занадто повільним і вибухнув.
+
+'{}' {} by '{}'
+== '{}' {} від '{}'
+
+Game option vote failed
+== Голосування за опцію гри не пройшло
+
+Crashed on {~.2}! You lose!
+== Краш на {~.2}! Ви програли!
+
+No winner in this event!
+== Немає переможців в цьому заході!
+
+'{-}'s killing spree was ended by '{-}' ({} Kills)
+== Серія убивств '{-}' була перервана '{-}' ({} убивств)
+
+{} is already started.
+== {} вже запущений.
+
+{} is disabled.
+== {} відключений.
+
+{} can't be stopped as default game.
+== {} не може бути зупинено як гра за умовчанням.
+
+Leaver protection, wait {} seconds until re-join.
+== Захист від ліверів, зачекайте {} секунд до повторного з'єднання.
+
+Now you are a hunter, you need to find all the players on the map and catch them.
+== Тепер ви мисливець, вам потрібно знайти всіх гравців на карті й спіймати їх.
+
+{} {}s (+15s)
+== {} {}с (+15с)
+
+{} [{}] finished in: {} minute(s) {~.2} second(s)
+== {} [{}] фінішував за: {} хвилин(и) {~.2} секунд(и)
+
+{} lap finished in: {} minute(s) {~.2} second(s)
+== {} круг закінчений за: {} хвилин(и) {~.2} секунд(и)
+
+Sorry, {}, you're dead.
+== Пробачте, {}, ви мертві.
+
+You have not enough cash to repeat previous bet of {}$, use '/bet <amount>'
+== Недостатньо коштів для повторення попередньої ставки {}$, використовуйте '/bet <сума>'
+
+Bank is empty. Spinning is temporarily disabled.
+== Банк порожній. Обертання тимчасово відключено.
+
+Finish your current bet before spinning the slots!
+== Завершіть поточну ставку перед обертанням слотів!
+
+The reels are already spinning!
+== Барабани вже обертаються!
+
+Free Spins active but no stored bet. Place a new base bet first.
+== Безкоштовні обертання активні, але немає збереженої ставки. Спочатку зробіть нову базову ставку.
+
+Free Spins: bet is locked to {}$ until the feature ends.
+== Бесплатные вращения: ставка заблокирована на {}$ до окончания функции.
+
+Bet must be positive!
+== Ставка має бути додатньою!
+
+Not enough cash for this bet.
+== Недостатньо коштів для цієї ставки.
+
+(capped by feature/base cap)
+== (обмежено лімітом функції/базовим лімітом)
+
+Result: {}{}${}
+== Результат: {}{}${}
+
+Result: {}{}$ (win {}$, bet {}$){}
+== Результат: {}{}$ (виграш {}$, ставка {}$){}
+
+Free Spins received: {} spins!
+== Отримані безкоштовні обертання: {} обертань!
+
+Free Spins finished.
+== Безкоштовні обертання завершено.
+
+Auto-spins finished.
+== Автообертання завершено.
+
+Auto-spins stopped: no saved bet.
+== Автообертання зупинені: немає збереженої ставки.
+
+Auto-spins stopped.
+== Автообертання зупинені.
+
+Auto-spins count must be positive.
+== Кількість автобертань має бути додатнім.
+
+Auto-spins count limited to {} spins.
+== Кількість автообертань обмежено {} обертаннями.
+
+Stand near a slot machine to start auto-spins.
+== Станьте поруч зі слот-машиною, щоб запустити автообертання.
+
+Wait for the current spin to finish before starting auto-spins.
+== Дочекайтеся завершення поточного обертання перед запуском автообертань.
+
+Make a bet using /bet <amount> before starting auto-spins.
+== Зробіть ставку, використовуючи /bet <сума>, перед запуском автообертань.
+
+Auto-spins started: {} spins queued (bet {}$).
+== Автообертання запущені: {} обертань у черзі (ставка {}$).
+
+Auto-spins is not active.
+== Автообертання не активні.
+
+You have got {}{} unread mails.
+== У вас {}{} непрочитаних листів.
+
+You can read them in vote menu.
+== Ви можете прочитати їх в меню голосування.
+
+You have got a new mail!
+== У вас новий лист!
+
+Matches disabled on server.
+== Матчі відключені на сервері.
+
+Match games or team sizes not specified.
+== Гри матча або розміри команд не вказані.
+
+Ranked: search stopped.
+== Рейтинговий: пошук зупинений.
+
+Too late to accept.
+== Занадто пізно для прийняття.
+
+Accepting the match...
+== Приймаємо матч...
+
+You declined the match.
+== Ви відхилили матч.
+
+Match found — confirm in vote!
+== Матч знайдено — підтвердіть у голосуванні!
+
+Match failed. {} ({})
+== Матч не вдався. {} ({})
+
+Match preparing: answered {}/{}.
+== Підготовка матчу: відповіли {}/{}.
+
+Match assembling: connected {}/{}.
+== Складання матчу: підключилися {}/{}.
+
+Match is active: connected {}/{}.
+== Матч активний: підключилися {}/{}.
+
+Match ended.
+== Матч завершено.
+
+You are already on match server
+== Ви вже на сервері матчу
+
+You have been unmuted.
+== Ви були розмучені.
+
+You have been unmuted early by moderator.
+== Ви були розмучені достроково модератором.
+
+'{-}' has been muted for {-} ({-})
+== '{-}' був замучений на {-} ({-})
+
+You have been muted for {-} ({-})
+== Ви були замучені на {-} ({-})
+
+This name is already protected.
+== Це імя вже захищено.
+
+Rating duel found. Creating match with '{-}' (Rating: {})
+== Рейтингова дуель знайдена. Створення матчу з '{-}' (Рейтинг: {})
+
+Not enough games
+== Недостатньо ігор
+
+Failed to sold, room {} lot canceled.
+== Не вдалося продати, лот кімнати {} скасовано.
+
+You can set one of the following languages by using '/lang <option>':
+== Ви можете встановити один із наступних мов, використовуючи '/lang <опція>':
+
+Available designs: {}
+== Доступні дизайни: {}
+
+Search duel will not be cancelled once the duel is over.
+== Пошук дуелі не буде скасований після завершення дуелі.
+
+Search duel will be cancelled once the duel is over.
+== Пошук дуелі буде скасований після завершення дуелі.
+
+You have bought the item for {} {t}.
+== Ви купили предмет за {} {t}.
+
+The player level is too low to buy the item. Required level: {}.
+== Рівень гравця занадто низький для покупки предмету. Необхідний рівень: {}.
+
+You have received the item.
+== Ви отримали предмет.
+
+You successfully gave the item.
+== Вы успешно подарили предмет.
+
+You have activated the welcome bonus:
+== Ви активували вітальний бонус:
+
+You have activated the promocode:
+== Ви активували промокод:
+
+- +{} Lv. {}
+== - +{} Рів. {}
+
+- {} forever
+== - {} назавжди
+
+- {} for {} {t}
+== - {} на {} {t}
+
+You have got the {} role for {} {t}.
+== Ви отримали роль {} на {} {t}.
+
+You have lost the {} role.
+== Ви втратили роль {}.
+
+You should specify a number in vote reason.
+== Ви повинні вказати число в причині голосування.
+
+The item isn't for sale.
+== Предмет не продається.
+
+Can't buy 0 items.
+== Не можна купити 0 предметів.
+
+You already have this item.
+== У вас вже є цей предмет.
+
+The item isn't ready to buy.
+== Предмет не готовий до купівлі.
+
+You can't buy that many of this item.
+== Ви не можете купити стільки цього предмету.
+
+The room isn't available.
+== Кімната недоступна.
+
+The room isn't empty.
+== Кімната не порожня.
+
+The player isn't logged in account.
+== Гравець не авторизований в акаунті.
+
+The player already has this item.
+== У гравця вже є цей предмет.
+
+You don't have this item.
+== У вас немає цього предмету.
+
+This item is disabled.
+== Цей предмет вимкнений.
+
+You have already used this item.
+== Ви вже використовували цей предмет.
+
+You can't enable this item in the current game.
+== Ви не можете увімкнути цей предмет в поточній грі.
+
+You need to leave a vehicle to turn on an avatar.
+== Вам потрібно залишити транспорт, щоб увімкнути аватар.
+
+Save the drinking for warmup. Ranked is for real tees.
+== Залиште випивку для розминки. Рейтинг для справжніх тисів.
+
+{}. {} {}: {} (statistic for last {} days)
+== {}. {} {}: {} (статистика за останні {} дней)
+
+{}. {} {}: {} ({} : {}) (statistic for last {} days)
+== {}. {} {}: {} ({} : {}) (статистика за останні {} дней)
+
+------------- Top {} ------------
+== ------------- Топ {} ------------
+
+Vote passed
+== Голосування пройшло
+
+Vote passed enforced by authorized player
+== Голосування пройшло примусово авторизованим гравцем
+
+Vote failed enforced by authorized player
+== Голосування не пройшло примусово авторизованим гравцем
+
+Vote aborted
+== Голосування перервано
+
+Vote failed because of veto. Find an empty server instead
+== Голосування не пройшло через вето. Знайдіть порожній сервер
+
+Vote failed
+== Голосування не пройшло
+
+Black hole captured
+== Чорна діра захоплена
+
+Black hole center around
+== Центр чорної діри поруч
+
+Black hole closer than ever
+== Чорна діра ближче, ніж будь-коли
+
+Guess where you are
+== Вгадайте, де ви
+
+Black hole control room
+== Кімната керування чорною дірою
+
+Black hole control you
+== Чорна діра контролює вас
+
+Here we are again
+== Ось ми знову тут
+
+Your find strange companion.
+== Ви знашли дивного компаньйона.
+
+You can place lasers only outside the map!
+== Ви можете розміщати лазери тільки за межами мапи!
+
+Intersection between positions not allowed.
+== Перетин між позиціями не дозволено.
+
+Reached lasers limit!
+== Досягнутий ліміт лазерів!
+
+You got random bonus: {} [{}].
+== Ви отримали випадковий бонус: {} [{}].
+
+Reverse mode '{}'
+== Зворотний режим '{}'
+
+You destroyed {}'s turret!
+== Ви знищили турель {}!
+
+'{}' has destroyed your turret!
+== '{}' знищив вашу турель!
+
+Purchase History
+== Исторія покупок
+
+Total Spent
+== Всього витрачено
+
+Shop Categories
+== Категорії магазину
+
+Manage Clan
+== Керування кланом
+
+View Last Deposits
+== Показати останні внески
+
+Clan Deposits
+== Внески клана
+
+You can deposit your cash to clan using /clan_deposit
+== Ви можете внести гроші в клан командою /clan_deposit
+
+⚠️The action can't be cancelled⚠️
+== ⚠️Дію не можна скасувати⚠️
+
+Last Deposits:
+== Останні внески:
+
+No any deposits right now.
+== Зараз немає ні одного внеска.
+
+Rewards
+== Нагороди
+
+Filter
+== Фільтр
+
+Daily Quest Rewards
+== Нагороди за щоденні квести
+
+Rating Rewards
+== Нагороди за рейтинг
+
+Daily Join Rewards
+== Награди за щоденний вхід
+
+Days left to claim all rewards
+== Залишилося днів, щоб забрати усі нагороди
+
+Next day reward
+== Нагорода за наступний день
+
+Your current day
+== Ваш поточний день
+
+There aren't any rules.
+== Правила відсутні.
+
+Warp to your dungeon
+== Телепорт у ваше підземелля
+
+Stand near the dungeon door to access the dungeon menu
+== Встаньте поруч із дверима підземелля
+
+Attack history
+== Історія атак
+
+Refresh attack history
+== Оновити історію атак
+
+No recent attackers. Refresh later
+== Нещодавніх атак немає. Оновіть пізніше.
+
+✔ Mark all as read
+== ✔ Позначити все як прочитане
+
+⬇ Receive all items
+== ⬇ Отримати всі предмети
+
+✘ Delete all read mails
+== ✘ Видалити всі прочитані листи
+
+\[Mails]
+== [Листи]
+
+You don't have any mails.
+== У вас немає листів.
+
+Showing the last {}/{} mails.
+== Показані останні {}/{} листів.
+
+Delete some mails to view more.
+== Видаліть частину листів, щоб побачити решту
+
+Nothing here
+== Тут нічого немає
+
+⬇ Receive items
+== ⬇ Отримувати предмети
+
+✘ Delete this mail
+== ✘ Видалити цей лист
+
+Date:
+== Дата:
+
+\[Items]
+== [Предмети]
+
+Search status:
+== Статус пошуку:
+
+Active
+== Активний
+
+Stopped
+== Зупинений
+
+Create search
+== Створити пошук
+
+Matches Search
+== Пошук матчів
+
+Any Game
+== Будь-яка гра
+
+Team sizes
+== Розміри команд
+
+Any Size
+== Будь-який розмір
+
+Sync server not connected to that game server
+== Синхронізаційний сервер не підключено
+
+Default
+== По замовчуванням
+
+Games motd
+== Ігровий MOTD
+
+Cosmetics
+== Косметика
+
+Any cosmetics
+== Будь-яка косметика
+
+Rarity
+== Рідкісність
+
+No owner
+== Немає власника
+
+Buy Cooldown
+== Затримка між покупками
+
+Bank: unavailable
+== Банк: недоступний
+
+Lives
+== Життя
+
+Raid info
+== Інформація про рейд
+
+Lock attempt in progress
+== Триває спроба зламування замка
+
+Break the door
+== Зламати двері
+
+Skip dungeon
+== Пропустити підземелля
+
+Door unlocked. Press fire to begin.
+== Двері відчинені. Натисніть «вогонь», щоб почати.
+
+Exit raid
+== Вийти з рейду
+
+Exit dungeon
+== Вийти із підземелля
+
+Resources
+== Ресурси
+
+Mine depleted
+== Шахта вичерпана
+
+Collect keys
+== Зібрати ключі
+
+Collect gold
+== Зібрати золото
+
+Mine
+== Шахта
+
+Raids
+== Рейди
+
+Lifetime
+== Час існування
+
+Age
+== Вік
+
+days
+== днів
+
+Finishes
+== Фініши
+
+Avg deaths
+== Середня кількість смертей
+
+Difficulty
+== Складність
+
+Move to new dungeon
+== Переїхати в нове підземелля
+
+Age unknown
+== Вік невідомий
+
+Play
+== Гра
+
+Upgrade trap
+== Покращити пастку
+
+Edit dungeon
+== Редагувати підземелля
+
+Search dungeon to raid (Reserve 1 Key)
+== Почати рейд (Резерв 1 ключ)
+
+Open attack history
+== Відкрити історію атак
+
+Actions
+== Дії
+
+Back to play mode
+== Назад в режим гри
+
+Start save mode
+== Увімкнути режим збереження
+
+Edit
+== Редагування
+
+Reset edit layout
+== Скинути стан редактора
+
+Save
+== Збереження
+
+Back to edit
+== Назад до редагування
+
+No raid in progress.
+== Рейд в даний момент не триває.
+
+Door already unlocked. Return to raid menu.
+== Двері вже відчинені. Поверніться в меню рейду.
+
+Just one lock is right, others broke your key!
+== Один замок вірний, інші зламають ключ!
+
+Door locks
+== Замки дверей
+
+picking...
+== зламування...
+
+wrong
+== неправильно
+
+Raid mode enabled. Max reward for ideal run: {}{}
+== Увімкнений режим рейду. Максимальна нагорода за ідеальний захід: {}{}
+
+Play mode enabled. Press fire to start your practice run.
+== Увімкнений режим гри. Натисніть «вогонь», щоб розпочати тренувальний захід.
+
+You are not in dungeon.
+== Ви не в підземеллі.
+
+Lock menu available only in raid mode.
+== Меню замків доступне лише в режимі рейду.
+
+Search next raid available only during raid.
+== Пошук наступного рейда доступний лише під час рейду.
+
+Dungeon world not found in cache.
+== Світ підземелля не знайдено в кеші.
+
+Already in requested mode.
+== Вже у запитаному режимі.
+
+Only the owner can do that action.
+== Тільки власник може виконати цю дію.
+
+Saving editor state...
+== Збереження стану редактора...
+
+Dungeon is currently unavailable. Please try again later.
+== Підземелля зараз недоступне. Будь ласка, спробуйте пізніше.
+
+Dungeon {} must fit completely inside the map.
+== Підземелля {} повинно повністю вміщуватися всередину мапи.
+
+Dungeon {} must stay one tile away from the border.
+== Підземелля {} повинно знаходитися на відстані однієї клітинки від межі.
+
+Dungeon {} requires a free area without solid tiles.
+== Для підземелля {} потрібна вільна ділянка без твердих сутностей.
+
+Dungeon {} cannot touch traps.
+== Підземелля {} не може торкатися з пастками.
+
+Place items available only in edit mode.
+== Розміщення предметів доступно тільки в режимі редагування.
+
+Dungeon owner data not found in cache.
+== Дані власника підземелля не знайдені в кеші.
+
+Items cannot be placed on dungeon doors or chests.
+== Предмети не можна розміщувати на дверях і скринях підземелля.
+
+Remove items available only in edit mode.
+== Видалення предметів доступно тільки в режимі редагування.
+
+Map create failed.
+== Не вдалося створити мапу.
+
+Map read failed.
+== Не вдалося прочитати мапу.
+
+Command available only inside dungeon game.
+== Команда доступна лише всередині гри в підземеллі.
+
+Join dungeons?
+== Зайти в підземелля?
+
+Failed to save editor state.
+== Не вдалося зберегти стан редактора.
+
+Collected {}{} from your mine (collection limit reached) and {}{} from raider defeats.
+== Зібрано {}{} з вашої шахти (ліміт збору досягнутий) і {}{} за поразку рейдерів.
+
+Collected {}{} from your mine and {}{} from raider defeats.
+== Зібрано {}{} з вашої шахти і {}{} за поразку рейдерів.
+
+Collected {}{} from your mine (collection limit reached).
+== Зібрано {}{} з вашої шахти (ліміт збору досягнутий).
+
+Collected {}{} from your mine.
+== Зібрано {}{} з вашої шахти.
+
+Collected {}{} from raider defeats in your dungeon.
+== Зібрано {}{} за поразку рейдерів у вашому підземеллі.
+
+Keys collect is disabled in configuration.
+== Збір ключів відключений в конфігурації.
+
+Dungeons upgrade is disabled in configuration.
+== Покращення підземелля вимкнуто в конфігурації.
+
+You claimed {}{} bounty!
+== Ви отримали нагороду {}{}!
+
+Specify a positive reward amount.
+== Вкажіть додатній розмір нагороди.
+
+Only the dungeon owner can create bounties.
+== Лише власник підземелля може створювати нагороди.
+
+You need {}{} to post this bounty.
+== Вам потрібно {}{}, щоб розмістити цю нагороду.
+
+Posted bounty for {}{}.
+== Нагорода на суму {}{} розміщена.
+
+Provide a valid bounty id.
+== Вкажіть коректний ID нагороди.
+
+Starting bounty raid for request #{}...
+== Запускається рейд за нагородою по заявці #{}...
+
+Selected bounty is no longer available.
+== Обрана нагорода більше недоступна.
+
+Raid mode enabled. Finish first to get bounty!
+== Режим рейда увімкнений. Завершіть першим, щоб отримати нагороду!
+
+Dungeon bounties
+== Награди підземелля
+
+Refresh list
+== Оновити список
+
+No active bounties.
+== Активних нагород немає.
+
+Create bounty
+== Створити нагороду
+
+Create a reward for first clear.
+== Створіть нагороду за перше проходження.
+
+Bounties cannot be canceled later.
+== Створені нагороди не можна буде відмінити.
+
+Reward in Reason
+== Нагорода в Reason
+
+min
+== хв
+
+Funds are charged immediately.
+== Кошті списуються одразу.
+
+Make bounty hunt
+== Створити полювання за нагородою
+
+Bounties
+== Нагороди
+
+View active bounties
+== Переглянути активні нагороди
+
+Create bounty hunt
+== Створити полювання за нагородою
+
+Bounty reward must be at least {}{}.
+== Розмір нагороди повинен бути не менш ніж {}{}.
+
+Prolong dungeon
+== Продовжити підземелля
+
+Run auto lockpick
+== Запустити автозламування
+
+Unlock the door via the vote menu or start auto lockpick to begin the raid.
+== Відчиніть двері через меню голосування або запустіть автозламування, щоб почати рейд.
+
+Auto lockpick available only in raid mode.
+== Автозламування доступне тільки в режимі рейду.
+
+No locks available for auto lockpick.
+== Немає замків, доступних для автозламування.
+
+Auto lockpick failed. No available keys.
+== Автозламування не вдалося. Немає доступних ключів.
+
+Auto lockpick stopped after {} tries. Not enough keys to unlock the door.
+== Автозламування зупинено після {} спроб. Недостатньо ключів, щоб відчинити двері.
+
+Door unlocked with {} keys! Press fire to begin the raid.
+== Двері відчинені за допомогою {} ключів! Натисніть «вогонь», щоб розпочати рейд.
+
+Refresh attack history
+== Оновіть історію атак
+
+Advent Calendar
+== Адвент-календар
+
+Advent calendar is disabled.
+== Адвент-календар відключений.
+
+Available from Dec 1 to Dec 24 only.
+== Доступний тільки з 1 по 24 грудня.
+
+Login to open advent gifts.
+== Увійдіть в гру, щоб відкрити подарунки адвент-календаря.
+
+Loading advent calendar data, try again in a moment.
+== Завантажуються дані адвент-календаря, спробуйте ще раз через деякий час.
+
+Today's gift is already opened.
+== Сьогоднішній подарунок вже відкритий.
+
+You need to be alive to open a gift.
+== Щоб відкрити подарунок, ви повинні бути живі.
+
+You opened day {} gift and received {}$ and {}!
+== Ви відкрили подарунок {}-го дня й отримали {}$ и {}!
+
+You opened day {} gift and received {}!
+== Ви відкрили подарунок {}-го дня й отримали {}!
+
+You opened day {} gift and received {}$!
+== Ви відкрили подарунок {}-го дня й отримали {}$!
+
+Today
+== Сьогодні
+
+December
+== Грудень
+
+Opens
+== Відкриття
+
+Dec 1 - Dec 24
+== 1–24 грудня
+
+Status
+== Статус
+
+already opened
+== вже відкритий
+
+ready to open
+== готовий до відкриття
+
+Open today's gift
+== Відкрити сьогоднішній подарунок
+
+Resetting dungeon edit layout...
+== Скидається макет підземелля...
+
+Dungeon door cannot overlap dungeon items.
+== Двері підземелля не можуть перекриватися з об'єктами підземелля.
+
+Dungeon chest cannot overlap dungeon items.
+== Скриня підземелля не може перекриватися з об'єктами підземелля.
+
+Dungeon
+== Підземелля
+
+No suitable dungeons found for your skill level.
+== Не знайдено підходящих підземель для вашого рівня навичок.
+
+Already in progress.
+== Уже в процесі.
+
+Dungeons
+== Підземелля
+
+\[{}] '{-}' claimed bounty #{} from '{-}' for {}{}.
+== [{}] '{-}' отримав нагороду #{} у '{-}' за {}{}.
+
+\[{}] '{-}' posted bounty #{} for {}{}!
+== [{}] '{-}' размістив нагороду #{} на {}{}!
+
+You cannot start a bounty raid on your own dungeon.
+== Ви не можете розпочати рейд за нагородою у власному підземеллі.
+
+Save your dungeon at least once before posting bounties.
+== Зберігайте своє підземелля хоча б один раз перед створенням нагороди.
+
+Save your dungeon at least once before sending raid invites.
+== Зберігайте своє підземелля хоча б один раз перед відправкою запрошень в рейд.
+
+Switch view world?
+== Переключити видимий світ?
+
+Become a starting zombie?
+== Стати першим зомбі?
+
+Run auto lockpick?
+== Запустити автозламування?
+
+Join {} dungeon?
+== Зайти в підземелля {}?
+
+Accept {} raid?
+== Прийняти рейд {}?
+
+You can change design only while playing your dungeon.
+== Ви можете змінювати дизайн лише під час гри в своєму підземеллі.
+
+Unknown dungeon design.
+== Невідомиц дизайн підземелля.
+
+This design is already applied.
+== Цей дизайн вже застосований.
+
+You need {}{} to change the design.
+== Вам потрібно {}{}, щоб змінити дизайн.
+
+Dungeon not ready to update design.
+== Підземелля не готове до оновлення дизайну.
+
+You don't have enough cash to change the design.
+== У вас недостатньо коштів, щоб змінити дизайн.
+
+Failed to change dungeon design.
+== Не вдалося змінити дизайн підземелля.
+
+Dungeon design changed to {}.
+== Дизайн підземелля змінено на {}.
+
+Bets
+== Ставки
+
+Jail time
+== Час в тюрмі
+
+Max score
+== Максимальний рахунок
+
+Max rounds
+== Максимум раундів
+
+Allowed weapons
+== Дозволена зброя
+
+Arena order
+== Порядок арен
+
+Random
+== Випадковий
+
+Sequential
+== Послідовний
+
+Select arenas
+== Обрати арени
+
+No arenas available.
+== Немає доступних арен.
+
+seconds
+== cекунд
+
+Duels
+== Дуелі
+
+You need to link your Discord account to activate the promocode.
+== Вам необхідно прив'язати Discord-акаунт для активації промокоду.
+
+Shop preview zone.
+== Зона прев'ю магазина.
+
+All cosmetic items from the shop are now available to try on.
+== Усі косметичні предмети з магазину тепер доступні для примірки.
+
+Activate them through your inventory: skins, hats, trails, effects.
+== Активуйте їх через інвентар: скіни, капелюхи, шлейфи, ефекти.
+
+After leaving the preview zone, your real loadout returns.
+Після виходу з прев'ю зони, ваше реальне спорядження повернеться
+
+Worlds Warp Lobby
+== Меню світів
+
+── Worlds Warp Lobby ──
+== ── Меню світів ──
+
+Page
+== Сторінка
+
+Map
+== Мапа
+
+Stars
+== Зірки
+
+Difficulty
+== Складність
+
+Players
+== Гравців
+
+Hit to warp
+== Постріл — варп
+
+Vote to create
+== Голос — нова мапа
+
+Vote to create new world
+== Голосуй щоб створити новий світ
+
+Jump to next page
+== Стрибок — наступна сторінка
+
+Aim at a bot and fire to warp into that world.
+== Прицілься в бота і вистріли, щоб телепортуватися в його світ.
+
+Press jump to switch pages, F4 to vote for a new map.
+== Натисни стрибок щоб перемикати сторінки, F4 щоб голосувати за нову мапу.
+
+Use /lobby from any world to return here.
+== Використовуй /lobby в будь-якому світі щоб повернутися сюди.
+
+World no longer loaded
+== Світ більше не завантажений
+
+You are already in lobby
+== Ти вже в лобі
+
+You must be alive to hug.
+== Щоб обійнятися, треба бути живим.
+
+You can't hug in solo mode.
+== В соло-режимі не можна обійматися.
+
+Hug is not available after race start.
+== Обійми недоступні після старту перегонів.
+
+Aim at a player to hug.
+== Прицільтеся в гравця щоб обійнятися.
+
+You need to be closer to the player to hug.
+== Потрібно бути ближче до гравця щоб обійнятися.
+
+You can't hug yourself.
+== Себе обійняти не можна.
+
+You need to be in the same world.
+== Потрібно бути в одному світі.
+
+You need to be in the same game.
+== Потрібно бути в одній грі.
+
+You need to be in the same team.
+== Потрібно бути в одній команді.
+
+That player has already started the race.
+== Цей гравець вже стартував перегонку.
+
+Hug with '{-}' ended.
+== Обійми з '{-}' завершено.
+
+You already have the maximum number of hugs.
+== У тебе вже максимум обіймів
+
+'{-}' already has the maximum number of hugs.
+== У '{-}' уже максимум обіймів.
+
+You hugged '{-}'.
+== Ти обійняв '{-}'.
+
+Hug request sent to '{-}'.
+== Запит на обійми надісланий '{-}'.
+
+'{-}' wants to hug you. Use /hug {-}.
+== '{-}' хоче обійнятися з тобою. Використовуй /hug {-}.
+
+Create lot
+== Сворити лот
+
+My lots
+== Мої лоти
+
+In game items
+== Ігрові предмети
+
+Upgrades
+== Покращення
+
+Laser ammo
+== Патрони для лазера
+
+Offers
+== Пропозиції
+
+Sold per unit, collected on the map.
+== Продається поштучно, збирається на мапі.
+
+No offers.
+== Пропозиції відсутні.
+
+No offers (or loading - Refresh).
+== Немає пропозицій (оновіть).
+
+left
+== залишилося
+
+Seller
+== Продавець
+
+Available
+== Доступно
+
+Price
+== Ціна
+
+Required level
+== Необхідний рівень
+
+your level
+== ваш рівень
+
+Buy
+== Купити
+
+Buy all
+== Купити все
+
+Buy N
+== Купити N
+
+Type amount in reason
+== Введите количество в поле причины
+
+Lot no longer available.
+== Лот більше недоступний.
+
+Lot no longer available - Refresh.
+== Лот більше недоступний — Оновіть.
+
+Your lots
+== Ваші лоти
+
+Set price
+== Змінити ціну
+
+Cancel
+== Скасувати
+
+You have no active lots.
+== У вас немає активних лотів.
+
+Pick an item to list
+== Оберіть предмет для продажі
+
+Nothing to sell.
+== Немає чого продавати.
+
+You own
+== У вас є
+
+Quantity
+== Кількість
+
+(reason, blank = all)
+== (в причині; порожньо — все)
+
+(reason)
+== (в причині)
+
+Currency
+== Валюта
+
+Set a price above 0 to create the lot.
+== Вкажіть ціну більшу за 0.
+
+Market
+== Ринок
+
+Enter the amount in the reason field.
+== Уведіть кількість в полі причиніц.
+
+Enter a price in the reason field.
+== Уведіть ціну в полі причини.
+
+Invalid price.
+== Недопустима ціна.
+
+Invalid currency.
+== Недопустима валюта.
+
+Invalid price (1..{}).
+== Неприпустима ціна (1..{}).
+
+Unknown item.
+== Невідомий предмет.
+
+This item can't be sold.
+== Цей предмет не можна продати.
+
+You don't own this item.
+== У вас немає цього предмету.
+
+You don't have any of this item.
+== У вас немає цього предмету.
+
+Invalid quantity (1..{}).
+== Неприпустима кількість (1..{}).
+
+You only have {}.
+== У вас тільки {}.
+
+Price is too large.
+== Ціна занадто велика.
+
+Not enough time left on this item to sell.
+== Занадто мало часу для продажі.
+
+You are not the owner of this room.
+== Ви не є власником цієї кімнати.
+
+Your character must be alive.
+== Персонаж має бути живим.
+
+You have no laser ammo.
+== У вас немає патронів лазера.
+
+You already have a laser-ammo lot in this currency.
+== Лот в цій валюті вже є.
+
+You have too many active lots.
+== Занадто багато активних лотів.
+
+Laser-ammo lot created.
+== Лот на патрони створений.
+
+Your character must be alive to receive ammo.
+== Потрібен живий персонаж для патронів.
+
+You can't buy your own lot.
+== Не можна купити власний лот.
+
+Price changed - refresh.
+== Ціна змінилася — оновіть.
+
+Seller is not available - lot canceled.
+== Продавець недоступний — лот скасований.
+
+Lot no longer has ammo.
+== В лоті більше немає патронів.
+
+Invalid amount.
+== Неприпустима кількість.
+
+Only {} available - refresh.
+== Доступно лише {} — оновіть.
+
+Total is too large.
+== Підсумкова сума занадто велика.
+
+Not enough {-}.
+== Недостатньо {-}.
+
+Bought {} laser ammo (-{} {-}).
+== Куплено {} патронів лазера (-{} {-}).
+
+Sold {} laser ammo (+{} {-}).
+== Продано {} патронів лазера (+{} {-}).
+
+Lot not found - refresh.
+== Лот не знайдений — оновіть.
+
+Price or quantity changed - refresh and try again.
+== Ціна/к-сть змінилися — оновіть.
+
+Seller no longer has this item - refresh.
+== У продавця немає товару — оновіть.
+
+You can't receive this item (owner limit reached).
+== Не можна отримати предмет (ліміт).
+
+Bought {-} (-{} {-}).
+== Куплено {-} (-{} {-}).
+
+Purchase failed - try again.
+== Покупка не вдалася — спробуйте ще раз.
+
+Sold {-} (+{} {-}).
+== Продано {-} (+{} {-}).
+
+Lot created.
+== Лот створений.
+
+Could not create the lot.
+== Не вдалося створити лот.
+
+Done.
+== Готово.
+
+You already have a lot for this item/currency. Edit or cancel it.
+== Лот для цього предмету/валюти є.
+
+You no longer own this room.
+== Ви більше не є власником цієї кімнати.
+
+You don't have enough of this item.
+== Недостатньо цього предмету.
+
+Not enough time left to sell.
+== Занадто мало часу для продажі.
+
+Price updated.
+== Ціна оновлена.
+
+(price is per unit)
+== (ціна за одиницю товару)
+
+(price is per day)
+== (ціна за день)
+
+Days
+== Дні
+
+Buy N days
+== Купити N днів
+
+Bought {} days of {-} (-{} {-}).
+== Куплено {} дн. {-} (-{} {-}).
+
+Sold {} days of {-} (+{} {-}).
+== Продано {} дн. {-} (+{} {-}).
+
+Permanent items can't be sold.
+== Постійні предмети не можна продати.
+
+Invalid day count (1..{}).
+== Неприпустима к-сть днів (1..{}).
+
+Stand on the market tile to use the market.
+== Станьте на клітинку ринку, щоб користуватися ним.
+
+Self-destruct arms {} seconds after spawn
+== Самознищення активується через {} сек. після появи
+
+FPV vehicles are disabled on this server.
+== FPV-транспорт вимкнений на цьому сервері.
+
+Dungeon cleared!
+== Підземелля пройдено!
+
+Paused on {}, press action button to resume
+== Пауза: {}. Натисніть кнопку дії, щоб продовжити
+
+Paused on {}, use /pause to join again
+== Пауза: {}. Використовуйте /pause, щоб повернутися в гру
+
+connection lost
+== втрата з'єднання
+
+rescue assist
+== порятунок
+
+team rescue assist
+== командний порятунок
+
+Could not start the vote
+== Не вдалося розпочати голосування
+
+Found {} tracks, use song_add <n>
+== Знайдено треків: {}, використовуй song_add <n>
+
+Lyrics disabled
+== Текст пісні вимкнений
+
+Lyrics enabled
+== Текст пісні увімкнений
+
+No such queue position
+== Немає такої позиції в черзі
+
+No such search result, use song_search first
+== Немає такого результату, спочатку виконай song_search
+
+Nothing found
+== Нічого не знайдено
+
+Nothing is playing right now
+== Зараз нічого не грає
+
+Now playing: {-} - {-} (requested by {-})
+== Зараз грає: {-} - {-} (замовив {-})
+
+Now playing: {-} - {-} [{-} / {-}]
+== Зараз грає: {-} - {-} [{-} / {-}]
+
+Please wait {} seconds before searching again
+== Зачекай {} секунд перед наступним пошуком
+
+Refunded {} for '{-} - {-}': {}
+== Повернено {} за '{-} - {-}': {}
+
+Searching for '{-}'...
+== Шукаю '{-}'...
+
+Skip voting is disabled
+== Голосування за пропуск вимкнено
+
+Song search failed: {-}
+== Пошук не вдався: {-}
+
+That is not your track
+== Це не твій трек
+
+That track is already playing, use song_skip
+== Цей трек вже грає, використовуй song_skip
+
+That track is too long
+== Цей трек занадто довгий
+
+The music player is disabled
+== Музичний плеєр вимкнено
+
+The queue is empty
+== Черга порожня
+
+The song queue was cleared
+== Черга треків очищена
+
+Type the search query in the reason field
+== Введи пошуковий запит у поле причини
+
+Usage: song_search <query>
+== Використання: song_search <запрос>
+
+You already have the maximum number of queued tracks
+== У тебе вже максимум треків в черзі
+
+You are not in game
+== Ти не в грі
+
+You are not in the music world
+== Ти не в музичному світі
+
+You cannot afford that track
+== Тобі не вистачає коштів на цей трек
+
+You must be logged in
+== Потрібно увійти в акаунт
+
+You must be logged in to queue a track
+== Потрібно увійти в акаунт, щоб замовити трек
+
+Your level is too low to queue a track
+== Твій рівень занадто малий, щоб замовляти треки
+
+You must be logged in to search for tracks
+== Треба увійти в акаунт, щоб шукати треки
+
+Your previous search is still running
+== Твій попередній пошук ще виконується
+
+{-} queued '{-} - {-}' for {}$
+== {-} замовив '{-} - {-}' за {}
+
+Music
+== Музика
+
+Queue
+== Черга
+
+Vote to skip
+== Голосування за пропуск
+
+Price per second
+== Ціна за секунду
+
+Search cooldown
+== Кулдаун пошуку
+
+No results yet
+== Результатів поки немає
+
+Nothing is playing
+== Нічого не грає
+
+Remove (refund)
+== Прибрати (з поверненням)
+
+That track cannot be played
+== Цей трек не можна відтворити
+
+That result is no longer available
+== Цей результат більше недоступний
+
+A vote to skip this track is already running
+== Голосування за пропуск цього трека вже триває
+
+The current track was skipped
+== Поточний трек був пропущений
+
+you removed the track
+== ти прибрав трек
+
+track skipped before it started
+== трек пропущений до початку відтворення
+
+queue cleared
+== черга очищена
+
+the world could not be reloaded
+== не вдалося перезавантажити світ
+
+the track id was rejected
+== ідентифікатор треку відхилений
+
+the track could not be prepared
+== не вдалося підготувати трек
+
+the track could not be downloaded
+== не вдалося завантажити трек
+
+Paid {}$ for this track, your balance is now {}$
+== Списано {}$ за трек, на рахунку залишилося {}$
+
+No lyrics available for this track
+== Для цього треку немає тексту
+
+Queue is empty, returning to the base map
+== Черга порожня, повертаємоя на базову мапу
+
+Search in reason field
+== Пошук: у полі причини
+
+Max 15 characters
+== Максимум 15 символів
+
+Longer: use /song_search
+== Довше — через /song_search
+
+Music Box
+== Музична скринька
+
+<Name>
+== <Назва>
+
+<index>
+== <номер>
+
+Please wait {} seconds before starting another skip vote
+== Зачекай {} секунд перед наступним голосуванням за пропуск
+
+That track is already in the queue
+== Цей трек вже в черзі
