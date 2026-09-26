@@ -2942,7 +2942,7 @@ No points for dummy.
 == Немає очок для даммі.
 
 Block zone not triggered.
-Зона блока не активовано.
+== Зона блока не активовано.
 
 No block points for afk players.
 == Немає очок за блок для AFK-гравців.
@@ -3944,7 +3944,7 @@ Activate them through your inventory: skins, hats, trails, effects.
 == Активуйте їх через інвентар: скіни, капелюхи, шлейфи, ефекти.
 
 After leaving the preview zone, your real loadout returns.
-Після виходу з прев'ю зони, ваше реальне спорядження повернеться
+== Після виходу з прев'ю зони, ваше реальне спорядження повернеться
 
 Worlds Warp Lobby
 == Меню світів
