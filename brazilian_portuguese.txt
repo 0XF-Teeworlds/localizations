@@ -1840,6 +1840,9 @@ You are sending reports too fast.
 Effects
 == Efeitos
 
+Pets
+== Mascotes
+
 Skins
 == Skins
 
