@@ -4546,3 +4546,9 @@ Bot challenge queue: you are {} of {}. Reward: {} per point.
 Bot challenge: your duel is about to start.
 == Desafio do bot: seu duelo vai começar em breve.
 
+Bot challenge: you can queue again in {} s.
+== Desafio do bot: você pode entrar na fila de novo em {} s.
+
+Fighting the bot now
+== Lutando contra o bot agora
+
