@@ -4549,3 +4549,9 @@ Bot challenge: you can queue again in {} s.
 Fighting the bot now
 == Сейчас с ботом дерётся
 
+Your duel against the bot starts!
+== Твоя дуэль с ботом начинается!
+
+Bot challenge queue: you are {} of {}.
+== Очередь на бота: ты {} из {}.
+
