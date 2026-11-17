@@ -4525,3 +4525,24 @@ Please wait {} seconds before starting another skip vote
 That track is already in the queue
 == Essa faixa já está na fila
 
+Your duel against the bot starts! Every point you score pays {}.
+== Seu duelo contra o bot começa! Cada ponto que você marcar paga {}.
+
+Bot duel could not start: {}
+== Não foi possível iniciar o duelo contra o bot: {}
+
+Log in to get rewards for points against the bot.
+== Faça login para receber recompensas por pontos contra o bot.
+
+Today's bot challenge budget is spent: no reward for this point.
+== O orçamento de hoje do desafio do bot acabou: sem recompensa por este ponto.
+
++{} for a point against the bot!
+== +{} por um ponto contra o bot!
+
+Bot challenge queue: you are {} of {}. Reward: {} per point.
+== Fila do desafio do bot: você é {} de {}. Recompensa: {} por ponto.
+
+Bot challenge: your duel is about to start.
+== Desafio do bot: seu duelo vai começar em breve.
+

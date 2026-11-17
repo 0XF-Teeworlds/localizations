@@ -4522,3 +4522,24 @@ Please wait {} seconds before starting another skip vote
 That track is already in the queue
 == Этот трек уже в очереди
 
+Your duel against the bot starts! Every point you score pays {}.
+== Твоя дуэль с ботом начинается! Каждое твоё очко приносит {}.
+
+Bot duel could not start: {}
+== Дуэль с ботом не удалось начать: {}
+
+Log in to get rewards for points against the bot.
+== Войди в аккаунт, чтобы получать награду за очки против бота.
+
+Today's bot challenge budget is spent: no reward for this point.
+== Сегодняшний бюджет наград за бота исчерпан: за это очко награды нет.
+
++{} for a point against the bot!
+== +{} за очко против бота!
+
+Bot challenge queue: you are {} of {}. Reward: {} per point.
+== Очередь на бота: ты {} из {}. Награда: {} за очко.
+
+Bot challenge: your duel is about to start.
+== Бой с ботом: твоя дуэль скоро начнётся.
+
