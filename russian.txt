@@ -4555,3 +4555,53 @@ Your duel against the bot starts!
 Bot challenge queue: you are {} of {}.
 == Очередь на бота: ты {} из {}.
 
+Red Name
+== Красный ник
+
+Your name will shimmer with red
+== Ваш никнейм будет переливаться красным цветом
+
+Orange Name
+== Оранжевый ник
+
+Your name will shimmer with orange
+== Ваш никнейм будет переливаться оранжевым цветом
+
+Gold Name
+== Золотой ник
+
+Your name will shimmer with gold ✨
+== Ваш никнейм будет переливаться золотым цветом ✨
+
+Green Name
+== Зелёный ник
+
+Your name will shimmer with green
+== Ваш никнейм будет переливаться зелёным цветом
+
+Cyan Name
+== Бирюзовый ник
+
+Your name will shimmer with cyan
+== Ваш никнейм будет переливаться бирюзовым цветом
+
+Blue Name
+== Синий ник
+
+Your name will shimmer with blue
+== Ваш никнейм будет переливаться синим цветом
+
+Purple Name
+== Фиолетовый ник
+
+Your name will shimmer with purple
+== Ваш никнейм будет переливаться фиолетовым цветом
+
+Pink Name
+== Розовый ник
+
+Your name will shimmer with pink
+== Ваш никнейм будет переливаться розовым цветом
+
+Rainbow Name
+== Радужный ник
