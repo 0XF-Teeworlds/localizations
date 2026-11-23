@@ -4534,6 +4534,15 @@ Bot duel could not start: {}
 Log in to get rewards for points against the bot.
 == Faça login para receber recompensas por pontos contra o bot.
 
+'{-}' beat the bot in the bot challenge!
+== '{-}' venceu o bot no desafio do bot!
+
+You beat the bot! Log in next time to get the {} reward.
+== Você venceu o bot! Faça login da próxima vez para receber a recompensa de {}.
+
+You beat the bot! +{} reward.
+== Você venceu o bot! Recompensa de +{}.
+
 Today's bot challenge budget is spent: no reward for this point.
 == O orçamento de hoje do desafio do bot acabou: sem recompensa por este ponto.
 

@@ -4531,6 +4531,15 @@ Bot duel could not start: {}
 Log in to get rewards for points against the bot.
 == Войди в аккаунт, чтобы получать награду за очки против бота.
 
+'{-}' beat the bot in the bot challenge!
+== '{-}' победил бота в дуэли!
+
+You beat the bot! Log in next time to get the {} reward.
+== Ты победил бота! В следующий раз войди в аккаунт, чтобы получить награду {}.
+
+You beat the bot! +{} reward.
+== Ты победил бота! Награда +{}.
+
 Today's bot challenge budget is spent: no reward for this point.
 == Сегодняшний бюджет наград за бота исчерпан: за это очко награды нет.
 
