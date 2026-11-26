@@ -4531,6 +4531,9 @@ Bot duel could not start: {}
 Log in to get rewards for points against the bot.
 == Войди в аккаунт, чтобы получать награду за очки против бота.
 
+All {} Expert bot duels are taken, try again in a minute.
+== Все {} дуэли с Expert-ботом заняты, попробуй через минуту.
+
 '{-}' beat the bot in the bot challenge!
 == '{-}' победил бота в дуэли!
 

@@ -4534,6 +4534,9 @@ Bot duel could not start: {}
 Log in to get rewards for points against the bot.
 == Faça login para receber recompensas por pontos contra o bot.
 
+All {} Expert bot duels are taken, try again in a minute.
+== Todos os {} duelos contra o bot Expert estão ocupados, tente de novo em um minuto.
+
 '{-}' beat the bot in the bot challenge!
 == '{-}' venceu o bot no desafio do bot!
 
